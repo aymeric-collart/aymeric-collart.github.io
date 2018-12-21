@@ -7,3 +7,5 @@ author_profile: true
 
 Add link to the blog <br>
 Add link to Flickr
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/161476424@N05/albums/72157704418162005" title="The Taipei I live in | 我認識台北"><img src="https://farm5.staticflickr.com/4872/32304951858_2064b6a79e_z.jpg" width="640" height="363" alt="The Taipei I live in | 我認識台北"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
