@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "National Taiwan Normal University, Taipei",
+    25.026288,
+    121.527536
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "ICPEAL 17 – CLDC 9",
+    25.020090,
+    121.540369
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "CLSW 19",
+    23.563328,
+    120.472965
   ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ]
 ];
