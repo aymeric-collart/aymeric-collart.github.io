@@ -14,7 +14,8 @@ redirect_from:
 ### Ph.D in Linguistics/Neurolinguistics, 2017 - today
 National Taiwan Normal University, [Department of English](http://www.eng.ntnu.edu.tw/en/) <br>
 Dissertation: Time Processing in a Tenseless Language: The Case of Taiwan Mandarin (working title) <br>
-Supervisor: Prof. [Chan Shiao-hui](http://www.eng.ntnu.edu.tw/en/members/bio.php?PID=149), Co-advisor: Prof. [Elizabeth Zeitoun](http://www.ling.sinica.edu.tw/v3-3-1_en.asp-auserid=21.htm)
+Supervisor: Prof. [Chan Shiao-hui](http://www.eng.ntnu.edu.tw/en/members/bio.php?PID=149), Co-advisor: Prof. [Elizabeth Zeitoun](http://www.ling.sinica.edu.tw/v3-3-1_en.asp-auserid=21.htm) <br1
+Certificat of Completion of "“Academic Research Ethics Education Courses" from the [Center for Taiwan Academic Research Ethics Education](https://ethics.moe.edu.tw/), Ministry of Education, Taiwan
 ### M.S. in Lingusitics, 2017
 University of Paris Diderot, [Department of Linguistics](http://www.linguist.univ-paris-diderot.fr/presentation_anglais) <br>
 Subfield: Teaching French as a second language <br>
@@ -73,6 +74,10 @@ Reception for new students applications and orientation for students' class choi
   * LaTeX
   
 ## Workshops and Practical Experiences
+
+### fMRI Safety Training Course, 2018-12-28
+[Imaging Center for Integrated Body, Mind and Culture Research](http://mrimeg.psy.ntu.edu.tw/doku.php), National Taiwan University. <br>
+Presentation of the facilities of the center, talks about safety issues when running an fMRI experiment
 
 ### fMRI data preprocessing and analysis, 2018-12-26
 [Taiwan Brain and Imaging Center](http://tmbic.nccu.edu.tw/main.php), National Chengchi University. <br>
