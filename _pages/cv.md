@@ -15,7 +15,7 @@ redirect_from:
 National Taiwan Normal University, [Department of English](http://www.eng.ntnu.edu.tw/en/) <br>
 Dissertation: Time Processing in a Tenseless Language: The Case of Taiwan Mandarin (working title) <br>
 Supervisor: Prof. [Chan Shiao-hui](http://www.eng.ntnu.edu.tw/en/members/bio.php?PID=149), Co-advisor: Prof. [Elizabeth Zeitoun](http://www.ling.sinica.edu.tw/v3-3-1_en.asp-auserid=21.htm) <br>
-Certificat of Completion of "Academic Research Ethics Education Courses" from the [Center for Taiwan Academic Research Ethics Education](https://ethics.moe.edu.tw/), Ministry of Education, Taiwan
+Completion of "Academic Research Ethics Education Courses" from the [Center for Taiwan Academic Research Ethics Education](https://ethics.moe.edu.tw/), Ministry of Education, Taiwan
 ### M.S. in Lingusitics, 2017
 University of Paris Diderot, [Department of Linguistics](http://www.linguist.univ-paris-diderot.fr/presentation_anglais) <br>
 Subfield: Teaching French as a second language <br>
