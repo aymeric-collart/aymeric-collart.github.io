@@ -75,6 +75,10 @@ Reception for new students applications and orientation for students' class choi
   
 ## Workshops and Practical Experiences
 
+### Lectures on the MEG technique and hands-on practice, 2019-01-17
+[Imaging Center for Integrated Body, Mind and Culture Research](http://mrimeg.psy.ntu.edu.tw/doku.php?id=news:20181223), National Taiwan University. <br>
+Presentation of what the MEG (Magneto-EncephaloGraphy) consist in, how they can be applied in linguistic research, hands-on practice for the set up of an MEG experiment
+
 ### fMRI Safety Training Course, 2018-12-28
 [Imaging Center for Integrated Body, Mind and Culture Research](http://mrimeg.psy.ntu.edu.tw/doku.php), National Taiwan University. <br>
 Presentation of the facilities of the center, talks about safety issues when running an fMRI experiment
