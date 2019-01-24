@@ -15,7 +15,7 @@ var addressPoints = [
     120.472965
   ],
   [
-    "CUNY 32",
+    "The 32nd CUNY Conference on Human Sentence Processing",
     40.017768,
     -105.260064
   ],
