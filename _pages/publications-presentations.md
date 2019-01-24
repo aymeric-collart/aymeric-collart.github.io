@@ -11,7 +11,7 @@ Slides upon request. You may contact me by email.
 # Presentations
 ## Oral presentations
 
-* <font size="3"><ins>Collart, A.</ins> & Chan, S. (2019, March). <b>Aspect is distinct from time reference: An ERP study of the perfective marker -le in Mandarin Chinese</b>. Paper presented at the 32nd CUNY Conference on Human Sentence Processing. University of Colorado Boulder, Boulder (Colorado), USA.</font> (poster) [Abstract (still not available)] 
+* <font size="3"><ins>Collart, A.</ins> & Chan, S. (2019, March). <b>Aspect is distinct from time reference: An ERP study of the perfective marker -le in Mandarin Chinese</b>. Paper presented at the 32nd CUNY Conference on Human Sentence Processing. University of Colorado Boulder, Boulder (Colorado), USA.</font> (poster) [Abstract still not available] 
 
 
 * <font size="3"><ins>Collart, A.</ins> (2018, October). <b>Same interpretation, different process? The case of verbal-le and You+VP in Taiwan Mandarin</b>. Paper presented at the joint conference ICPEAL 17 – CLDC 9 (the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition). National Taiwan University, Taipei, Taiwan.</font> (talk) [Abstract](https://aymeric-collart.github.io/files/ICPEAL17_CLDC9_abstract_final_AymericCollart.pdf) 
