@@ -19,4 +19,9 @@ var addressPoints = [
     40.017768,
     -105.260064
   ],
+    [
+    "The 20th National Conference on Linguistics",
+    24.785849,
+    121.000371
+  ],
 ];
