@@ -4,11 +4,18 @@ permalink: /publications-presentations/
 author_profile: true
 
 ---
+
+---
+# Publications
+---
+* <font size="3"><ins>Collart, A.</ins> & Chan, S. (In prep.). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. (working title)</font> (poster) [Abstract]
+
+---
+# Presentations
 ---
 Slides upon request. You may contact me by email.
 
 ---
-# Presentations
 ## Accepted presentations (to be presented)
 * <font size="3"><ins>Collart, A.</ins> (2020, December). <b>Des surfaces similaires pour des sens différents : une analyse contrastive de l’auxiliaire avoir du passé composé en français et de you + verbe du mandarin de Taïwan</b> (Similar surface interpretations for different meanings: a contrastive analysis of the past auxiliary 'avoir' to have in French and you + verb in Taiwan Mandarin). Paper to be presented at the Assises des études taïwanaises francophones. Venue TBA, Paris, France. </font> (talk) [Abstract]
 
@@ -31,6 +38,3 @@ Slides upon request. You may contact me by email.
 
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
-
----
-# Publications
