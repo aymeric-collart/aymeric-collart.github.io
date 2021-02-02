@@ -14,4 +14,4 @@ I am a PhD candidate in neurolinguistics at the department of English of Nationa
 
 I am also the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University, where ERP experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing, conceptual categorization, etc.
 
-<font size="1">Last update: 2020/04/05</font>
+<font size="1">Last update: 2021/02/02</font>
