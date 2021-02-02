@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## PhD student in Neurolinguistics <br> <br> National Taiwan Normal University
+## PhD candidate in Neurolinguistics <br> <br> National Taiwan Normal University
 
 I am a PhD candidate in neurolinguistics at the department of English of National Taiwan Normal University, under the supervision of Prof. Chan Shiao-hui and Prof. Elizabeth Zeitoun. My research interests lie in the neurolinguistic and psycholinguistic domains, mostly about sentence processing. I am particularly interested in syntactic and semantic processing, with a focus on the processing of temporality (tense, aspect, modality) in language. Therefore, I conduct my research on Mandarin Chinese and Taiwan Mandarin (among others) for their specifities about temporality.
 
