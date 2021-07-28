@@ -10,7 +10,7 @@ author_profile: true
 
 * <font size="3"><ins>Collart, A.</ins> and Chan, S. (2021). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. <i>Journal of Neurolinguistics</i>, 59, 100998.</font>
 
-* <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (Under review). <b>TWhen two languages are competing: An ERP study on sentence processing in
+* <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (Under review). <b>When two languages are competing: An ERP study on sentence processing in
 expert and novice interpreters</b>.</font>
 
 * <font size="3"><ins>Collart, A.</ins>, and Su, H.-K. (Submitted). <b>When an event subjectively exists in time: A corpus-based investigation of the ‘you (to have) + VP’ construction in Taiwan Mandarin</b>.</font>
