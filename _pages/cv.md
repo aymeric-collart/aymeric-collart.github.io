@@ -62,13 +62,16 @@ Reception for new students applications and orientation for students' class choi
   * English – Cambridge-First (FCE, B2)
   * Mandarin – TOCFL, level 5
   * German – Goethe-Zertifikat B1
+
 ### <b>Data processing</b>
   * R: graphic representation, descriptive and inferential statistics
   * MATLAB: processing of EEG/ERP data (EEGLAB & ERPLAB), processing of fMRI data (SPM12)
+
 ### <b>Data Collection</b>
   * E-Prime: experimental design for ERP and fMRI experiments
   * CLAN (CHILDES): corpus search, transcription of short videos
   * Ibex Farm: experimental design for online psycholinguistic experiments (acceptability judgments, questions, sentence completion), data extraction
+
 ### <b>Office</b>
   * Pack Office
   * LaTeX
