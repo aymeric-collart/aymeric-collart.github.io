@@ -15,7 +15,9 @@ expert and novice interpreters</b>.</font>
 
 * <font size="3"><ins>Collart, A.</ins>, and Su, H.-K. (Submitted). <b>When an event subjectively exists in time: A corpus-based investigation of the ‘you (to have) + VP’ construction in Taiwan Mandarin</b>.</font>
 
-## Manuscripts
+---
+---
+# Manuscripts
 * <font size="3"><ins>Collart, A.</ins> (in preparation). <b>A time-relational and neurocognitive perspective of the temporal constraints of the Mandarin perfective marker <i>-le</i></b>. (Working title)</font>
 
 ---
