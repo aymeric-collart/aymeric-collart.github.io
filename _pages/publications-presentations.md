@@ -7,15 +7,17 @@ author_profile: true
 
 ---
 # Publications
+
+* <font size="3"><ins>Collart, A.</ins> and Chan, S. (2021). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. <i>Journal of Neurolinguistics</i>, 59, 100998.</font>
+
+* <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (Under review). <b>TWhen two languages are competing: An ERP study on sentence processing in
+expert and novice interpreters</b>.</font>
+
+* <font size="3"><ins>Collart, A.</ins>, and Su, H.-K. (Submitted). <b>When an event subjectively exists in time: A corpus-based investigation of the ‘you (to have) + VP’ construction in Taiwan Mandarin</b>.</font>
+* 
 ## Manuscripts
 * <font size="3"><ins>Collart, A.</ins> (in preparation). <b>A time-relational and neurocognitive perspective of the temporal constraints of the Mandarin perfective marker <i>-le</i></b>. (Working title)</font>
 
-* <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (in preparation). <b>Thinking too much? Event-related potentials may reveal how expert interpreters differ from novice ones in anticipation</b>. (Working title)</font>
-
-* <font size="3"><ins>Collart, A.</ins>, and Su, H.-K. (in preparation). <b>A corpus-based investigation of '<i>you</i> 'to have' + VP' in Taiwan Mandarin: An existential marker for predicates?</b> (Working title)</font>
-
-## Accepted publications
-* <font size="3"><ins>Collart, A.</ins> and Chan, S. (in press). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. <i>Journal of Neurolinguistics.</i></font>
 ---
 ---
 # Presentations
