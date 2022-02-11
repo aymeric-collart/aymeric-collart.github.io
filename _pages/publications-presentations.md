@@ -6,4 +6,6 @@ author_profile: true
 
 ---
 
-Test with new text
+Test with new text, maybe changed
+
+{% include base_path %}
