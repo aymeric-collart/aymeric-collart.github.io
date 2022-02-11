@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
-Test with new text, maybe changed
+Test with new text, maybe changed another time
 
 {% include base_path %}
+{% assign ordered_pages = site.PublicationsPresentation | sort:"order_number" %}
