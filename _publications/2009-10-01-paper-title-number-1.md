@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021_CollartChan
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+link: 'https://doi.org/10.1016/j.jneuroling.2021.100998'
+venue: 'Journal of Neurolinguistics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Collart, A., and Chan, S. (2021). &quot;Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes -le and -guo.&quot; <i>Journal of Neurolinguistics</i>. 100998. doi:10.1016/j.jneuroling.2021.100998'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
