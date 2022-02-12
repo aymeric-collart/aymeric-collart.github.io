@@ -33,6 +33,6 @@ Test include image with link (github)
 
 Test include image with link (html)
 
-<a href="https://aymeric-collart.github.io/publications/"
+<a href="https://aymeric-collart.github.io/publications/">
    <img src="/images/site-logo.png" alt="Image new description">
 </a>
