@@ -1,9 +1,11 @@
 ---
 title: "Presentations"
-collection: communications
+collection: publications-presentations
+excerpt: "<img src='/images/site-logo.png' alt=''>"
 permalink: /publications-presentations/presentations
 highlight: true
-excerpt_image: '/images/pubs/head.png'
+header: 
+  og_image: "/images/site-logo.png"
 ---
 
 Test for presentation page
