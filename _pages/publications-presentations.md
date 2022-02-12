@@ -9,7 +9,7 @@ author_profile: true
 Page under reconstruction, please refer to my CV for my latest publications
 
 
- [Presentations](https://neurolinguisticslabntnu.wordpress.com/)
+ [Publications](https://aymeric-collart.github.io/publications/)
  
- ![/images/pubs/head.png](https://neurolinguisticslabntnu.wordpress.com/)
+ ![/images/pubs/head.png]
 
