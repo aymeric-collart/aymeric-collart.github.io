@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /communications
 title: "Communications"
 excerpt: "Publications and presentations"
 author_profile: true
