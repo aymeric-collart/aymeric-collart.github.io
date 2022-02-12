@@ -9,8 +9,17 @@ author_profile: true
 Page under reconstruction, please refer to my CV for my latest publications
 
 
- [Publications](https://aymeric-collart.github.io/publications/)
+
+====================================================
+
+Test include link
+
+[Publications](https://aymeric-collart.github.io/publications/)
  
- ![Image new new description](/images/site-logo.png)
+Test include image with GitHub grammar
+
+![Image new new description](/images/site-logo.png)
+
+Test include image with html
  
- <img src="https://github.com/aymeric-collart/aymeric-collart.github.io/blob/master/images/site-logo.png" alt="Image new description">
+<img src="/images/site-logo.png" alt="Image new description">
