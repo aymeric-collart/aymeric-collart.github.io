@@ -1,6 +1,10 @@
+---
+permalink: /
+title: "Communications"
+excerpt: "Publications and presentations"
+author_profile: true
 
-
-====================================================
+---
 
 
 Test include image with link (github)
