@@ -1,6 +1,6 @@
 ---
 title: "Presentations"
-collection: publications-presentations
+collection: communications
 permalink: /publications-presentations/presentations
 highlight: true
 excerpt_image: '/images/pubs/head.png'
