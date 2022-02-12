@@ -23,3 +23,16 @@ Test include image with GitHub grammar
 Test include image with html
  
 <img src="/images/site-logo.png" alt="Image new description">
+
+
+==========================
+
+Test include image with link (github)
+
+[![Image new new description](/images/site-logo.png)](https://aymeric-collart.github.io/publications/)
+
+Test include image with link (html)
+
+<a href="https://aymeric-collart.github.io/publications/"
+   <img src="/images/site-logo.png" alt="Image new description">
+</a>
