@@ -44,16 +44,9 @@ Other tests
 <h1>Select publications</h1>
 
 {% for post in site.publications reversed %}
-  {% if post.highlight %}
-    {% if post.permalink contains 'preprint' %}
-      {% if post.ispublishedpreprint %}
-      {% else %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% else %}
-        {% include archive-single.html %}
-    {% endif %}
-  {% endif %}
+
+{% include archive-single.html %}
+
 {% endfor %}
 
 <hr/>
