@@ -11,4 +11,4 @@ Page under reconstruction, please refer to my CV for my latest publications
 
  [Publications](https://aymeric-collart.github.io/publications/)
  
- <img src="images/pubs/head.png" alt="Image description">
+ <img src="https://github.com/aymeric-collart/aymeric-collart.github.io/blob/master/images/site-logo.png" alt="Image description">
