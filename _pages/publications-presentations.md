@@ -43,7 +43,7 @@ Other tests
 
 <h1>Select publications</h1>
 
-{% for post in site.publications reversed %}
+{% for post in site.PublicationsPresentations reversed %}
 
 {% include archive-single.html %}
 
