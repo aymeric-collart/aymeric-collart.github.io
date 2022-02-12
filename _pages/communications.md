@@ -23,7 +23,7 @@ Other tests
 
 <h1>Select publications</h1>
 
-{% for post in site.publications reversed %}
+{% for post in site.communications reversed %}
 
 {% include archive-single.html %}
 
