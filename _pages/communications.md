@@ -1,11 +1,11 @@
 ---
-permalink: /communications
+layout: archive
+permalink: /communications/
 title: "Communications"
-excerpt: "Publications and presentations"
 author_profile: true
-
+header:
+  og_image: "pubs/head.png"
 ---
-
 
 Test include image with link (github)
 
