@@ -9,7 +9,7 @@ author_profile: true
 # Publications
 
 * <font size="3"><ins>Collart, A.</ins>, and Su, H.-K. (Under review after revision). <b>Encoding the existence of an event
-with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b>.</font>
+with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b></font>
 
 * <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (Forthcoming). <b>When two languages are competing: An ERP study on sentence processing in
   expert and novice interpreters</b>. <i>Interpreting</i>, Issue TBA. Available Online First: https://t.co/ib7hmWSfvw?amp=1</font>
@@ -21,11 +21,11 @@ with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.<
 # Manuscripts
 * <font size="3"><ins>Collart, A.</ins> (in preparation). <b>A time-relational and neurocognitive perspective of the temporal constraints of the Mandarin perfective marker <i>-le</i></b>. (Working title)</font>
 
-* <font size="3"><ins>Collart, A.</ins>, and Chan, S. (in preparation). Processing past time and aspect in the Mandarin brain: What is it all about? (Working title)</font>
+* <font size="3"><ins>Collart, A.</ins>, and Chan, S. (in preparation). <b>Processing past time and aspect in the Mandarin brain: What is it all about?</b> (Working title)</font>
 
-* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (in preparation). Past and future temporal reference teased apart in Paiwan, an uncommon language: A psycholinguistic study. (Working title)</font>
+* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (in preparation). <b>Past and future temporal reference teased apart in Paiwan, an uncommon language: A psycholinguistic study.</b> (Working title)</font>
 
-* <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). Applying random forests analyses on emerging syntactic constructions: The case of ‘you (to have) + VP’ in Taiwan Mandarin. (working title)</font>
+* <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). <b>Applying random forests analyses on emerging syntactic constructions: The case of ‘you (to have) + VP’ in Taiwan Mandarin.</b> (working title)</font>
 
 ---
 ---
@@ -40,7 +40,7 @@ Slides upon request. You may contact me by email.
 * <font size="3"><ins>Collart, A.</ins> & Chan, S. (TBA). <b>Aspect, mood and time in Mandarin: ERPs reveal counter-evidence for discourse linking hypothesis</b>. Paper to be presented at the 2nd Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Venue TBA, Macao, China. (Conference postponed due to the COVID-19 outbreak)</font> (poster) [Abstract]
 
 ## Past presentations
-* <font size="3"><ins>Collart, A.</ins>, and Chan, S. (2021, November). Processing past time and discontinuity aspect: Event-related potentials reveal different neuronal brain responses elicited by the Mandarin verbal morpheme -guo. Paper presented at the 3rd International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-3). National Tsing Hua University, Hsinchu, Taiwan.</font> (talk) [abstract]
+* <font size="3"><ins>Collart, A.</ins>, and Chan, S. (2021, November). <b>Processing past time and discontinuity aspect: Event-related potentials reveal different neuronal brain responses elicited by the Mandarin verbal morpheme -guo</b>. Paper presented at the 3rd International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-3). National Tsing Hua University, Hsinchu, Taiwan.</font> (talk) [abstract]
 
 * <font size="3"><ins>Collart, A.</ins> (2020, November). <b>Aspect of pasts in Mandarin: An ERP study on the temporal restriction of the perfectives <i>-le</i> and <i>-guo</i></b>. Paper to be presented at the 21st National Conference on Linguistics. National Sun Yat-sen University, Kaohsiung, Taiwan.</font> (poster) [Abstract]
 
