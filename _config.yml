@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Aymeric Collart"
-  avatar           : "line_113262724160120.jpg"
-  bio              : "PhD student in the Department of English, <b>National Taiwan Normal University</b>"
+  avatar           : "PicSite.jpg"
+  bio              : "PhD in Linguistics and Neurolinguistics
   location         : "Taipei, Taiwan"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : @AymericCollart
   vine             :
   weibo            :
   xing             :
