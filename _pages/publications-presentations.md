@@ -12,9 +12,9 @@ author_profile: true
 with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b></font>
 
 * <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (Forthcoming). <b>When two languages are competing: An ERP study on sentence processing in
-  expert and novice interpreters</b>. <i>Interpreting</i>, Issue TBA. Available Online First: https://t.co/ib7hmWSfvw?amp=1</font>
+  expert and novice interpreters</b>. <i>Interpreting</i>, <i>24</i>(1), 1–37. https://doi.org/10.1075/intp.00069.fan</font>
 
-* <font size="3"><ins>Collart, A.</ins> and Chan, S. (2021). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. <i>Journal of Neurolinguistics</i>, 59, 100998.</font>
+* <font size="3"><ins>Collart, A.</ins> and Chan, S. (2021). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. <i>Journal of Neurolinguistics</i>, 59, 100998. https://doi.org/10.1016/j.jneuroling.2021.100998</font>
 
 ---
 ---
