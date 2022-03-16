@@ -11,8 +11,7 @@ author_profile: true
 * <font size="3"><ins>Collart, A.</ins>, and Su, H.-K. (Under review after revision). <b>Encoding the existence of an event
 with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b></font>
 
-* <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (Forthcoming). <b>When two languages are competing: An ERP study on sentence processing in
-  expert and novice interpreters</b>. <i>Interpreting</i>, <i>24</i>(1), 1–37. <a href="https://doi.org/10.1075/intp.00069.fan" target="_blank">https://doi.org/10.1075/intp.00069.fan</a>.</font>
+* <font size="3">Fan, C. D., <ins>Collart, A.</ins>, and Chan S. (2022). <b>When two languages are competing: An ERP study on sentence processing in expert and novice interpreters</b>. <i>Interpreting</i>, <i>24</i>(1), 1–37. <a href="https://doi.org/10.1075/intp.00069.fan" target="_blank">https://doi.org/10.1075/intp.00069.fan</a>.</font>
 
 * <font size="3"><ins>Collart, A.</ins> and Chan, S. (2021). <b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i></b>. <i>Journal of Neurolinguistics</i>, <i>59</i>, 100998. <a href="https://doi.org/10.1016/j.jneuroling.2021.100998">https://doi.org/10.1016/j.jneuroling.2021.100998</a>.</font>
 
