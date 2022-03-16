@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ---
-# Publications
-<font size = "1">* = corresponding author</font>
+# Publications <font size = "2">* = corresponding author</font>
 
 * <font size="3"><ins>Collart, A.</ins>*, and Su, H.-K. (Under review after revision). <b>Encoding the existence of an event
 with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b></font>
