@@ -21,8 +21,8 @@ main:
   - title: "Blog Posts & Other Interests"
     url: /blog-posts/
     
-  - title: "Projects"
-    url: /projects/
+ # - title: "Projects"
+ #   url: /projects/
     
 #  - title: "Blog Posts"
 #    url: /year-archive/
