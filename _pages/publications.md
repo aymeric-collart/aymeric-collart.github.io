@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img align="left" width="300" height="110" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="150" height="55" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
 
 **A Recurrent Vision-and-Language BERT for Navigation**<br>
 [**Yicong Hong**](http://www.yiconghong.me/), [Qi Wu](http://www.qi-wu.me/), [Yuankai Qi](https://sites.google.com/site/yuankiqi/home), [Cristian Rodriguez-Opazo](https://crodriguezo.github.io/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
@@ -15,7 +15,7 @@ In the <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 20
 
 ---
 
-<img align="left" width="300" height="110" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="150" height="55" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
 
 **Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>**<br>
 **Collart, Aymeric** & Chan, Shiaohui<br>
