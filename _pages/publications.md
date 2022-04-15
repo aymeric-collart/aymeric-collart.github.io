@@ -17,8 +17,6 @@ In the <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 20
 
 ---
 
-<img align="left" width="150" height="55" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
-
 **Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>**<br>
 **Collart, Aymeric** & Chan, Shiaohui<br>
 
