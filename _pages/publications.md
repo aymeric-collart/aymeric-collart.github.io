@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% capture notice-text %} I had an enormous amount of support in this process from both my institutions and my networks; in no way could I have gotten a data science job as easily on my own. I’ll talk more about the help I received at some point in the future. {% endcapture %}
+
 <img align="left" width="150" height="55" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
 
 **A Recurrent Vision-and-Language BERT for Navigation**<br>
