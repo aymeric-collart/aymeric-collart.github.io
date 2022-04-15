@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img align="left" width="150" height="55" src="./../images/site-logo.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="300" height="110" src="./../images/FanCollartChan2022_Sum.png" style="padding-right:20px; padding-top:20px"/>
 
 **When two languages are competing: An ERP study on sentence processing in expert and novice interpreters**<br>
 Fan, C.D., <u>Collart, A.</u>, & Chan, S.* <br>
