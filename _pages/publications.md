@@ -5,12 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="left" width="300" height="110" src="./../images/CollartSu_Sum.svg" style="padding-right:20px; padding-top:20px"/>
+
+**Encoding the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation**<br>
+<u>Collart, A.</u>, & Su, H.-K. <br>
+
+<i>Under review after revision</i>. [[Paper](https://doi.org/10.1075/intp.00069.fan)]<br>
+
+---
+
 <img align="left" width="300" height="110" src="./../images/FanCollartChan2022_Sum.png" style="padding-right:20px; padding-top:20px"/>
 
 **When two languages are competing: An ERP study on sentence processing in expert and novice interpreters**<br>
 Fan, C.D., <u>Collart, A.</u>, & Chan, S.* <br>
 
-In the <em>Interpreting</em>, 2022. [[Paper](https://doi.org/10.1075/intp.00069.fan)]<br>
+In <em>Interpreting</em>, 2022. [[Paper](https://doi.org/10.1075/intp.00069.fan)]<br>
 
 ---
 
