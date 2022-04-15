@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Presentations
-
 Slides upon request. You may contact me by email.
 
 ---
