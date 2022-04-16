@@ -5,18 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Presentations
-
 Slides upon request. You may contact me by email.
 
 ---
 ## Accepted presentations (to be presented)
-* <font size="3"><ins>Collart, A.</ins> (TBA). <b>Des surfaces similaires pour des sens différents : une analyse contrastive de l’auxiliaire avoir du passé composé en français et de you + verbe du mandarin de Taïwan</b> (Similar surface interpretations for different meanings: a contrastive analysis of the past auxiliary 'avoir' to have in French and you + verb in Taiwan Mandarin). Paper to be presented at the Assises des études taïwanaises francophones. Venue TBA, Paris, France. (Conference postponed due to the COVID-19 outbreak)</font> (talk) [Abstract]
-
 * <font size="3"><ins>Collart, A.</ins> & Chan, S. (TBA). <b>Aspect, mood and time in Mandarin: ERPs reveal counter-evidence for discourse linking hypothesis</b>. Paper to be presented at the 2nd Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Venue TBA, Macao, China. (Conference postponed due to the COVID-19 outbreak)</font> (poster) [Abstract]
 
 ## Past presentations
 * <font size="3"><ins>Collart, A.</ins>, and Chan, S. (2021, November). <b>Processing past time and discontinuity aspect: Event-related potentials reveal different neuronal brain responses elicited by the Mandarin verbal morpheme -guo</b>. Paper presented at the 3rd International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-3). National Tsing Hua University, Hsinchu, Taiwan.</font> (talk) [abstract]
+
 
 * <font size="3"><ins>Collart, A.</ins> (2020, November). <b>Aspect of pasts in Mandarin: An ERP study on the temporal restriction of the perfectives <i>-le</i> and <i>-guo</i></b>. Paper to be presented at the 21st National Conference on Linguistics. National Sun Yat-sen University, Kaohsiung, Taiwan.</font> (poster) [Abstract]
 
