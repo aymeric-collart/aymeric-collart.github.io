@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**New! (2022/04/15)** The manuscript `Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation` written with Su Hung-Kuan Howard was accepted for publication!
 {: .notice}
 
 
@@ -18,4 +18,4 @@ I graduated from the PhD program of the department of English of National Taiwan
 
 I am also the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University, where behavioral, ERP and fMRI experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing, conceptual categorization, etc.
 
-<font size="1">Last update: 2022/03/08</font>
+<font size="1">Last update: 2022/04/15</font>
