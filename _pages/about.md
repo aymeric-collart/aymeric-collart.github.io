@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**New! (2022/04/15)** The manuscript `Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation` written with Su Hung-Kuan Howard was accepted for publication!
+**New! (2022/04/15)** The manuscript <i>Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation</i> written with Su Hung-Kuan Howard was accepted for publication!
 {: .notice}
 
 
