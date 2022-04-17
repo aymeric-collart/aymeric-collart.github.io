@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="warning" style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
+<div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
 <p style='margin-left:1em;'>
 <b>New! (2022/04/15)</b><br>The manuscript <i>Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation</i> written with Su Hung-Kuan Howard was accepted for publication!
 </p>
@@ -16,9 +16,7 @@ redirect_from:
 
 Other
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
-<p style='margin-left:1em;'>
 <b>New! (2022/04/15)</b><br>The manuscript <i>Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation</i> written with Su Hung-Kuan Howard was accepted for publication!
-</p>
 </div>
 
 ## PhD in Linguistics and Neurolinguistics
