@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="warning" style='background-color:#e06666; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'>
+<div class="warning" style='background-color:#ffd1d1; color: #e06666; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>New! (2022/04/15)</b></p>
