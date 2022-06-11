@@ -12,6 +12,7 @@ redirect_from:
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
 <div style='margin-left:1em;'><b>New! (2022/04/15)</b><br>The manuscript <i>Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation</i> written with Su Hung-Kuan Howard has been accepted for publication!
 </div>
+<br>
 <div style='margin-left:1em;'><b>New! (2022/06/02)</b><br>I have been selected as member of the Phi Tau Phi Scholastic Honor Society of the Republic of China.
 </div>
 </div>
