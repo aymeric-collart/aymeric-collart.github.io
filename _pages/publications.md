@@ -32,7 +32,7 @@ In <em>Interpreting</em>, 2022. [[Paper](https://doi.org/10.1075/intp.00069.fan)
 **Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>**<br>
 <u>Collart, A.</u>*, & Chan, S.<br>
 
-In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/j.jneuroling.2021.100998.)]<br>
+In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/j.jneuroling.2021.100998)]<br>
 
 ---
 ---
