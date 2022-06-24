@@ -17,7 +17,7 @@ redirect_from:
 </div>
 </div>
 
-## PhD in Linguistics and Neurolinguistics
+## Welcome to my personal academic website!
 
 My research interests lie in the neurolinguistic and psycholinguistic domains, mostly about sentence processing. I am particularly interested in syntactic and semantic processing, with a focus on the processing of temporality (tense, aspect, modality) in language. I aim at bridging linguistic analyses with their brain processing fashion in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. I mainly conduct my research on Mandarin Chinese (aspect-prominent/tenseless language), but I wish to expand my research to other languages (such as Formosan languages or Indo-European languages). 
 
