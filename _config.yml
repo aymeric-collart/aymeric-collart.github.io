@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Aymeric Collart"
   avatar           : "PicSite.JPG"
-  bio              : "PhD (Linguistics and Neurolinguistics), PostDoc @ Academia Sinica"
+  bio              : "PhD (Linguistics and Neurolinguistics), PostDoc @Academia Sinica"
   location         : "Taipei, Taiwan"
-  employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  employer         : "Academia Sinica, Institute of Linguistics"
+  googlescholar    : "https://scholar.google.com.tw/citations?hl=en&user=jcjDynUAAAAJ"
   email            : "aymeric.collart@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Aymeric_Collart2"
   uri              :
