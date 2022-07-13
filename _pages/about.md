@@ -23,4 +23,4 @@ My research interests lie in the neurolinguistic and psycholinguistic domains, m
 
 I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica. I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). I have also been the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University for 4 years, where behavioral, ERP and fMRI experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing or conceptual categorization.
 
-<font size="1">Last update: 2022/06/24</font>
+<font size="1">Last update: 2022/07/13</font>
