@@ -40,7 +40,7 @@ In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/
 # Manuscripts
 
 ## Submitted manuscript(s)
-* <font size="3"><ins>Collart, A.</ins> (submitted). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis. (Working title)</font>
+* <font size="3"><ins>Collart, A.</ins> (submitted). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.
 
 ## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins>, and Chan, S. (in preparation). <b>Processing past time and aspect in the Mandarin brain: What is it all about?</b> (Working title)</font>
