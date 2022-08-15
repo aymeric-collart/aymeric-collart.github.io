@@ -38,8 +38,11 @@ In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/
 ---
 
 # Manuscripts
-* <font size="3"><ins>Collart, A.</ins> (in preparation). <b>A time-relational and neurocognitive perspective of the temporal constraints of the Mandarin perfective marker <i>-le</i></b>. (Working title)</font>
 
+## Submitted manuscript(s)
+* <font size="3"><ins>Collart, A.</ins> (submitted). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis. (Working title)</font>
+
+## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins>, and Chan, S. (in preparation). <b>Processing past time and aspect in the Mandarin brain: What is it all about?</b> (Working title)</font>
 
 * <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (in preparation). <b>Past and future temporal reference teased apart in Paiwan, an uncommon language: A psycholinguistic study.</b> (Working title)</font>
