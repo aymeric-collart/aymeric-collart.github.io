@@ -8,4 +8,4 @@ redirect_from:
 
 
 <iframe src="/files/CV_AymericCollart_July2022.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-The PDF copy of my CV can be downloaded [here](/files/CV_AymericCollart_July2022.pdf).
+The PDF copy of my CV can be downloaded [here](/files/CV_AymericCollart_August2022.pdf).
