@@ -49,4 +49,9 @@ var addressPoints = [
     53.958764,
     -1.091083
   ],
+       [
+    "Linguistic Evidence 2022",
+    48.8288542,
+    2.3803195
+  ],
 ];
