@@ -40,11 +40,17 @@ In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/
 # Manuscripts
 
 ## Submitted manuscript(s)
-* <font size="3"><ins>Collart, A.</ins> (submitted). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.
+* <font size="3"><ins>Collart, A.</ins> (under review). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.
 
 ## Manuscripts in preparation
+* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (in preparation). <b>Past and future temporal reference teased apart in Paiwan, an uncommon language: A psycholinguistic study.</b> (Working title)</font>
+
+* <font size="3"><ins>Collart, A.</ins> (in preparation). <b>Experimental linguistics embracing linguistic diversity: On the contribution of Formosan languages to models of sentence processing.</b> (working title)</font>
+
+* <font size="3"><ins>Collart, A.</ins> (in preparation). <b>Linguistic diversity meeting the brain: Towards a neurotypological model of sentence processing of the expression of time.</b> (working title)</font>
+
 * <font size="3"><ins>Collart, A.</ins>, and Chan, S. (in preparation). <b>Processing past time and aspect in the Mandarin brain: What is it all about?</b> (Working title)</font>
 
-* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (in preparation). <b>Past and future temporal reference teased apart in Paiwan, an uncommon language: A psycholinguistic study.</b> (Working title)</font>
+* <font size="3">Chan, S., <ins>Collart, A.</ins>, Chang, I., and Hu, S. (in preparation). <b>Linguistic relativity: Modulation of classifiers on object perception.</b> (Working title)</font>
 
 * <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). <b>Applying random forests analyses on emerging syntactic constructions: The case of ‘you (to have) + VP’ in Taiwan Mandarin.</b> (working title)</font>
