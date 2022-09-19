@@ -12,7 +12,6 @@ redirect_from:
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
 <div style='margin-left:1em;'><b>New! (2022/07/17)</b><br>I will present the study entitled "<i>Processing past time reference, but which one? An ERP study on the Mandarin Chinese morphemes guo1 and guo2 with definite and indefinite time adverbs</i>" at the Linguistic Evidence 2022 conference, Paris (France), October 6-8!
 </div>
-<br>
 </div>
 
 ## Welcome to my personal academic website!
