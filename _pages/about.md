@@ -13,8 +13,6 @@ redirect_from:
 <div style='margin-left:1em;'><b>New! (2022/07/17)</b><br>I will present the study entitled "<i>Processing past time reference, but which one? An ERP study on the Mandarin Chinese morphemes guo1 and guo2 with definite and indefinite time adverbs</i>" at the Linguistic Evidence 2022 conference, Paris (France), October 6-8!
 </div>
 <br>
-<div style='margin-left:1em;'><b>New! (2022/07/08)</b><br>I will present the study entitled "<i>Processing past time reference is harder than future time reference: Evidence from Paiwan, a mood-prominent language</i>" at the AMLaP conference, York (UK), September 7-9 (collaboration with Elizabeth Zeitoun)!
-</div>
 </div>
 
 ## Welcome to my personal academic website!
