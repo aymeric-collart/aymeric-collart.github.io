@@ -44,9 +44,9 @@ In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/
 
 * <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (submitted). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language</b></font>
 
-## Manuscripts in preparation
-* <font size="3"><ins>Collart, A.</ins> (in preparation). <b>Experimental linguistics embracing linguistic diversity: On the contribution of Formosan languages to models of sentence processing.</b> (working title)</font>
+* <font size="3"><ins>Collart, A.</ins> (submitted). <b>Experimental linguistics embracing linguistic diversity: On the contribution of Formosan languages to models of sentence processing.</b></font>
 
+## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins> (in preparation). <b>Linguistic diversity meeting the brain: Towards a neurotypological model of sentence processing of the expression of time.</b> (working title)</font>
 
 * <font size="3"><ins>Collart, A.</ins>, and Chan, S. (in preparation). <b>Processing past time and aspect in the Mandarin brain: What is it all about?</b> (Working title)</font>
