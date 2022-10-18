@@ -13,9 +13,9 @@ redirect_from:
 <div style='margin-left:1em;'><b>New! (2022/10/18)</b><br>I am happy to give three talks in the following weeks:<br>
 <br>- <b>October 29, 2022</b> Towards an extended neurolinguistic model of the processing of TIME in Mandarin: Bridging linguistic analyses and neurocognitive. Invited talk as the recipient of the Linguistic Society of Taiwan Thesis of the Year Award at the 23rd National Conference on Linguistics (NCL-23), National Chengchi University, Taipei, Taiwan.
 <br>- <b>November 4, 2022</b> What can formal linguistics bring to neurolinguistics? Examples from temporal concord processing in Mandarin. Invited talk at the Department of English, National Taiwan Normal University University, Taipei, Taiwan.
-<br>- <b>December 5, 2022</b> Le village paiwan de Tuban Tjuabal ou la croisée des chemins entre la linguistique de terrain et la linguistique expérimentale [The Paiwan village of Tuban Tjuabal or the crossroad between field linguistics and experimental linguistics]. Invited talk at the Journées des jeunes chercheurs CEFC-EFEO, Academia Sinica, Taipei, Taiwan.<br>
+<br>- <b>December 5, 2022</b> Le village paiwan de Tuban Tjuabal ou la croisée des chemins entre la linguistique de terrain et la linguistique expérimentale [The Paiwan village of Tuban Tjuabal or the crossroad between field linguistics and experimental linguistics]. Invited talk at the Journées des jeunes chercheurs CEFC-EFEO, Academia Sinica, Taipei, Taiwan.
 </div>
-<div style='margin-left:1em;'><b>New! (2022/10/04)</b><br>I am honored to announce that my Ph.D. dissertation has been awarded the Linguistic Society of Taiwan Thesis of the Year Award 2022!
+<div style='margin-left:1em;'><br><b>New! (2022/10/04)</b><br>I am honored to announce that my Ph.D. dissertation has been awarded the Linguistic Society of Taiwan Thesis of the Year Award 2022!
 </div>
 </div>
 
