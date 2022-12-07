@@ -10,8 +10,9 @@ redirect_from:
 
 <br>
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2022/12/01)</b><br> The article "Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation" (in collaboration with Hung-Kuan Su) is now available online [here](https://www.jbe-platform.com/content/journals/10.1075/consl.21046.col)!
+<div style='margin-left:1em;margin-top:1em'><b>New! (2022/12/01)</b><br> The article "Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation" (in collaboration with Hung-Kuan Su) is now available online!
 </div>
+<br>
 </div>
 
 ## Welcome to my personal academic website!
@@ -20,4 +21,4 @@ My research interests lie in the neurolinguistic and psycholinguistic domains, m
 
 I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica. I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). I have also been the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University for 4 years, where behavioral, ERP and fMRI experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing or conceptual categorization.
 
-<font size="1">Last update: 2022/10/18</font>
+<font size="1">Last update: 2022/12/07</font>

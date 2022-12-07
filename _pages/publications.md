@@ -14,7 +14,7 @@ author_profile: true
 **Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation**<br>
 <u>Collart, A.</u>*, & Su, H.-K. <br>
 
-In <i>Concentric: Studies in Linguistics</i>, Accepted for publication.
+In <i>Concentric: Studies in Linguistics</i>, 2022. [[Paper](https://doi.org/10.1075/consl.21046.col)]
 
 ---
 
