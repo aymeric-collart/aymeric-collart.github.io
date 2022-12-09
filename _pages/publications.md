@@ -41,10 +41,10 @@ In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/
 
 ---
 
-<img align="left" width="300" height="110" src="./../images/handbookFormosan.jpg" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="300" height="110" src="./../images/handbookormosan.jpg" style="padding-right:20px; padding-top:20px"/>
 
 **Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing**<br>
-<u>Collart, A.</u>*. <br>
+<u>Collart, A.</u>* <br>
 
 In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.
 
