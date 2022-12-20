@@ -55,7 +55,9 @@ In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, ac
 # Manuscripts
 
 ## Submitted manuscript(s)
-* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (under review). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language</b></font>
+* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (under review). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language.</b></font>
+
+* <font size="3"><ins>Collart, A.</ins>, and Wu, Joy J.. (under review). <b>Retrospective of indigenous language teaching and beyond: The race against time.</b></font>
 
 ## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins> (under revision). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.

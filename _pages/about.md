@@ -12,6 +12,8 @@ redirect_from:
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
 <div style='margin-left:1em;margin-top:1em'><b>New! (2022/12/01)</b><br> The article "Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation" (in collaboration with Hung-Kuan Su) is now available online!
 </div>
+<div style='margin-left:1em;margin-top:1em'><b>New! (2022/12/08)</b><br> The book chapter "Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing" has been accepted for publication!
+</div>
 <br>
 </div>
 
