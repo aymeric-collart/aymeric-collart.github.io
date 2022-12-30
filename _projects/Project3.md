@@ -2,7 +2,7 @@
 title: "Neurotypology: Linguistic and cognitive diversities of language processing"
 layout: single-portfolio
 collection: projects
-order_number: 3
+order_number: 30
 permalink: /projects/Neurotypology
 ---
 
