@@ -1,11 +1,11 @@
 ---
 title: "Neurotypology: Linguistic and cognitive diversities of language processing"
 layout: single-portfolio
-excerpt: "<img src='/images/mstile-144x144.png' alt=''>"
+excerpt: "<img src='/images/editing-talk.png' alt=''>"
 collection: projects
-order_number: 30
+order_number: 40
 header:
-og_image: "mstile-144x144.png"
+og_image: "editing-talk.png"
 ---
 
 A c++ based game of Minions. Keep running and eat bananas. Don't get killed!
