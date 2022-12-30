@@ -4,16 +4,55 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Peer-reviewed articles
 
+<i>* = corresponding author</i>
 
-{% for post in site.publications %}
-  {% include archive-single-publications.html %}
-  <hr>
-{% endfor %}
+---
+
+<img align="left" width="300" height="110" src="./../images/CollartSu_Sum.png" style="padding-right:20px; padding-top:20px"/>
+
+**Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation**<br>
+<u>Collart, A.</u>*, & Su, H.-K. <br>
+
+In <i>Concentric: Studies in Linguistics</i>, 2022. [[Paper](https://doi.org/10.1075/consl.21046.col)]
+
+---
+
+<img align="left" width="300" height="110" src="./../images/FanCollartChan2022_Sum.png" style="padding-right:20px; padding-top:20px"/>
+
+**When two languages are competing: An ERP study on sentence processing in expert and novice interpreters**<br>
+Fan, C.D., <u>Collart, A.</u>, & Chan, S.* <br>
+
+In <em>Interpreting</em>, 2022. [[Paper](https://doi.org/10.1075/intp.00069.fan)]<br>
+
+---
+
+<img align="left" width="300" height="110" src="./../images/CollartChan2021_Sum.png" style="padding-right:20px; padding-top:20px"/>
+
+**Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>**<br>
+<u>Collart, A.</u>*, & Chan, S.<br>
+
+In <em>Journal of Neurolinguistics</em>, 2021. [[Paper](https://doi.org/10.1016/j.jneuroling.2021.100998)]<br>
+
+---
+
+## Book chapters (peer-reviewed)
+
+---
+
+<img align="left" width="300" height="110" src="./../images/handbookFormosan.jpg" style="padding-right:20px; padding-top:20px"/>
+
+**Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing**<br>
+<u>Collart, A.</u>* <br>
+
+In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.
 
 <br>
 ---
-<p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
+---
+
+# Manuscripts
 
 ## Submitted manuscript(s)
 * <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (under review). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language.</b></font>
