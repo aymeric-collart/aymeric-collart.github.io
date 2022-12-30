@@ -9,3 +9,6 @@ author_profile: true
 
 {% assign ordered_pages1 = site.projects %}
 {% for post in ordered_pages1 %} {% include archive-single.html type="grid" %} {% endfor %}
+
+{% assign ordre_pages1 = site.research %}
+{% for post in ordre_pages1 %} {% include archive-single.html type="grid" %} {% endfor %}
