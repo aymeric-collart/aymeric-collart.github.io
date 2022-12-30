@@ -3,8 +3,7 @@ title: "Processing temporal information in Mandarin and Taiwan Mandarin"
 layout: single-portfolio
 excerpt: "<img src='/images/image-alignment-300x200.jpg' alt=''>"
 collection: projects
-order_number: 5
-permalink: /projects/Temporal_Processing_Mandarin
+order_number: 50
 header:
 og_image: "image-alignment-300x200.jpg"
 ---

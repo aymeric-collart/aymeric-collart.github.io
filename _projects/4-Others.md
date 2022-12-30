@@ -3,7 +3,7 @@ title: "Others"
 layout: single-portfolio
 excerpt: "<img src='/images/editing-talk.png' alt=''>"
 collection: projects
-order_number: 7
+order_number: 70
 header:
 og_image: "editing-talk.png"
 ---
