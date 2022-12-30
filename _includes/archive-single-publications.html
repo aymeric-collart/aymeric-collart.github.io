@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if post.new_start == "True" and post.type == "Article" %}
-  <p style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
+  <p style='background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
 {% endif %}
 
 {% if post.new_start == "True" and post.type == "Book chapter" %}
@@ -38,7 +38,7 @@
       {% if post.link %}
         <a href="{{ post.link }}" tyle="color: #404040">{{ title }}</a> <a href="{{ post.permalink }}" rel="permalink" target=_blank><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.permalink }}" rel="permalink" target=_blank style="color: #404040">{{ title }}</a>
+        <a href="{{ post.permalink }}" rel="permalink" target=_blank style="color: #e06666">{{ title }}</a>
       {% endif %}
     </h2>
     {% if post.read_time %}
