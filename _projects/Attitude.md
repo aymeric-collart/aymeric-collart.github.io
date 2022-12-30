@@ -2,7 +2,7 @@
 title: "Temporal reference in Mandarin Chinese and Taiwan Mandarin"
 layout: single-portfolio
 collection: projects
-order_number: 10
+order_number: 0
 permalink: /projects/pid_balance
 ---
 
