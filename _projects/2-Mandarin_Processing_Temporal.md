@@ -1,9 +1,12 @@
 ---
 title: "Processing temporal information in Mandarin and Taiwan Mandarin"
 layout: single-portfolio
+excerpt: "<img src='/images/image-alignment-300x200.jpg' alt=''>"
 collection: projects
-order_number: 2
+order_number: 20
 permalink: /projects/Temporal_Processing_Mandarin
+header:
+og_image: "image-alignment-300x200.jpg"
 ---
 
 A c++ based game of Minions. Keep running and eat bananas. Don't get killed!
