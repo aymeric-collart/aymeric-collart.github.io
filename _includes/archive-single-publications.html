@@ -20,7 +20,7 @@
   {% assign title = post.title %}
 {% endif %}
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class="{{ include.type | default: "list" }}__item" style=" margin-left:30px;">
+<div class="{{ include.type | default: "list" }}__item" style=" margin-left:10px;">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -36,9 +36,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}" tyle="color: #404040">{{ title }}</a> <a href="{{ post.permalink }}" rel="permalink" target=_blank><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}" tyle="color: #e06666">{{ title }}</a> <a href="{{ post.permalink }}" rel="permalink" target=_blank><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.permalink }}" rel="permalink" target=_blank style="color: #e06666">{{ title }}</a>
+        <a href="{{ post.permalink }}" rel="permalink" target=_blank style="color: #404040">{{ title }}</a>
       {% endif %}
     </h2>
     {% if post.read_time %}
