@@ -24,9 +24,7 @@ author_profile: true
     grid-column-start: 1;
     grid-column-end: 6;
 }
-.grid {
-    display: grid;
-} dfjhfljhdfjgldbvkljdjbvhldbfjlvbdlfgndljfbgldkjfljdhbgfldjfvljdg 
-bjhvkvhv;
 
-{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
+{% for post in ordered_pages %} {% include archive-single.html type="grid".grid {
+    display: grid;
+} %} {% endfor %}
