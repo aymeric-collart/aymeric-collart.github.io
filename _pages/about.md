@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to my personal academic website!"
-excerpt: "About"
+title: "About"
+excerpt: "Welcome to my personal academic website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
 </div>
 <br>
 </div>
-
+<br>
 My research interests lie in the neurolinguistic and psycholinguistic domains, mostly about sentence processing. I am particularly interested in syntactic and semantic processing, with a focus on the processing of temporality (tense, aspect, modality) in language. I aim at bridging linguistic analyses with their brain processing fashion in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. I mainly conduct my research on Mandarin Chinese (aspect-prominent/tenseless language), but I wish to expand my research to other languages (such as Formosan languages or Indo-European languages). 
 
 I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica. I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). I have also been the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University for 4 years, where behavioral, ERP and fMRI experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing or conceptual categorization.
