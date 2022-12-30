@@ -10,4 +10,4 @@ author_profile: true
 
 {% assign ordered_pages = site.projects %}
 
-{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
+{% for post in ordered_pages %} {% include archive-single.html %} {% endfor %}
