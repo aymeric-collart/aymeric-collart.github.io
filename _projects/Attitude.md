@@ -1,11 +1,9 @@
 ---
-title: "PID Balance Ball and Beam"
+title: "Temporal reference in Mandarin Chinese and Taiwan Mandarin"
+layout: single-portfolio
 collection: projects
-type: "Final Project"
+order_number: 10
 permalink: /projects/pid_balance
-venue: "Logic Design Laboratory, National Tsing Hua University"
-date: 2019-01-10
-location: "Hsinchu, Taiwan"
 ---
 
 A c++ based game of Minions. Keep running and eat bananas. Don't get killed!
