@@ -6,6 +6,5 @@ new_start: "True"
 venue: "<i>Journal of Neurolinguistics</i>"
 date: "2021-02-18"
 paperurl: "https://doi.org/10.1016/j.jneuroling.2021.100998"
-image: "/images/CollartChan2021_Sum.png"
 
 ---
