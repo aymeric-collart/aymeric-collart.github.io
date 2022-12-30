@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 ---
-<p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp;Manuscripts</b></p>
+<p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
 
 ## Submitted manuscript(s)
 * <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (under review). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language.</b></font>

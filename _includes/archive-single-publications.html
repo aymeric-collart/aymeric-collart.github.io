@@ -7,11 +7,11 @@
 {% endif %}
 
 {% if post.new_start == "True" and post.type == "Article" %}
-  <p style='background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
+  <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
 {% endif %}
 
 {% if post.new_start == "True" and post.type == "Book chapter" %}
-  <p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp;Book chapters</b></p>
+  <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Book chapters</b></p>
 {% endif %}
 
 {% if post.id %}
@@ -20,7 +20,7 @@
   {% assign title = post.title %}
 {% endif %}
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class="{{ include.type | default: "list" }}__item" style=" margin-left:10px;">
+<div class="{{ include.type | default: "list" }}__item" style=" margin-left:100px;">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
