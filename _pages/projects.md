@@ -23,6 +23,6 @@ author_profile: true
 }
 .grid {
     display: grid;
-}
+}dfjhfljhdfjgldbvkljdjbvhldbfjlvbdlfgndljfbgldkjfljdhbgfldjfvljdg 
 
 {% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
