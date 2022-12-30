@@ -21,5 +21,8 @@ author_profile: true
     grid-column-start: 1;
     grid-column-end: 5;
 }
+.grid {
+    display: grid;
+}
 
 {% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
