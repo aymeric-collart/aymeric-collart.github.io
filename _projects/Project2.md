@@ -2,7 +2,7 @@
 title: "Processing temporal information in Mandarin and Taiwan Mandarin"
 layout: single-portfolio
 collection: projects
-order_number: 10
+order_number: 2
 permalink: /projects/Temporal_Processing_Mandarin
 ---
 
