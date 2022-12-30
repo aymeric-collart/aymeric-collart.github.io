@@ -1,9 +1,9 @@
 ---
-title: "Neurotypology: Linguistic and cognitive diversities of language processing"
+title: "Others"
 layout: single-portfolio
 excerpt: "<img src='/images/editing-talk.png' alt=''>"
 collection: projects
-order_number: 40
+order_number: 4
 header:
 og_image: "editing-talk.png"
 ---
