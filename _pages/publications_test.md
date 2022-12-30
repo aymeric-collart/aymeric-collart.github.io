@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-{% for post in site.publications %}
+{% for post in site.publications reverse %}
   {% include archive-single-publications.html %}
   <hr>
 {% endfor %}
