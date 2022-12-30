@@ -15,11 +15,14 @@ author_profile: true
   <div id="item-2">2</div>
   <div id="item-3">3</div>
   <div id="item-4">4</div>
+    <div id="item-2">2</div>
+  <div id="item-3">3</div>
+  <div id="item-4">4</div>
 </div>
 
 #item-1 {
     grid-column-start: 1;
-    grid-column-end: 5;
+    grid-column-end: 6;
 }
 .grid {
     display: grid;
