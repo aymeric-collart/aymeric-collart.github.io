@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects %} {% include archive-single-projects.html type="grid" %} {% endfor %}
+{% for post in site.projects %} {% include archive-single-projects.html %} {% endfor %}
