@@ -1,7 +1,7 @@
 ---
 title: "Others"
 layout: single-portfolio
-excerpt: "<img src='/images/editing-talk.png' alt=''>"
+excerpt: "/images/editing-talk.png"
 collection: projects
 order_number: 40
 header:
