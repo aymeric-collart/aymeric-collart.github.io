@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/yourcode.js"></script>
+
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -6,104 +8,78 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
+
+{% if post.new_start == "True" and post.type == "Oral presentation" %}
+  <p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp; 📢 &nbsp; Oral presentation</b></p>
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
+{% if post.new_start == "True" and post.type == "Poster" %}
+  <p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp; 👨🏻‍🏫 &nbsp; Poster</b></p>
+{% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' %}
-        {{ title }}
-      {% elsif post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    
-    {% if post.read_time %}
-    {% elsif post.read_time and post.collection == 'posts' %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+{% if post.new_start == "True" and post.type == "Exhibition" %}
+  <p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp; <i class="fa fa-users" aria-hidden="true"></i> &nbsp; Exhibition</b></p>
+{% endif %}
 
-    {% if post.collection == 'teaching' %}
-      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {% elsif post.collection == 'publications' %}
-      {% if post.abstract %}
-        <details><summary>Abstract</summary>
-        <blockquote>
-        <p>
-        {{ post.abstract }}
-        </p>
-        </blockquote>
-        </details>
-      {% endif %}
-      
-      <!-- citation and icon code -->
-      <p>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% endif %}
-      <br>
-      {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      </p>
-    {% elsif post.collection == 'posts' and post.date %}
-      <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+{% if post.new_start == "True" and post.type == "Course Project" %}
+  <p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp; 📝 &nbsp; Course Project</b></p>
+{% endif %}
+
+{% if post.new_start == "True" and post.type == "Android App" %}
+  <p style="margin-top:50px;margin-bottom:9px; font-size:28px; border-left: 8px solid #7b8287; background-color: #ededed; padding: 4px"><b> &nbsp;&nbsp; <i class="fa fa-android" aria-hidden="true" style="color: green"></i> &nbsp; Android App</b></p>
+{% endif %}
+
+<div clss="row" style="display: flex; margin-left:30px;">
+  <div class="column" style="flex: 59%;">
+    {% if post.id %}
+      {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+    {% else %}
+      {% assign title = post.title %}
     {% endif %}
-    
-    {% if post.excerpt and post.collection == 'projects' and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        <div class="container">
-          {{ post.excerpt }}
-          <div class="overlay">
+    <div class="{{ include.type | default: "list" }}__item">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if include.type == "grid" and teaser %}
+          <div class="archive__item-teaser">
+            <img src=
+              {% if teaser contains "://" %}
+                "{{ teaser }}"
+              {% else %}
+                "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+              {% endif %}
+              alt="">
           </div>
-        </div>
-        </a>
-      </p>
-    {% elsif post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-          <strong>
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a>
-          </strong>
-        </p>
-      </p>
-    {% endif %}
-     <div  class="column" style="flex: 38%;">
+        {% endif %}
+        <h2 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}" style="color: #404040">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #404040">{{ title }}</a>
+          {% endif %}
+        </h2>
+        {% if post.read_time %}
+          <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+
+        {% if post.start_date %}<p class="page__meta"><b><i class="fas fa-clock" aria-hidden="true"></i> &nbsp;&nbsp;  {{ post.start_date | date: '%B %d, %Y' }} {% if post.end_date %} - {{ post.end_date | date: '%B %d, %Y' }}{% endif %}</b></p>{% endif %}
+
+        <p class="page__meta" style="margin-left:1px"><b><i style="margin-right:1px" class="fas fa-map-marker-alt	" aria-hidden="true"></i> &nbsp;&nbsp;  {{post.location}}</b></p>
+
+
+        <p class="page__meta" style="margin-left:1px"><b><i class="fas fa-calendar-alt" aria-hidden="true"></i> &nbsp;&nbsp; {{post.venue}}</b></p>
+
+        <p class="page__meta"><b><i class="fas fa-ticket-alt" aria-hidden="true" style="margin-left:1px"></i> &nbsp; {{post.type}}</b></p>
+
+
+        <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %} -->
+      </article>
+    </div>
+  </div>
+  <div class="column" style="flex: 3%;">
+  </div>
+  <div  class="column" style="flex: 38%;">
     <img src="{{ post.image }}" style="width: 225px;
     height: 150px;
     object-fit: fill;
     display: inline; margin-top:55px;">
   </div>
-</div>
-  </article>
 </div>
