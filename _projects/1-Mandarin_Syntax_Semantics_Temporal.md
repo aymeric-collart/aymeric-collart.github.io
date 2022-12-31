@@ -1,7 +1,7 @@
 ---
 title: "Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics"
 layout: single-portfolio
-image: "<img src='/images/bio-photo.jpg' alt=''>"
+image: "/images/bio-photo.jpg"
 collection: projects
 order_number: 10
 header:
