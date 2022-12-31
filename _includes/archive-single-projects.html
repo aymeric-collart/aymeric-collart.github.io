@@ -9,7 +9,7 @@
 {% endif %}
 
 
-<!-- <div clss="row" style="display: flex; margin-left:30px;"> -->
+<div clss="row" style="display: flex; margin-left:30px;">
 <div  class="column" style="flex: 20%;">
     <img src="{{ post.image }}" style="width: 225px;
     height: 150px;
@@ -26,35 +26,5 @@
     {% else %}
       {% assign title = post.title %}
     {% endif %}
-    <div class="{{ include.type | default: "list" }}__item">
-      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if include.type == "grid" and teaser %}
-          <div class="archive__item-teaser">
-            <img src=
-              {% if teaser contains "://" %}
-                "{{ teaser }}"
-              {% else %}
-                "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-              {% endif %}
-              alt="">
-          </div>
-        {% endif %}
-        <h2 class="archive__item-title" itemprop="headline">
-          {% if post.link %}
-            <a href="{{ post.link }}" style="color: #404040">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-          {% else %}
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #404040">{{ title }}</a>
-          {% endif %}
-        </h2>
-        {% if post.read_time %}
-          <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-        {% endif %}
 
-        {% if post.start_date %}<p class="page__meta"><b><i class="fas fa-clock" aria-hidden="true"></i> &nbsp;&nbsp;  {{ post.start_date | date: '%B %d, %Y' }} {% if post.end_date %} - {{ post.end_date | date: '%B %d, %Y' }}{% endif %}</b></p>{% endif %}
-
-
-        <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %} -->
-      </article>
-    </div>
-  </div>
 </div>
