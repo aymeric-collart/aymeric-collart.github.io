@@ -32,7 +32,7 @@ author_profile: true
 <div class="grid-container">
   <div class="item1"><img align="left" width="300" height="110" src="./../images/CollartSu_Sum.png" style="padding-right:20px; padding-top:20px"/></div>
   <div class="item2">
-  <a href="https://doi.org/10.1075/consl.21046.col">
+  <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
 Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation
 </a>
 </div>
