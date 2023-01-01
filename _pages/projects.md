@@ -25,7 +25,7 @@ author_profile: true
     'Image Venue';
   gap: 10px;
   padding: 10px;
-  grid-template-columns: 20% auto;
+  grid-template-columns: 35% auto;
 }
 
 
