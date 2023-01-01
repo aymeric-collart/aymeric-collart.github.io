@@ -23,8 +23,6 @@ author_profile: true
     'Image Article'
     'Image Authors'
     'Image Venue';
-  gap: 0px;
-  padding: 0px;
   grid-template-columns: 35% auto;
 }
 
