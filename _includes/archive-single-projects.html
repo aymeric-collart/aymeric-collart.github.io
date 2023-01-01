@@ -9,18 +9,18 @@
 {% endif %}
 
 
-<div class="row" style="display: flex;">
-<div  class="column" style="width: 17%;">
+<div class="column" style="display: flex;">
+<div  class="row" style="width: 17%;">
     <img src="{{ post.image }}" style="width: 225px;
     height: 150px;
     object-fit: fill;
     display: inline; margin-top:55px;">
   </div>
   
-  <div  class="column" style="width: 3%;">
+  <div  class="row" style="width: 3%;">
   </div>
   
-  <div class="column" style="width: 80%;">
+  <div class="row" style="width: 80%;">
     {% if post.id %}
       {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
     {% else %}
