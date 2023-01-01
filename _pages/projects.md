@@ -32,7 +32,7 @@ author_profile: true
 </style>
 
 <div class="grid-container">
-  <div class="item1">Image</div>
+  <div class="item1"><img align="left" width="300" height="110" src="./../images/CollartSu_Sum.png" style="padding-right:20px; padding-top:20px"/></div>
   <div class="item2">
 Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation</div>
   <div class="item3">Collart, A.*, & Su, H.-K.</div>  
