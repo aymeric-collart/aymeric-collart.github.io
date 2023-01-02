@@ -35,7 +35,7 @@ Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Tai
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Concentric: Studies in Linguistics</i>, 2022.</div>
-  <div class="item4" style="padding-top:3px" font-size:16px><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
+  <div class="item4" style="padding-top:3px"; font-size:16px><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
 </div>
 
 <br>
