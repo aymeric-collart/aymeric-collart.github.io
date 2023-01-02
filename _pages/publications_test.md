@@ -28,10 +28,10 @@ author_profile: true
 
 <!-- Article 3 -->
 <div class="grid-container">
-  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 5px"/></div>
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
   <div class="item2">
   <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
-Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation
+<b>Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b>
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Concentric: Studies in Linguistics</i>, 2022.</div>
