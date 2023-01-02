@@ -39,6 +39,19 @@ author_profile: true
 </div>
 
 <br>
+---
+<br>
+<!-- Article 2 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/Interpreting.png" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="https://doi.org/10.1075/intp.00069.fan" target="_blank">
+<b>When two languages are competing: An ERP study on sentence processing in expert and novice interpreters.</b>
+</a>
+</div>
+  <div class="item3" style="padding-top:1px">In <i>Interpreting</i>, 2022.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;Fan, C. D., <u>Collart, A.</u>, & Chan, S*. (2022). When two languages are competing: An ERP study on sentence processing in expert and novice interpreters. <i>Interpreting</i>, <i>24</i>(1), 1-37.</div>  
+</div>
 
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Book chapters (peer-reviewed)</b></p>
 
