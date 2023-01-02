@@ -38,9 +38,8 @@ author_profile: true
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
 </div>
 
-<br>
 ---
-<br>
+
 <!-- Article 2 -->
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="150" src="./../images/Interpreting.png" style="padding-right: 10px"/></div>
@@ -50,12 +49,37 @@ author_profile: true
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Interpreting</i>, 2022.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;Fan, C. D., <u>Collart, A.</u>, & Chan, S*. (2022). When two languages are competing: An ERP study on sentence processing in expert and novice interpreters. <i>Interpreting</i>, <i>24</i>(1), 1-37.</div>  
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;Fan, C. D., <u>Collart, A.</u>, & Chan, S.* (2022). When two languages are competing: An ERP study on sentence processing in expert and novice interpreters. <i>Interpreting</i>, <i>24</i>(1), 1-37.</div>  
+</div>
+
+---
+
+<!-- Article 1 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/JNL.jpg" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="https://doi.org/10.1016/j.jneuroling.2021.100998" target="_blank">
+<b>Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>.</b>
+</a>
+</div>
+  <div class="item3" style="padding-top:1px">In <i>Journal of Neurolinguistics</i>, 2021.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u>, & Chan, S.* (2021). Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes -le and -guo. <i>Journal of Neurolinguistics</i>, <i>59</i>, Article 100998.</div>  
 </div>
 
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Book chapters (peer-reviewed)</b></p>
 
----
+<!-- Chapter 1 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/Book_chapter.jpg" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="" target="_blank">
+<b>Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing.</b>
+</a>
+</div>
+  <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u> (Forthcoming). Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (pp. ??-??), Leiden: Brill.</div>  
+</div>
+
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
 
 ## Submitted manuscript(s)
