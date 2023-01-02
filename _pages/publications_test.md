@@ -28,7 +28,7 @@ author_profile: true
 
 <!-- Article 3 -->
 <div class="grid-container">
-  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 1px; padding-top:1px"/></div>
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 5px"/></div>
   <div class="item2">
   <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
 Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation
