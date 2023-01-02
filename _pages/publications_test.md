@@ -9,15 +9,15 @@ author_profile: true
 <style>
 .item1 { grid-area: Image; }
 .item2 { grid-area: Article; }
-.item3 { grid-area: Authors; }
-.item4 { grid-area: Venue; }
+.item3 { grid-area: Venue; }
+.item4 { grid-area: Citation; }
 
 .grid-container {
   display: grid;
   grid-template-areas:
     'Image Article'
-    'Image Authors'
-    'Image Venue';
+    'Image Venue'
+    'Image Citation';
   grid-template-columns: 30% auto;
 }
 
@@ -28,14 +28,14 @@ author_profile: true
 
 <!-- Article 3 -->
 <div class="grid-container">
-  <div class="item1"><img align="left" width="300" height="110" src="./../images/CollartSu_Sum.png" style="padding-right:20px; padding-top:20px"/></div>
+  <div class="item1"><img align="left" width="250" height="250" src="./../images/Concentric_48_2.png" style="padding-right:20px; padding-top:20px"/></div>
   <div class="item2">
   <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
-Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation
+Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation
 </a>
 </div>
-  <div class="item3"><i class="fa fa-quote-left" aria-hidden="true"></i>Collart, A.*, & Su, H.-K.</div>  
-  <div class="item4">In <i>Concentric: Studies in Linguistics</i>, 2022.</div>
+  <div class="item3">In <i>Concentric: Studies in Linguistics</i>, 2022.</div>
+  <div class="item4"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
 </div>
 
 <br>
