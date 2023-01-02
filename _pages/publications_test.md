@@ -65,7 +65,7 @@ author_profile: true
   <div class="item3" style="padding-top:1px">In <i>Journal of Neurolinguistics</i>, 2021.</div>
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u>, & Chan, S.* (2021). Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes -le and -guo. <i>Journal of Neurolinguistics</i>, <i>59</i>, Article 100998.</div>  
 </div>
-
+<br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Book chapters (peer-reviewed)</b></p>
 
 <!-- Chapter 1 -->
@@ -79,7 +79,7 @@ author_profile: true
   <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.</div>
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u> (Forthcoming). Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (pp. ??-??), Leiden: Brill.</div>  
 </div>
-
+<br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
 
 ## Submitted manuscript(s)
