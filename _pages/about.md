@@ -40,7 +40,7 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   bottom: 100%;
   left: 0;
   right: 0;
-  background-color: #404040;
+  background-color: #eeeeee;
   overflow: hidden;
   width: 100%;
   height:0;
@@ -56,8 +56,8 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   color: white;
   font-size: 20px;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 25%;
+  left: 25%;
   -webkit-transform: translate(-25%, -25%);
   -ms-transform: translate(-25%, -25%);
   transform: translate(-25%, -25%);
