@@ -17,9 +17,21 @@ redirect_from:
 <br>
 </div>
 <br>
-My research interests lie in the neurolinguistic and psycholinguistic domains, mostly about sentence processing. I am particularly interested in syntactic and semantic processing, with a focus on the processing of temporality (tense, aspect, modality) in language. I aim at bridging linguistic analyses with their brain processing fashion in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. I mainly conduct my research on Mandarin Chinese (aspect-prominent/tenseless language), but I wish to expand my research to other languages (such as Formosan languages or Indo-European languages). 
 
-I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica. I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). I have also been the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University for 4 years, where behavioral, ERP and fMRI experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing or conceptual categorization.
+### Short bio
+
+I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I work on my own project entitled "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin".
+
+I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). During my PhD studies, I was also the manager of the [Neurolinguistics Lab](https://sites.google.com/view/neurolinguisticslabntnu) of National Taiwan Normal University, where I supervized behavioral, ERP and fMRI experiments about a great variety of language-related topics, such as language relativity, classifier processing or conceptual categorization.
+
+### Research interests
+
+My research interests combine two disciplines: linguistics and language processing.
+On the linguistic side, I am interested in the syntax and semantics of the expression of TIME from a functional syntax and user-based perspective. Particularly, I aim at understanding how temporal relations are expressed with grammatical markers in Mandarin Chinese (and its variety spoken in Taiwan), which is said to be a tenseless language.
+On the psycholinguistic and neurolinguistic side, I have mainly worked in sentence processing with a focus on the processing of temporality (tense, aspect, modality) in grammar. 
+I aim at bridging linguistic analyses with their brain processing patterns in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. Although I have mainly conducted my research on Mandarin Chinese, I also wish to expand my research to other languages, especially languages which are underrepresented in the language processing domain.
+<br>
+My research interests lie in the following  topics (click on the image for more details):
 
 
 <style>
@@ -64,9 +76,6 @@ div.desc {
 
 
 <div class="container">
-
-
-
 <div class="Project1">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Temporal/">
@@ -103,8 +112,6 @@ div.desc {
     <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
   </div>
 </div>
-
-
 </div>
 
 <br>
