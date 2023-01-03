@@ -23,22 +23,6 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 
 
 <style>
-.item1 { grid-area: ImageFirstProject; }
-.item2 { grid-area: TitleFirstProject; }
-.item3 { grid-area: ImageSecondProject; }
-.item4 { grid-area: TitleSecondProject; }
-.item5 { grid-area: ImageThirdProject; }
-.item6 { grid-area: TitleThirdProject; }
-.item7 { grid-area: ImageFourthProject; }
-.item8 { grid-area: TitleFourthProject; }
-
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'ImageFirstProject ImageSecondProject ImageThirdProject ImageFourthProject'
-    'TitleFirstProject TitleSecondProject TitleThirdProject TitleFourthProject';
-  grid-template-columns: 25% 25% 25% 25%;
-}
 
 .container {
   position: relative;
@@ -80,46 +64,11 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   text-align: center;
 }
 
-}
-
 </style>
-
-<!-- Projects -->
-<div class="grid-container">
-<!-- Project 1 -->
-  <div class="item1"><div class="image" src="profile.png"><a href="#">Text you want on mouseover</a></div></div>
-  <div class="item2">
-  <a href="" target="_blank">
-<b>Syntactic and semantic analyses of the expression of TIME in (Taiwan) Mandarin.</b>
-</a>
-</div>
-<!-- Project 2 -->
-  <div class="item3"><img align="left" width="150" height="150" src="./../images/profile.png" style="padding-right: 10px"/></div>
-  <div class="item4">
-  <a href="" target="_blank">
-<b>Processing temporal information in (Taiwan) Mandarin: Psycholinguistic and neurolinguistic studies.</b>
-</a>
-</div>
-<!-- Project 3 -->
-  <div class="item5"><img align="left" width="150" height="150" src="./../images/profile.png" style="padding-right: 10px"/></div>
-  <div class="item6">
-  <a href="" target="_blank">
-<b>Neurotypology: Linguistic and cognitive diversities of language processing.</b>
-</a>
-</div>
-<!-- Project 4 -->
-  <div class="item7"><img align="left" width="150" height="150" src="./../images/profile.png" style="padding-right: 10px"/></div>
-  <div class="item8">
-  <a href="" target="_blank">
-<b>Applied language processing: Interpreting, translation and language teaching.</b>
-</a>
-</div>
-</div>
-
 
 
 <div class="container">
-  <img src="profile.png" alt="Avatar" class="image">
+  <img src="./../images/profile.png" alt="Avatar" class="image">
   <div class="overlay">
     <div class="text">Hello World</div>
   </div>
