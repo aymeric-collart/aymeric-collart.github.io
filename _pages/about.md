@@ -51,7 +51,7 @@ div.desc {
   grid-auto-rows: 1fr; 
   grid-template-columns: 35% 35%; 
   grid-template-rows: auto auto; 
-  gap: 6px 6px; 
+  gap: 30px 30px; 
   grid-template-areas: 
     "Project1 Project2"
     "Project3 Project4"; 
@@ -107,4 +107,5 @@ div.desc {
 
 </div>
 
-<font size="1">Last update: 2022/12/20</font>
+<br>
+<font size="1">Last update: 2023/01/03</font>
