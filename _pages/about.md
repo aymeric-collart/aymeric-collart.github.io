@@ -26,7 +26,7 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 
 .container {
   position: relative;
-  width: 50%;
+  width: 25%;
 }
 
 .image {
@@ -40,7 +40,7 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   bottom: 100%;
   left: 0;
   right: 0;
-  background-color: #008CBA;
+  background-color: #404040;
   overflow: hidden;
   width: 100%;
   height:0;
@@ -70,7 +70,8 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 <div class="container">
   <img src="./../images/profile.png" alt="Avatar" class="image">
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">
+<a href="https://doi.org/10.1075/consl.21046.col" target="_blank">Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics</a></div>
   </div>
 </div>
 
