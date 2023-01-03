@@ -49,7 +49,7 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 25% 25% 25% 25M; 
+  grid-template-columns: 25% 25% 25% 25%; 
   grid-template-rows: auto auto; 
   gap: 20px 20px; 
   grid-template-areas: 
