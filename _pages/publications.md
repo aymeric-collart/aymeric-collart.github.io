@@ -73,7 +73,7 @@ author_profile: true
 
 <!-- Chapter 1 -->
 <div class="grid-container">
-  <div class="item1"><img align="left" width="150" height="150" src="./../images/Book_chapter.jpg" style="padding-right: 10px"/></div>
+  <div class="item1"><img align="left" width="150" height="107" src="./../images/HandbookFormosan.jpg" style="padding-right: 10px"/></div>
   <div class="item2">
   <a href="" target="_blank">
 <b>Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing.</b>
