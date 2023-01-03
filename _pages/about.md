@@ -23,27 +23,55 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 
 
 <style>
-.item1 { grid-area: Image; }
-.item2 { grid-area: Title; }
+.item1 { grid-area: ImageFirstProject; }
+.item2 { grid-area: TitleFirstProject; }
+.item3 { grid-area: ImageSecondProject; }
+.item4 { grid-area: TitleSecondProject; }
+.item5 { grid-area: ImageThirdProject; }
+.item6 { grid-area: TitleThirdProject; }
+.item7 { grid-area: ImageFourthProject; }
+.item8 { grid-area: TitleFourthProject; }
 
 .grid-container {
   display: grid;
   grid-template-areas:
-    'Image Image Image Image'
-    'Title Title Title Title';
+    'ImageFirstProject ImageSecondProject ImageThirdProject ImageFourthProject'
+    'TitleFirstProject TitleSecondProject TitleThirdProject TitleFourthProject';
   grid-template-columns: 20% auto;
 }
 
 </style>
 
-<!-- Article 3 -->
+<!-- Projects -->
 <div class="grid-container">
+<!-- Project 1 -->
   <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
   <div class="item2">
-  <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
-<b>Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b>
+  <a href="" target="_blank">
+<b>Syntactic and semantic analyses of the expression of TIME in (Taiwan) Mandarin.</b>
 </a>
 </div>
-
+<!-- Project 2 -->
+  <div class="item3"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
+  <div class="item4">
+  <a href="" target="_blank">
+<b>Processing temporal information in (Taiwan) Mandarin: Psycholinguistic and neurolinguistic studies.</b>
+</a>
+</div>
+<!-- Project 3 -->
+  <div class="item5"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
+  <div class="item6">
+  <a href="" target="_blank">
+<b>Neurotypology: Linguistic and cognitive diversities of language processing.</b>
+</a>
+</div>
+<!-- Project 4 -->
+  <div class="item7"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
+  <div class="item8">
+  <a href="" target="_blank">
+<b>Applied language processing: Interpreting, translation and language teaching.</b>
+</a>
+</div>
+</div>
 
 <font size="1">Last update: 2022/12/20</font>
