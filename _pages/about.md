@@ -40,21 +40,46 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   grid-template-columns: 25% 25% 25% 25%;
 }
 
-.image
-{
-    background:url(images/profile.png);
-    height:150px;
-    width:150px;
-    display: block;
-    float:left;
+.container {
+  position: relative;
+  width: 50%;
 }
 
-.image  a {
-    display: none;
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
-.image  a:hover {
-    display: block;
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
 }
 
 </style>
@@ -89,6 +114,15 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 <b>Applied language processing: Interpreting, translation and language teaching.</b>
 </a>
 </div>
+</div>
+
+
+
+<div class="container">
+  <img src="Interpreting.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
 </div>
 
 <font size="1">Last update: 2022/12/20</font>
