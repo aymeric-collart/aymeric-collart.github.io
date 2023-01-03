@@ -49,9 +49,9 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 35% 35%; 
+  grid-template-columns: 30% 30%; 
   grid-template-rows: auto auto; 
-  gap: 6px 6px; 
+  gap: 12px 12px; 
   grid-template-areas: 
     "Project1 Project2"
     "Project3 Project4"; 
