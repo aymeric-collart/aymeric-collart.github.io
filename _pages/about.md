@@ -24,55 +24,94 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 
 <style>
 
-.container {
-  position: relative;
-  width: 25%;
+div.gallery {
+  border: 1px solid #ccc;
 }
 
-.image {
-  display: block;
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
   width: 100%;
   height: auto;
 }
 
-.overlay {
-  position: absolute;
-  bottom: 100%;
-  left: 0;
-  right: 0;
-  background-color: #eeeeee;
-  overflow: hidden;
-  width: 100%;
-  height:0;
-  transition: .5s ease;
-}
-
-.container:hover .overlay {
-  bottom: 0;
-  height: 100%;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 25%;
-  left: 25%;
-  -webkit-transform: translate(-25%, -25%);
-  -ms-transform: translate(-25%, -25%);
-  transform: translate(-25%, -25%);
+div.desc {
+  padding: 15px;
   text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 </style>
 
 
-<div class="container">
-  <img src="./../images/profile.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">
-<a href="https://doi.org/10.1075/consl.21046.col" target="_blank">Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics</a></div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_5terre.jpg">
+      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+    </a>
+    <div class="desc">
+Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics</div>
   </div>
 </div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_forest.jpg">
+      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+    </a>
+    <div class="desc">Processing temporal information in Mandarin and Taiwan Mandarin: Psycholinguistic and neurolinguistic studies</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_lights.jpg">
+      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+    </a>
+    <div class="desc">Neurotypology: Linguistic and cognitive diversities of language processing</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+    </a>
+    <div class="desc">Applied language processing: Translation/interpreting and language teaching</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
 
 <font size="1">Last update: 2022/12/20</font>
