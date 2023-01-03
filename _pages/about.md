@@ -97,7 +97,7 @@ div.desc {
 
 <div class="Project4">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/4-Applied_language_processing/">
       <img src="./../images/Project4.png" width="250" height="250">
     </a>
     <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
