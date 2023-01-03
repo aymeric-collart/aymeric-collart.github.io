@@ -58,9 +58,9 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-25%, -25%);
+  -ms-transform: translate(-25%, -25%);
+  transform: translate(-25%, -25%);
   text-align: center;
 }
 
