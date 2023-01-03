@@ -38,6 +38,7 @@ author_profile: true
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with ‘you (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
 </div>
 <br>
+
 ---
 
 <!-- Article 2 -->
@@ -52,6 +53,7 @@ author_profile: true
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;Fan, C. D., <u>Collart, A.</u>, & Chan, S.* (2022). When two languages are competing: An ERP study on sentence processing in expert and novice interpreters. <i>Interpreting</i>, <i>24</i>(1), 1-37.</div>  
 </div>
 <br>
+
 ---
 
 <!-- Article 1 -->
