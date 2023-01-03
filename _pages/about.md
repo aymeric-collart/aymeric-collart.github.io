@@ -49,12 +49,12 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 35% 35%; 
+  grid-template-columns: 20% 20%; 
   grid-template-rows: auto auto; 
-  gap: 35px 35px; 
+  gap: 6px 6px; 
   grid-template-areas: 
     "Project1 Project2"
-	"Project3 Project4"; 
+    "Project3 Project4"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
@@ -98,7 +98,7 @@ div.desc {
 <div class="Project4">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" width="250" height="250">
+      <img src="./../images/Project4.png" width="250" height="250">
     </a>
     <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
   </div>
