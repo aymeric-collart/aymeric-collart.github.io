@@ -27,9 +27,12 @@ I graduated from the PhD program of the department of English of National Taiwan
 ### Research interests
 
 My research interests combine two disciplines: linguistics and language processing.
-On the linguistic side, I am interested in the syntax and semantics of the expression of TIME from a functional syntax and user-based perspective. Particularly, I aim at understanding how temporal relations are expressed with grammatical markers in Mandarin Chinese (and its variety spoken in Taiwan), which is said to be a tenseless language.
-On the psycholinguistic and neurolinguistic side, I have mainly worked in sentence processing with a focus on the processing of temporality (tense, aspect, modality) in grammar. 
+
+* On the linguistic side, I am interested in the syntax and semantics of the expression of TIME from a functional syntax and user-based perspective. Particularly, I aim at understanding how temporal relations are expressed with grammatical markers in Mandarin Chinese (and its variety spoken in Taiwan), which is said to be a tenseless language.
+* On the psycholinguistic and neurolinguistic side, I have mainly worked in sentence processing with a focus on the processing of temporality (tense, aspect, modality) in grammar. 
+
 I aim at bridging linguistic analyses with their brain processing patterns in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. Although I have mainly conducted my research on Mandarin Chinese, I also wish to expand my research to other languages, especially languages which are underrepresented in the language processing domain.
+
 <br>
 My research interests lie in the following  topics (click on the image for more details):
 
