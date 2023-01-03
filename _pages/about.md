@@ -22,4 +22,28 @@ My research interests lie in the neurolinguistic and psycholinguistic domains, m
 I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica. I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). I have also been the lab manager of the [Neurolinguistics Lab](https://neurolinguisticslabntnu.wordpress.com/) of National Taiwan Normal University for 4 years, where behavioral, ERP and fMRI experiments about a great variety of language-related topics are conducted, such as language relativity, classifier processing or conceptual categorization.
 
 
+<style>
+.item1 { grid-area: Image; }
+.item2 { grid-area: Title; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'Image Image Image Image'
+    'Title Title Title Title';
+  grid-template-columns: 20% auto;
+}
+
+</style>
+
+<!-- Article 3 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
+<b>Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b>
+</a>
+</div>
+
+
 <font size="1">Last update: 2022/12/20</font>
