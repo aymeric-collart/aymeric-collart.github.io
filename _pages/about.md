@@ -49,7 +49,7 @@ div.desc {
 .responsive {
   padding: 0 6px;
   float: left;
-  width: 49.99999%;
+  width: 30%;
   margin: 6px 0;
 }
 
@@ -78,7 +78,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" alt="Cinque Terre" width="150" height="150">
+      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">
 Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
