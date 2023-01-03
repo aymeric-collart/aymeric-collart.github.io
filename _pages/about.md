@@ -40,14 +40,21 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   grid-template-columns: 25% 25% 25% 25%;
 }
 
-.container img{
-  width:300px;
-  margin;0;
-  padding:0;
-  opacity:0.5;
+.image
+{
+    background:url(images/profile.png);
+    height:150px;
+    width:150px;
+    display: block;
+    float:left;
 }
-.container img:hover{
-  opacity:1;
+
+.image  a {
+    display: none;
+}
+
+.image  a:hover {
+    display: block;
 }
 
 </style>
@@ -55,8 +62,7 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 <!-- Projects -->
 <div class="grid-container">
 <!-- Project 1 -->
-  <div class="item1"><img align="left" width="150" height="150" src="./../images/profile.png" style="padding-right: 10px"/>
-  <img class="hover-img" /></div>
+  <div class="item1"><div class="image"><a href="#">Text you want on mouseover</a></div></div>
   <div class="item2">
   <a href="" target="_blank">
 <b>Syntactic and semantic analyses of the expression of TIME in (Taiwan) Mandarin.</b>
