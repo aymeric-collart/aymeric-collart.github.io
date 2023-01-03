@@ -70,19 +70,19 @@ div.desc {
 <div class="Project1">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" width="250" height="250">
+      <img src="./../images/Project1.jpg" width="250" height="250">
     </a>
     <div class="desc">
-Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
+<b>Temporal reference in (Taiwan) Mandarin: Syntax and semantics</b></div>
   </div>
 </div>
 
 <div class="Project2">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" width="250" height="250">
+      <img src="./../images/Project2.png" width="250" height="250">
     </a>
-    <div class="desc">Processing temporal information in (Taiwan) Mandarin</div>
+    <div class="desc"><b>Processing temporal information in (Taiwan) Mandarin</b></div>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" width="250" height="250">
     </a>
-    <div class="desc">Neurotypology: Linguistic and cognitive diversities of language processing</div>
+    <div class="desc"><b>Neurotypology: Linguistic and cognitive diversities of language processing</b></div>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" width="250" height="250">
     </a>
-    <div class="desc">Applied language processing: Translation, interpreting and language teaching</div>
+    <div class="desc"><b>Applied language processing: Translation, interpreting and language teaching</b></div>
   </div>
 </div>
 
