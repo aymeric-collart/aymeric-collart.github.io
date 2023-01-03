@@ -7,8 +7,6 @@ author_profile: true
 
 <i>* = corresponding author</i>
 
----
-
 <style>
 .item1 { grid-area: Image; }
 .item2 { grid-area: Article; }
