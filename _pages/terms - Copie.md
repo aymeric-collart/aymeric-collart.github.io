@@ -1,7 +1,6 @@
 ---
 permalink: /terms_test/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
 ---
 
 {% include base_path %}
@@ -117,3 +116,45 @@ analysis in R. <a href="https://github.com/Kuanhao-Chao/RNASeqR" target="_blank"
       </div>
   </div><!-- End vt2 -->
 </div>
+
+<hr>
+<div style="width: 80%; text-align: center; margin:auto;">
+<a class="twitter-timeline" data-lang="en" data-width="100%" data-height="500" data-theme="light" href="https://twitter.com/KuanHaoChao?ref_src=twsrc%5Etfw" style="align: center">Tweets by KuanHaoChao</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<br>
+
+<div style="text-align: center; pointer-events: all; z-index:100;">
+  <a target="_blank"  href="https://www.ntu.edu.tw/english/index.html">
+    <img src="/images/NTU.png" style="height:160px; width: 160px; margin: 10px">
+</a>
+  <a target="_blank"  href="https://web.ee.ntu.edu.tw/eng/index.php">
+    <img src="/images/NTU_EECS.png" style="height:160px; width: 160px; margin: 10px">
+  </a>
+  <a target="_blank"  href="https://www.sinica.edu.tw/en">
+    <img src="/images/AS_logo.png" style="height:160px; width: 160px; margin: 10px">
+  </a>
+  <a target="_blank"  href="https://www.iis.sinica.edu.tw/index_en.html" >
+    <img src="/images/iis_logo.png" style="height:160px; width: 160px; margin: 10px">
+  </a>
+  <a target="_blank"  href="https://www.anu.edu.au/">
+    <img src="/images/anu_logo_small.png" style="height:160px; width: 160px; margin: 10px">
+  </a>
+  <a target="_blank"  href="http://www.robertlanfear.com/">
+    <img src="/images/ANU_Biology.jpg" style="height:160px; width: 160px; margin: 10px">
+  </a>
+  <a target="_blank"  href="https://bits.iis.sinica.edu.tw/">
+    <img src="/images/BIOIT.png" style="height:160px; width: 160px; margin: 10px">
+  </a>
+  <a target="_blank"  href="http://www.cgm.ntu.edu.tw/web/index/index.jsp?lang=en">
+    <img src="/images/CGM_LOGO.png" style="height:160px; width: 160px; margin: 10px">
+  </a>
+</div>
+<hr>
+<br><br>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SjhWAwqGLnloAclnIVxG6gxPA8DEX2yyW2VQlroVDWw&cl=ffffff&w=a" style="pointer-events: all; z-index:100;"></script>
+<script>
+  initComparisons();
+</script>
+<hr>
+<br><br>
