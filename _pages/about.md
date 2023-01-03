@@ -87,7 +87,7 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 <!-- Projects -->
 <div class="grid-container">
 <!-- Project 1 -->
-  <div class="item1"><div class="image"><a href="#">Text you want on mouseover</a></div></div>
+  <div class="item1"><div class="image" src="profile.png"><a href="#">Text you want on mouseover</a></div></div>
   <div class="item2">
   <a href="" target="_blank">
 <b>Syntactic and semantic analyses of the expression of TIME in (Taiwan) Mandarin.</b>
@@ -119,7 +119,7 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
 
 
 <div class="container">
-  <img src="Interpreting.png" alt="Avatar" class="image">
+  <img src="profile.png" alt="Avatar" class="image">
   <div class="overlay">
     <div class="text">Hello World</div>
   </div>
