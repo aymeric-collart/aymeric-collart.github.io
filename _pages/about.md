@@ -48,21 +48,8 @@ div.desc {
 
 .responsive {
   padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
+  width: 49.99999%;
     margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
 }
 
 .clearfix:after {
