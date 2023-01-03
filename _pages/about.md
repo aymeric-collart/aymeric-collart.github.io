@@ -46,10 +46,28 @@ div.desc {
   box-sizing: border-box;
 }
 
+.container {
+  display: grid; 
+  grid-auto-rows: 1fr; 
+  grid-template-columns: 20% 20%; 
+  grid-template-rows: auto auto; 
+  gap: 6px 6px; 
+  grid-template-areas: 
+    "Project1 Project2"
+    "Project3 Project4"; 
+  justify-content: center; 
+  justify-items: stretch; 
+  align-items: stretch; 
+}
+
 </style>
 
 
-<div class="responsive">
+<div class="container">
+
+
+
+<div class="Project1">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
@@ -59,8 +77,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
   </div>
 </div>
 
-
-<div class="responsive">
+<div class="Project2">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
@@ -69,7 +86,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
   </div>
 </div>
 
-<div class="responsive">
+<div class="Project3">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
@@ -78,7 +95,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
   </div>
 </div>
 
-<div class="responsive">
+<div class="Project4">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
@@ -87,6 +104,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
   </div>
 </div>
 
-<div class="clearfix"></div>
+
+</div>
 
 <font size="1">Last update: 2022/12/20</font>
