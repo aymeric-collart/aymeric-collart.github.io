@@ -51,10 +51,10 @@ div.desc {
   grid-auto-rows: 1fr; 
   grid-template-columns: 35% 35%; 
   grid-template-rows: auto auto; 
-  gap: 25px 25px; 
+  gap: 35px 35px; 
   grid-template-areas: 
     "Project1 Project2"
-	"Project3 Project 4é; 
+	"Project3 Project4"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
