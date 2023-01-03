@@ -77,7 +77,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_5terre.jpg">
-      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">
 Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics</div>
@@ -88,7 +88,7 @@ Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_forest.jpg">
-      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">Processing temporal information in Mandarin and Taiwan Mandarin: Psycholinguistic and neurolinguistic studies</div>
   </div>
@@ -97,7 +97,7 @@ Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_lights.jpg">
-      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">Neurotypology: Linguistic and cognitive diversities of language processing</div>
   </div>
@@ -106,9 +106,9 @@ Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_mountains.jpg">
-      <img src="profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
-    <div class="desc">Applied language processing: Translation/interpreting and language teaching</div>
+    <div class="desc">Applied language processing: Translation, interpreting and language teaching</div>
   </div>
 </div>
 
