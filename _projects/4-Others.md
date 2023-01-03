@@ -1,5 +1,5 @@
 ---
-title: "Others"
+title: "Applied language processing: Translation and language teaching"
 layout: single-portfolio
 image: "/images/editing-talk.png"
 collection: projects

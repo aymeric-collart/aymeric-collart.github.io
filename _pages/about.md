@@ -49,7 +49,7 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 20% 20%; 
+  grid-template-columns: 35% 35%; 
   grid-template-rows: auto auto; 
   gap: 6px 6px; 
   grid-template-areas: 
@@ -69,7 +69,7 @@ div.desc {
 
 <div class="Project1">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Temporal/">
       <img src="./../images/Project1.jpg" width="250" height="250">
     </a>
     <div class="desc">
@@ -79,7 +79,7 @@ div.desc {
 
 <div class="Project2">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/2-Mandarin_Processing_Temporal/">
       <img src="./../images/Project2.png" width="250" height="250">
     </a>
     <div class="desc"><b>Processing temporal information in (Taiwan) Mandarin</b></div>
@@ -88,7 +88,7 @@ div.desc {
 
 <div class="Project3">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/3-Neurotypology/">
       <img src="./../images/Project3.png" width="250" height="250">
     </a>
     <div class="desc"><b>Neurotypology: Linguistic and cognitive diversities of language processing</b></div>
