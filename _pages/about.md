@@ -88,7 +88,7 @@ div.desc {
 <div class="Project3">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" width="250" height="250">
+      <img src="./../images/Project3.png" width="250" height="250">
     </a>
     <div class="desc"><b>Neurotypology: Linguistic and cognitive diversities of language processing</b></div>
   </div>
@@ -99,7 +99,7 @@ div.desc {
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" width="250" height="250">
     </a>
-    <div class="desc"><b>Applied language processing: Translation, interpreting and language teaching</b></div>
+    <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
   </div>
 </div>
 
