@@ -51,7 +51,7 @@ div.desc {
   grid-auto-rows: 1fr; 
   grid-template-columns: 30% 30%; 
   grid-template-rows: auto auto; 
-  gap: 12px 12px; 
+  gap: 20px 20px; 
   grid-template-areas: 
     "Project1 Project2"
     "Project3 Project4"; 
@@ -82,7 +82,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" width="250" height="250">
     </a>
-    <div class="desc">Processing temporal information in (Taiwan) Mandarin: Psycholinguistic and neurolinguistic studies</div>
+    <div class="desc">Processing temporal information in (Taiwan) Mandarin</div>
   </div>
 </div>
 
