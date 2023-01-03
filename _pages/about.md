@@ -49,7 +49,7 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 20% 20%; 
+  grid-template-columns: 35% 35%; 
   grid-template-rows: auto auto; 
   gap: 6px 6px; 
   grid-template-areas: 
@@ -70,7 +70,7 @@ div.desc {
 <div class="Project1">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" width="250" height="250">
     </a>
     <div class="desc">
 Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
@@ -80,7 +80,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
 <div class="Project2">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" width="250" height="250">
     </a>
     <div class="desc">Processing temporal information in (Taiwan) Mandarin: Psycholinguistic and neurolinguistic studies</div>
   </div>
@@ -89,7 +89,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
 <div class="Project3">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" width="250" height="250">
     </a>
     <div class="desc">Neurotypology: Linguistic and cognitive diversities of language processing</div>
   </div>
@@ -98,7 +98,7 @@ Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
 <div class="Project4">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/publications/">
-      <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
+      <img src="./../images/profile.png" width="250" height="250">
     </a>
     <div class="desc">Applied language processing: Translation, interpreting and language teaching</div>
   </div>
