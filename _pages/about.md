@@ -37,7 +37,17 @@ I am currently a postdoctoral researcher at the Institute of Linguistics of Acad
   grid-template-areas:
     'ImageFirstProject ImageSecondProject ImageThirdProject ImageFourthProject'
     'TitleFirstProject TitleSecondProject TitleThirdProject TitleFourthProject';
-  grid-template-columns: 20% auto;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.container img{
+  width:300px;
+  margin;0;
+  padding:0;
+  opacity:0.5;
+}
+.container img:hover{
+  opacity:1;
 }
 
 </style>
