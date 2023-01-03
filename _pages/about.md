@@ -76,27 +76,27 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
+    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">
-Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics</div>
+Temporal reference in (Taiwan) Mandarin: Syntax and semantics</div>
   </div>
 </div>
 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
+    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
-    <div class="desc">Processing temporal information in Mandarin and Taiwan Mandarin: Psycholinguistic and neurolinguistic studies</div>
+    <div class="desc">Processing temporal information in (Taiwan) Mandarin: Psycholinguistic and neurolinguistic studies</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
+    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">Neurotypology: Linguistic and cognitive diversities of language processing</div>
@@ -105,7 +105,7 @@ Temporal reference in Mandarin Chinese and Taiwan Mandarin: Syntax and semantics
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
+    <a target="_blank" href="https://aymeric-collart.github.io/publications/">
       <img src="./../images/profile.png" alt="Cinque Terre" width="250" height="250">
     </a>
     <div class="desc">Applied language processing: Translation, interpreting and language teaching</div>
