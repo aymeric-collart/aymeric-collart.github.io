@@ -38,7 +38,7 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 12px;
   text-align: center;
 }
 
@@ -49,12 +49,11 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 30% 30%; 
+  grid-template-columns: 25% 25% 25% 25M; 
   grid-template-rows: auto auto; 
   gap: 20px 20px; 
   grid-template-areas: 
-    "Project1 Project2"
-    "Project3 Project4"; 
+    "Project1 Project2 Project3 Project 4"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
