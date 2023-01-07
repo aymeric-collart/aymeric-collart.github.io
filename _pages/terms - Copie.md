@@ -3,52 +3,111 @@ permalink: /tests/
 title: "Tests"
 ---
 
-<!doctype html>
-<html lang="en">
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-</head>
+<style>
+.main-container{
+	position: relative;
+	width: 500px;
+}
+/*creating line for timeline*/
+.main-container::after{
+	content: '';
+	position: absolute;
+	width: 10px;
+	background-color: #FFC0CB;
+	top:0;
+	bottom: 0;
+	left: 50%;
+	margin-left: -3px;
+}
+/*Adjusting box of all content*/
+.text-wrapper{
+	padding: 10px 40px;
+	position: relative;
+	width:51%;
+	box-sizing: border-box;
+	margin: 50px 0;
+}
+.text-wrapper::after{
+	content: '';
+	position: absolute;
+	width: 30px;
+	height: 25px;
+	right: -10px;
+	background-color:#FF69B4;
+	top:15px;
+	border-radius: 50%;
+	z-index: 1;
+}
+/*for left events*/
+.left{
+	left: 0;
+}
+/*for right events*/
+.right{
+	left:50%;
+}
+.right::after{
+	left:-10px;
+}
+/*content box colour padding and radius for circular corner*/
+.content{
+	padding: 15px 15px 15px 17px;
+	background-color: #FFC0CB;
+	border-radius: 4px;
+}
+/*setting text property of event heading*/
+.content h3{
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #212121;
+	letter-spacing:1px;
+}
+/*setting text property of event content*/
+.content p{
+	color: #616161;
+	font-weight: 300;
+	font-size: 18px;
+	margin-top: 2px;
+}
+</style>
+
+<!DOCTYPE html>
+<html>
 <body>
-
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2015</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2012</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2011</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2007</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-</div>
-
+<!-- container which will contain our timeline -->
+	<div class="main-container">
+		<!-- event 1st of timeline -->
+		<div class="text-wrapper left">
+			<!-- all text content of timeline -->
+			<div class="content">
+				<h3>one</h3>
+				<p>Some stuff</p>
+			</div>
+		</div>
+		<!-- event 1st of timeline -->
+		<div class="text-wrapper right">
+			<!-- all text content of timeline -->
+			<div class="content">
+				<h3>two</h3>
+				<p>Some stuff</p>
+			</div>
+		</div>
+		<!-- event 1st of timeline -->
+		<div class="text-wrapper left">
+			<!-- all text content of timeline -->
+			<div class="content">
+				<h3>three</h3>
+				<p>Some Stuff</p>
+			</div>
+		</div>
+		<!-- event 1st of timeline -->
+		<div class="text-wrapper right">
+			<!-- all text content of timeline -->
+			<div class="content">
+				<h3>four</h3>
+				<p>Some stuff</p>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
