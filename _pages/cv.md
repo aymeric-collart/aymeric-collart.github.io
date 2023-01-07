@@ -12,34 +12,26 @@ The PDF copy of my CV can be downloaded [here](/files/CV_AymericCollart_October2
 
 
 
--
-	var timeline = [
-	{
-		title: "Title A",
-		detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi."
-	}, {
-		title: "Title B",
-		detail: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi."
-	}, {
-		title: "Title C",
-		detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi."
-	}, {
-		title: "Title D",
-		detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi."
-	}, {
-		title: "Title D",
-		detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi."
-	}
-	];
-	
-mixin timeline(entry)
-	dl.timeline--entry
-		dt.timeline--entry__title= entry.title
-		dd.timeline--entry__detail= entry.detail
+<section class="cd-timeline js-cd-timeline">
+  <div class="container max-width-lg cd-timeline__container">
+    <div class="cd-timeline__block">
+      <div class="cd-timeline__img cd-timeline__img--picture">
+        <img src="assets/img/cd-icon-picture.svg" alt="Picture">
+      </div> <!-- cd-timeline__img -->
 
-.wrapper
-	h1 Timeline Created With CSS Grid
+      <div class="cd-timeline__content text-component">
+        <h2>Title of section 1</h2>
+        <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
 
-	.timeline
-		for entry in timeline
-			+timeline(entry)
+        <div class="flex justify-between items-center">
+          <span class="cd-timeline__date">Jan 14</span>
+          <a href="#0" class="btn btn--subtle">Read more</a>
+        </div>
+      </div> <!-- cd-timeline__content -->
+    </div> <!-- cd-timeline__block -->
+
+    <div class="cd-timeline__block">
+      <!-- ... -->
+    </div> <!-- cd-timeline__block -->
+  </div>
+</section> <!-- cd-timeline -->
