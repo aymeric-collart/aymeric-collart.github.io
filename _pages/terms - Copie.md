@@ -3,52 +3,144 @@ permalink: /tests/
 title: "Tests"
 ---
 
-<b id="click" style='display:block;background:rgb(80,80,80);text-align:center;color:white;padding: 1em 0 1em;cursor:pointer;'>DISCLAIMER (click to view)</b><b id='caring' style='display:none;padding: 10px;border-top: 15px solid #f1bc1a'><u>This piece of CSS magic is free for everyone.</u><br />Use it, steal it, claim it your own. I don't care. <span style="font-size:24px">Actually,</span> I care if it was helpful and you managed to create something new and amazing. If you like this experiment, I would love to hear from you via <a href="https://twitter.com/intent/user?screen_name=christian_fei">Twitter</a> to see how you implemented this in your project :) <br /><br /> <br /> <br /> Credit where credit is due: <br /> I wanted to create my own timeline after seeing Paul Stamatious' one over at <a href="http://paulstamatiou.com/posts"> his website</a></b>
-
-<!-- THE CODE | THE CODE | THE CODE | THE CODE | THE CODE -->
-
-<!-- Each event is wrapper inside an anchor with the class 'event' -->
-  <!-- The i-tag inside the anchor creates the little arrow beside an event (see v1.0) -->
-  <!-- FORK AWAY AND PLEASE LET ME KNOW IF YOU HAVE SUGGESTIONS AND FEEDBACK :) -->
-
-<a class='ad' href="http://christian-fei.com/tutorials/simple-vertical-timeline-with-css/">Check out this article for more information (open it in a new tab)</a>
-<br />
-<br />
-<span class="padd center">Do I need to tell you to resize your browser window?<br/>*cough* responsive *cough*</span>
-<h1 class='padd'>v2.0</h1>
-<ul class='timeline'>
-  <li class="year first">2013</li>
-  <li class='event offset-first'>
-    Something amazing happened today, but it's a secret
-  </li>
-  <li class='event' href="#">
-    Timeline.css is <b>dynamic</b>, <b>responsive</b> and optimized to <b>demonstrate events</b> in your life in a <b>simple and clear</b> way
-  </li>
-  <li class="event">
-    <a href="http://christian-fei.com" title="christian fei">
-    made with &lt;3 by <img src="https://s3-eu-west-1.amazonaws.com/cf.img/var/face.svg" alt="christian fei"/>
-    </a>
-  </li>
-  <li class="event">
-  <a href="https://codepen.io/christian-fei/pen/BJily">
-    Open source project on codepen.io
-    <img src="http://davidwalsh.name/demo/codepenLogo.png" alt=""/>
-  </a>
-  </li>
-  <li class='event'>
-    Look, a sleepy kitten: <br/>
-    <img src="http://ih2.redbubble.net/image.10311838.0354/flat,550x550,075,f.jpg"/>
-    <a href='http://ih2.redbubble.net/image.10311838.0354/flat,550x550,075,f.jpg'>&copy;</a>
-  </li>
-  <li class="year">2012</li>
-	<li class="event offset-first">
-		<p>To infinity  ... </p>
-    <img class='centered' src="http://upload.wikimedia.org/wikipedia/en/7/75/Buzz-lightyear-toy-story-3-wallpaper.jpg" alt=""/>
-		<a href='http://upload.wikimedia.org/wikipedia/en/7/75/Buzz-lightyear-toy-story-3-wallpaper.jpg'>&copy;</a>
-	</li>
-	<li class="event">
-		<p>... and beyond!</p>
-    <img class='centered' src="https://brandstyle.com.br/wp-content/uploads/2012/05/Woody-7.jpg" alt=""/>
-		<a href='https://brandstyle.com.br/wp-content/uploads/2012/05/Woody-7.jpg'>&copy;</a>
-	</li>
-</ul>
+:root{
+    --color1: #117D83;
+    --color2: #076769;
+}
+.main-timeline{ font-family: 'Poppins', sans-serif; }
+.main-timeline:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.main-timeline .timeline{
+    width: 50%;
+    padding: 0 70px 0 0;
+    margin: 0 5px 15px 0;
+    float: left;
+}
+.main-timeline .timeline-content{
+    color: #999;
+    background: var(--main-color);
+    min-height: 120px;
+    padding: 0 30px 0 0;
+    border-right: 2px solid var(--color1);
+    display: block;
+    position: relative;
+    z-index: 1;
+}
+.main-timeline .timeline-content:hover{ text-decoration: none; }
+.main-timeline .timeline-content:before,
+.main-timeline .timeline-content:after{
+    content: '';
+    background-color: var(--color2);
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    position: absolute;
+    right: -5px;
+    top: 0;
+}
+.main-timeline .timeline-content:after{
+    top: auto;
+    bottom: 0;
+}
+.main-timeline .timeline-icon{
+    color: #fff;
+    background-color: var(--color1);
+    font-size: 40px;
+    text-align: center;
+    line-height: 93px;
+    height: 93px;
+    width: 93px;
+    border-radius: 30px;
+    box-shadow: -5px -5px 5px rgba(0,0,0,0.2), -8px -8px 0 var(--color2);
+    transform: translateY(-50%);
+    position: absolute;
+    right: -120px;
+    top: 50%;
+}
+.main-timeline .timeline-year{
+    font-size: 32px;
+    font-weight: 300;
+}
+.main-timeline .title{
+    color: var(--color1);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 0 0 7px;
+}
+.main-timeline .description{
+    color: #444;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+.main-timeline .timeline:nth-child(even){
+    padding: 0 0 0 70px;
+    margin: 0 0 15px 5px;
+    float: right;
+}
+.main-timeline .timeline:nth-child(even) .timeline-content{
+    padding: 0 0 0 30px;
+    border-left: 2px solid var(--color1);
+    border-right: none;
+}
+.main-timeline .timeline:nth-child(even) .timeline-content:before,
+.main-timeline .timeline:nth-child(even) .timeline-content:after{
+    right: auto;
+    left: -5px;
+}
+.main-timeline .timeline:nth-child(even) .timeline-icon{
+    box-shadow: 5px -5px 5px rgba(0,0,0,0.2), 8px -8px 0 var(--color2);
+    left: -120px;
+    right: auto;
+}
+.main-timeline .timeline:nth-child(2){
+    --color1: #D31C4C;
+    --color2: #B11042;
+}
+.main-timeline .timeline:nth-child(3){
+    --color1: #EC431C;
+    --color2: #C83011;
+}
+.main-timeline .timeline:nth-child(4){
+    --color1: #2486D9;
+    --color2: #1D6CAE;
+}
+@media screen and (max-width:767px){
+    .main-timeline .timeline,
+    .main-timeline .timeline:nth-child(even){
+        width: 100%;
+        padding: 115px 0 0;
+        margin: 0 0 50px;
+    }
+    .main-timeline .timeline-content,
+    .main-timeline .timeline:nth-child(even) .timeline-content{
+        text-align: center;
+        padding: 15px 0 0 0;
+        border: none;
+        border-top: 2px solid var(--color1);
+    }
+    .main-timeline .timeline-content:before{
+        right: auto;
+        left: 0;
+        top: -5px;
+    }
+    .main-timeline .timeline-content:after,
+    .main-timeline .timeline:nth-child(even) .timeline-content:after{
+        left: auto;
+        right: 0;
+        top: -5px;
+    }
+    .main-timeline .timeline-icon,
+    .main-timeline .timeline:nth-child(even) .timeline-icon{
+        transform: translateY(0) translateX(-50%);
+        top: -115px;
+        left: 50%;
+    }
+}
