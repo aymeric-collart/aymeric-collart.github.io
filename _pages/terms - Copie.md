@@ -4,110 +4,149 @@ title: "Tests"
 ---
 
 <style>
-.main-container{
-	position: relative;
-	width: 500px;
+/* Set a background color */
+body {
+  background-color: #474e5d;
+  font-family: Helvetica, sans-serif;
 }
-/*creating line for timeline*/
-.main-container::after{
-	content: '';
-	position: absolute;
-	width: 10px;
-	background-color: #FFC0CB;
-	top:0;
-	bottom: 0;
-	left: 50%;
-	margin-left: -3px;
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-/*Adjusting box of all content*/
-.text-wrapper{
-	padding: 10px 40px;
-	position: relative;
-	width:51%;
-	box-sizing: border-box;
-	margin: 50px 0;
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
 }
-.text-wrapper::after{
-	content: '';
-	position: absolute;
-	width: 30px;
-	height: 25px;
-	right: -10px;
-	background-color:#FF69B4;
-	top:15px;
-	border-radius: 50%;
-	z-index: 1;
+
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
 }
-/*for left events*/
-.left{
-	left: 0;
+
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
 }
-/*for right events*/
-.right{
-	left:50%;
+
+/* Place the container to the left */
+.left {
+  left: 0;
 }
-.right::after{
-	left:-10px;
+
+/* Place the container to the right */
+.right {
+  left: 50%;
 }
-/*content box colour padding and radius for circular corner*/
-.content{
-	padding: 15px 15px 15px 17px;
-	background-color: #FFC0CB;
-	border-radius: 4px;
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white;
 }
-/*setting text property of event heading*/
-.content h3{
-	text-transform: uppercase;
-	font-size: 14px;
-	color: #212121;
-	letter-spacing:1px;
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
 }
-/*setting text property of event content*/
-.content p{
-	color: #616161;
-	font-weight: 300;
-	font-size: 18px;
-	margin-top: 2px;
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+/* Place the timelime to the left */
+  .timeline::after {
+    left: 31px;
+  }
+
+/* Full-width containers */
+  .container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+/* Make sure that all arrows are pointing leftwards */
+  .container::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+/* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+    left: 15px;
+  }
+
+/* Make all right containers behave like the left ones */
+  .right {
+    left: 0%;
+  }
 }
 </style>
 
-<!DOCTYPE html>
-<html>
-<body>
-<!-- container which will contain our timeline -->
-	<div class="main-container">
-		<!-- event 1st of timeline -->
-		<div class="text-wrapper left">
-			<!-- all text content of timeline -->
-			<div class="content">
-				<h3>one</h3>
-				<p>Some stuff</p>
-			</div>
-		</div>
-		<!-- event 1st of timeline -->
-		<div class="text-wrapper right">
-			<!-- all text content of timeline -->
-			<div class="content">
-				<h3>two</h3>
-				<p>Some stuff</p>
-			</div>
-		</div>
-		<!-- event 1st of timeline -->
-		<div class="text-wrapper left">
-			<!-- all text content of timeline -->
-			<div class="content">
-				<h3>three</h3>
-				<p>Some Stuff</p>
-			</div>
-		</div>
-		<!-- event 1st of timeline -->
-		<div class="text-wrapper right">
-			<!-- all text content of timeline -->
-			<div class="content">
-				<h3>four</h3>
-				<p>Some stuff</p>
-			</div>
-		</div>
-	</div>
-</body>
-</html>
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>2017</h2>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2016</h2>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+</div>
