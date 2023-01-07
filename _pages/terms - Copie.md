@@ -28,7 +28,7 @@ title: "Tests"
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: blue;
+  background-color: white;
   width: 50%;
 }
 
@@ -92,7 +92,7 @@ title: "Tests"
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: purple;
+  background-color: #eeeeee;
   position: relative;
   border-radius: 6px;
 }
