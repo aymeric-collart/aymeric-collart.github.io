@@ -17,7 +17,7 @@ title: "Tests"
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: black;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -28,7 +28,7 @@ title: "Tests"
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
+  background-color: blue;
   width: 50%;
 }
 
@@ -65,9 +65,9 @@ title: "Tests"
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid white;
+  border: medium solid black;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent black;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -79,9 +79,9 @@ title: "Tests"
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid white;
+  border: medium solid black;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent black transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -92,7 +92,7 @@ title: "Tests"
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: white;
+  background-color: purple;
   position: relative;
   border-radius: 6px;
 }
