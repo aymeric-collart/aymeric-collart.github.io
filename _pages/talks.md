@@ -9,7 +9,7 @@ Slides upon request. You may contact me by email.
 
 ---
 ## Accepted presentations (abstract reviewed and accepted)
-Stay tuned for future information!
+* <ins>Collart, A.</ins>. (2023, March). <b>Existing in time has a cost: A judgment acceptability study on the temporal concord processing of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 36th Annual Conference on Human Sentence Processing (HSP-2023). University of Pittsburgh, Pittsburgh (Pennsylvania), USA. (poster) [Abstract]
 
 ## Past conference presentations
 * <ins>Collart, A.</ins> (2022, October). <b>Processing past time reference, but which one? An ERP study on the Mandarin Chinese morphemes <i>guo1</i> and <i>guo2</i> with definite and indefinite time adverbs</b>. Paper presented at the Linguistic Evidence 2022. Université de Paris, Paris, France. (talk) [Abstract]
