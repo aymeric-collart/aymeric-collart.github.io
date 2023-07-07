@@ -102,7 +102,9 @@ author_profile: true
 ## Submitted manuscript(s)
 * <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (under review). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language.</b></font>
 
-* <font size="3"><ins>Collart, A.</ins>. (submitted). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
+* <font size="3"><ins>Collart, A.</ins>. (under review). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
+
+* <font size="3"><ins>Collart, A.</ins>. (under review). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
 
 ## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins> (under revision). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.

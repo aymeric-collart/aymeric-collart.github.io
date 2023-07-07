@@ -10,12 +10,9 @@ redirect_from:
 
 <br>
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2023/01/29)</b><br> The abstract entilted "Existing in time has a cost: A judgment acceptability study on the temporal concord processing of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" has been accepted for a poster presentation at the 36th Annual Conference on Human Processing Conference (University of Pittsburgh, March 9-11)!
-</div>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2022/12/08)</b><br> The book chapter "Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing" has been accepted for publication!
-</div>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2022/12/01)</b><br> The article "Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation" (in collaboration with Hung-Kuan Su) is now available online!
-</div>
+<div style='margin-left:1em;margin-top:1em'><b>New! (2023/07/07)</b><br>I am happy to give two poster presentations at AMLaP 2023:<br>
+<br>- Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin
+<br>- Ten years of linguistic diversity in language processing conferences
 <br>
 </div>
 <br>
@@ -120,4 +117,4 @@ div.desc {
 </div>
 
 <br>
-<font size="1">Last update: 2023/01/30</font>
+<font size="1">Last update: 2023/07/07</font>
