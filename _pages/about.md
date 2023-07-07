@@ -15,6 +15,7 @@ redirect_from:
 <br>- Ten years of linguistic diversity in language processing conferences
 <br>
 </div>
+</div>
 <br>
 
 ### Short bio
