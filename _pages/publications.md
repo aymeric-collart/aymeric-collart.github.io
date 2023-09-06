@@ -35,7 +35,7 @@ author_profile: true
 <b>Past and future time reference processing teased apart in Paiwan, an endangered language.</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, 2022.</div>
+  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, Year TBA.</div>
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (Accepted upon minor revisions). Past and future time reference processing teased apart in Paiwan, an endangered language. <i>Language and Cognition</i>, <i>Issue TBA</i>.</div>  
 </div>
 <br>
