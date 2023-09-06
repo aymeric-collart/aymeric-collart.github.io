@@ -27,6 +27,21 @@ author_profile: true
 <br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
 
+<!-- Article 4 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/LanguageAndCognition_Journal.png" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="" target="_blank">
+<b>Past and future time reference processing teased apart in Paiwan, an endangered language.</b>
+</a>
+</div>
+  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, 2022.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (Accepted upon minor revisions). Past and future time reference processing teased apart in Paiwan, an endangered language. <i>Language and Cognition</i>, <i>Issue TBA</i>.</div>  
+</div>
+<br>
+
+---
+
 <!-- Article 3 -->
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
@@ -100,8 +115,6 @@ author_profile: true
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
 
 ## Submitted manuscript(s)
-* <font size="3"><ins>Collart, A.</ins>, and Zeitoun, E. (under review). <b>Past and future time reference processing teased apart in Paiwan, a non-LOL language.</b></font>
-
 * <font size="3"><ins>Collart, A.</ins>. (under review). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
 
 * <font size="3"><ins>Collart, A.</ins>. (under review). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
