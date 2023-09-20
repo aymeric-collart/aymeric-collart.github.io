@@ -36,7 +36,7 @@ author_profile: true
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, Year TBA.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (Accepted upon minor revisions). Past and future time reference processing teased apart in Paiwan, an endangered language. <i>Language and Cognition</i>, <i>Issue TBA</i>.</div>  
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (Accepted). Past and future time reference processing teased apart in Paiwan, an endangered language. <i>Language and Cognition</i>, <i>Issue TBA</i>.</div>  
 </div>
 <br>
 
@@ -116,9 +116,9 @@ author_profile: true
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
 
 ## Submitted manuscript(s)
-* <font size="3"><ins>Collart, A.</ins>. (under review). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
+* <font size="3"><ins>Collart, A.</ins> (under review). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
 
-* <font size="3"><ins>Collart, A.</ins>. (under review). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
+* <font size="3"><ins>Collart, A.</ins> (under review). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
 
 ## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins> (under revision). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.
