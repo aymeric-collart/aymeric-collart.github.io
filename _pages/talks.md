@@ -9,13 +9,17 @@ Slides upon request. You may contact me by email.
 
 ---
 ## Accepted presentations (abstract reviewed and accepted)
-* <ins>Collart, A.</ins>. (2023, September). <b>Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper to be presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
-
-
-* <ins>Collart, A.</ins>. (2023, September). <b>Ten years of linguistic diversity in language processing conferences</b>. Paper to be presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
+* <ins>Collart, A.</ins>. (2023, November). <b>PNeurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop
+(X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract]
 
 
 ## Past conference presentations
+* <ins>Collart, A.</ins>. (2023, September). <b>Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
+
+
+* <ins>Collart, A.</ins>. (2023, September). <b>Ten years of linguistic diversity in language processing conferences</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
+
+
 * <ins>Collart, A.</ins>. (2023, May). <b>Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin</b>. Paper presented at the Workshop on Theoretical East Asian Linguistics 13 (TEAL-13). National Taiwan Normal University, Taipei, Taiwan. (talk) [Abstract]
 
 

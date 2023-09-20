@@ -10,9 +10,9 @@ redirect_from:
 
 <br>
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
-<div style='margin-left:1em;'><b>New! (2023/09/18)</b><br>The manuscript entitles "Past and future time reference processing teased apart in Paiwan, an endangered language" (in collaboration with Dr. Elizabeth Zeitoun) has been accepted for publication in <i>Language and Cognition</i>!<br>
+<div style='margin-left:1em;'><b>New! (2023/09/18)</b><br>The manuscript entitled "Past and future time reference processing teased apart in Paiwan, an endangered language" (in collaboration with Dr. Elizabeth Zeitoun) has been accepted for publication in <i>Language and Cognition</i>!<br>
 </div>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2023/09/01)</b><br>I am happy to present the study entitled "Neurotypological considerations of temporal concord processing" at the <b>Crosslinguistic Perspectives on Processing and Learning Workshop(X-PPL)</b> on November 6-8!
+<div style='margin-left:1em;margin-top:1em'><b>New! (2023/09/01)</b><br>I am happy to present the study entitled "Neurotypological considerations of temporal concord processing" at the <i>Crosslinguistic Perspectives on Processing and Learning Workshop(X-PPL)</i> on November 6-8!
 </div>
 </div>
 <br>
