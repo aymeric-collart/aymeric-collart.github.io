@@ -9,7 +9,7 @@ Slides upon request. You may contact me by email.
 
 ---
 ## Accepted presentations (abstract reviewed and accepted)
-* <ins>Collart, A.</ins>. (2023, November). <b>PNeurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop
+* <ins>Collart, A.</ins>. (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop
 (X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract]
 
 
