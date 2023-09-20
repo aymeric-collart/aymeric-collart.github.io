@@ -29,7 +29,7 @@ author_profile: true
 
 <!-- Article 4 -->
 <div class="grid-container">
-  <div class="item1"><img align="left" width="150" height="150" src="./../images/LanguageAndCognition_Journal.png" style="padding-right: 10px"/></div>
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/LanguageAndCognition_Journal2.png" style="padding-right: 10px"/></div>
   <div class="item2">
   <a href="" target="_blank">
 <b>Past and future time reference processing teased apart in Paiwan, an endangered language.</b>
