@@ -10,12 +10,9 @@ redirect_from:
 
 <br>
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
-<div style='margin-left:1em;'><b>New! (2022/10/18)</b><br>I am happy to give three talks in the following weeks:<br>
-<br>- <b>October 29, 2022</b> Towards an extended neurolinguistic model of the processing of TIME in Mandarin: Bridging linguistic analyses and neurocognitive. Invited talk as the recipient of the Linguistic Society of Taiwan Thesis of the Year Award at the 23rd National Conference on Linguistics (NCL-23), National Chengchi University, Taipei, Taiwan.
-<br>- <b>November 4, 2022</b> What can formal linguistics bring to neurolinguistics? Examples from temporal concord processing in Mandarin. Invited talk at the Department of English, National Taiwan Normal University University, Taipei, Taiwan.
-<br>- <b>December 5, 2022</b> Le village paiwan de Tuban Tjuabal ou la croisée des chemins entre la linguistique de terrain et la linguistique expérimentale [The Paiwan village of Tuban Tjuabal or the crossroad between field linguistics and experimental linguistics]. Invited talk at the Journées des jeunes chercheurs CEFC-EFEO, Academia Sinica, Taipei, Taiwan.
+<div style='margin-left:1em;'><b>New! (2023/09/18)</b><br>The manuscript entitles "Past and future time reference processing teased apart in Paiwan, an endangered language" (in collaboration with Dr. Elizabeth Zeitoun) has been accepted for publication in <i>Language and Cognition</i>!<br>
 </div>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2022/10/04)</b><br>I am honored to announce that my Ph.D. dissertation has been awarded the Linguistic Society of Taiwan Thesis of the Year Award 2022!
+<div style='margin-left:1em;margin-top:1em'><b>New! (2023/09/01)</b><br>I am happy to present the study entitled "Neurotypological considerations of temporal concord processing" at the <b>Crosslinguistic Perspectives on Processing and Learning Workshop(X-PPL)</b> on November 6-8!
 </div>
 </div>
 <br>
