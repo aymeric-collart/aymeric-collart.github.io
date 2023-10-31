@@ -31,12 +31,12 @@ author_profile: true
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="150" src="./../images/LanguageAndCognition_Journal2.png" style="padding-right: 10px"/></div>
   <div class="item2">
-  <a href="" target="_blank">
-<b>Past and future time reference processing teased apart in Paiwan, an endangered language.</b>
+  <a href="https://www.cambridge.org/core/journals/language-and-cognition/article/past-and-future-time-reference-processing-teased-apart-in-paiwan-an-endangered-formosan-language/2816D5906BF51FF82847E87E5D7A93D1" target="_blank">
+<b>Past and future time reference processing teased apart in Paiwan, an endangered Formosan language.</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, Year TBA.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (Accepted). Past and future time reference processing teased apart in Paiwan, an endangered language. <i>Language and Cognition</i>, <i>Issue TBA</i>.</div>  
+  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, 2023.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (2023). Past and future time reference processing teased apart in Paiwan, an endangered Formosan language. <i>Language and Cognition</i>, 1-26. <i>First view article</i>.</div>  
 </div>
 <br>
 
