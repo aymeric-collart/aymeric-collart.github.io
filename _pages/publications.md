@@ -90,12 +90,12 @@ author_profile: true
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="107" src="./../images/Book_chapter.jpg" style="padding-right: 10px"/></div>
   <div class="item2">
-  <a href="" target="_blank">
+  <a href="https://referenceworks.brillonline.com/entries/handbook-of-formosan-languages-the-indigenous-languages-of-taiwan/40-review-of-indigenous-language-teaching-and-beyond-in-taiwan-a-race-against-time-COM_204030" target="_blank">
 <b>Review of indigenous language teaching and beyond in Taiwan: The race against time.</b>
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u>, Wu, J. J., & Huang, L. M. (Forthcoming). Review of indigenous language teaching and beyond in Taiwan: The race against time. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (pp. ??-??), Leiden: Brill.</div>  
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u>, Wu, J. J., & Huang, L. M. (2023). Review of indigenous language teaching and beyond in Taiwan: The race against time. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (Brill Reference Online), Leiden: Brill.</div>  
 </div>
 <br>
 
