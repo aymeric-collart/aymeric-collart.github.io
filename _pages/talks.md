@@ -13,31 +13,30 @@ Slides upon request. You may contact me by email.
 
 
 ## Past conference presentations
-* <ins>Collart, A.</ins>. (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop
-(X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract]
+* <ins>Collart, A.</ins>. (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop (X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_XPPL2023_AymericCollart.pdf)
 
-* <ins>Collart, A.</ins>. (2023, September). <b>Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
-
-
-* <ins>Collart, A.</ins>. (2023, September). <b>Ten years of linguistic diversity in language processing conferences</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
+* <ins>Collart, A.</ins>. (2023, September). <b>Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_AMLaP2023_Collart_YouHuiSelfPaced.pdf)
 
 
-* <ins>Collart, A.</ins>. (2023, May). <b>Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin</b>. Paper presented at the Workshop on Theoretical East Asian Linguistics 13 (TEAL-13). National Taiwan Normal University, Taipei, Taiwan. (talk) [Abstract]
+* <ins>Collart, A.</ins>. (2023, September). <b>Ten years of linguistic diversity in language processing conferences</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_AMLaP2023_Collart_WEIRDLanguages.pdf)
 
 
-* <ins>Collart, A.</ins>. (2023, March). <b>Existing in time has a cost: A judgment acceptability study on the temporal concord processing of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 36th Annual Conference on Human Sentence Processing (HSP-2023). University of Pittsburgh, Pittsburgh (Pennsylvania), USA. (poster) [Abstract]
+* <ins>Collart, A.</ins>. (2023, May). <b>Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin</b>. Paper presented at the Workshop on Theoretical East Asian Linguistics 13 (TEAL-13). National Taiwan Normal University, Taipei, Taiwan. (talk) [Abstract](https://aymeric-collart.github.io/files/Abstract_TEAL13_AymericCollart.pdf)
 
 
-* <ins>Collart, A.</ins> (2022, October). <b>Processing past time reference, but which one? An ERP study on the Mandarin Chinese morphemes <i>guo1</i> and <i>guo2</i> with definite and indefinite time adverbs</b>. Paper presented at the Linguistic Evidence 2022. Université de Paris, Paris, France. (talk) [Abstract]
+* <ins>Collart, A.</ins>. (2023, March). <b>Existing in time has a cost: A judgment acceptability study on the temporal concord processing of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 36th Annual Conference on Human Sentence Processing (HSP-2023). University of Pittsburgh, Pittsburgh (Pennsylvania), USA. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_HSP2023_Collart.pdf)
 
 
-* <ins>Collart, A.</ins> & Zeitoun, E. (2022, September). <b>Processing past time reference is harder than future time reference: Evidence from Paiwan, a mood-prominent language</b>. Paper presented at the 28th Architectures and Mechanisms for Language Processing (AMLaP 28). University of York, York, United Kingdom. (poster) [Abstract]
+* <ins>Collart, A.</ins> (2022, October). <b>Processing past time reference, but which one? An ERP study on the Mandarin Chinese morphemes <i>guo1</i> and <i>guo2</i> with definite and indefinite time adverbs</b>. Paper presented at the Linguistic Evidence 2022. Université de Paris, Paris, France. (talk) [Abstract](https://aymeric-collart.github.io/files/LE2022_AymericCollart_FinalPaper(4pages).pdf)
 
 
-* <ins>Collart, A.</ins>, and Chan, S. (2021, November). <b>Processing past time and discontinuity aspect: Event-related potentials reveal different neuronal brain responses elicited by the Mandarin verbal morpheme -guo</b>. Paper presented at the 3rd International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-3). National Tsing Hua University, Hsinchu, Taiwan. (talk) [abstract]
+* <ins>Collart, A.</ins> & Zeitoun, E. (2022, September). <b>Processing past time reference is harder than future time reference: Evidence from Paiwan, a mood-prominent language</b>. Paper presented at the 28th Architectures and Mechanisms for Language Processing (AMLaP 28). University of York, York, United Kingdom. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_AMLAP2022_Final_CollartZeitoun.pdf)
 
 
-* <ins>Collart, A.</ins> (2020, November). <b>Aspect of pasts in Mandarin: An ERP study on the temporal restriction of the perfectives <i>-le</i> and <i>-guo</i></b>. Paper to be presented at the 21st National Conference on Linguistics. National Sun Yat-sen University, Kaohsiung, Taiwan. (poster) [Abstract]
+* <ins>Collart, A.</ins>, and Chan, S. (2021, November). <b>Processing past time and discontinuity aspect: Event-related potentials reveal different neuronal brain responses elicited by the Mandarin verbal morpheme -guo</b>. Paper presented at the 3rd International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-3). National Tsing Hua University, Hsinchu, Taiwan. (talk) [abstract](https://aymeric-collart.github.io/files/Abstract_ICTEAP_Final_2021_CollartChan.pdf)
+
+
+* <ins>Collart, A.</ins> (2020, November). <b>Aspect of pasts in Mandarin: An ERP study on the temporal restriction of the perfectives <i>-le</i> and <i>-guo</i></b>. Paper to be presented at the 21st National Conference on Linguistics. National Sun Yat-sen University, Kaohsiung, Taiwan. (poster) [Abstract](https://aymeric-collart.github.io/files/Aspect_of_pasts_in_Mandarin_An_ERP_study_on_the_temporal_restriction_of_the_perfectives_le_and_guo_AymericCollart.pdf)
 
 
 * <ins>Collart, A.</ins> (2020, October). <b>The temporal constraints of <i>le1</i> revisited</b>. Paper to be presented at the 13th Workshop on Formal Syntax and Semantics (FOSS-13). Academia Sinica, Taipei, Taiwan. (poster) [Abstract](https://aymeric-collart.github.io/files/FOSS2020_AymericCollart_StudentPoster_FINAL.pdf)
@@ -46,7 +45,7 @@ Slides upon request. You may contact me by email.
 * <ins>Collart, A.</ins> and Chan, S. (2020, March). <b>Not all the pasts are the same: An ERP study of the temporal constraints of the Mandarin aspectual markers -le and -guo</b>. Paper presented at the 33rd CUNY Conference on Human Sentence Processing. University of Massachusetts Amherst, Amherst (Massachusetts), USA. (Online presentation due to the COVID-19 outbreak) (poster) [Abstract](https://aymeric-collart.github.io/files/CUNY2020_AymericCollart_ShiaohuiChan_FinalAbstract.pdf)
 
 
-* <ins>Collart, A.</ins> (2019, October). <b>Temporal relations electrified: An ERP study on the perfective marker <i>-le</i> in Mandarin Chinese</b>. Paper presented at the 20th National Conference on Linguistics. National Chiao Tung University, Hsinchu, Taiwan. (talk) [Abstract]
+* <ins>Collart, A.</ins> (2019, October). <b>Temporal relations electrified: An ERP study on the perfective marker <i>-le</i> in Mandarin Chinese</b>. Paper presented at the 20th National Conference on Linguistics. National Chiao Tung University, Hsinchu, Taiwan. (talk) [Abstract](https://aymeric-collart.github.io/files/Abstract_NCL2019_Final_Collart.pdf)
 
 
 * <ins>Collart, A.</ins> and Chan, S. (2019, March). <b>Aspect is distinct from time reference: An ERP study of the perfective marker -le in Mandarin Chinese</b>. Paper presented at the 32nd CUNY Conference on Human Sentence Processing. University of Colorado Boulder, Boulder (Colorado), USA. (poster) [Abstract](https://aymeric-collart.github.io/files/CUNY2019_AymericCollart_ShiaohuiChan_FinalAbstract.pdf)
