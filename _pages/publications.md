@@ -105,12 +105,12 @@ author_profile: true
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="107" src="./../images/Book_chapter.jpg" style="padding-right: 10px"/></div>
   <div class="item2">
-  <a href="" target="_blank">
+  <a href="https://referenceworks.brillonline.com/entries/handbook-of-formosan-languages-the-indigenous-languages-of-taiwan/29-experimental-linguistics-embracing-linguistic-diversity-on-the-contributions-of-formosan-languages-to-models-of-sentence-processing-COM_202230" target="_blank">
 <b>Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing.</b>
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u> (Forthcoming). Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (pp. ??-??), Leiden: Brill.</div>  
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u> (2023). Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (Brill Reference Online), Leiden: Brill.</div>  
 </div>
 <br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
@@ -118,7 +118,7 @@ author_profile: true
 ## Submitted manuscript(s)
 * <font size="3"><ins>Collart, A.</ins> (under review). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
 
-* <font size="3"><ins>Collart, A.</ins> (under review). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
+* <font size="3"><ins>Collart, A.</ins> (conditionally accepted). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
 
 ## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins> (under revision). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.
