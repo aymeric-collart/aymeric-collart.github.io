@@ -58,6 +58,18 @@ Slides upon request. You may contact me by email.
 * <ins>Collart, A.</ins> (2018, May). <b>When Time is a Fact: A Semantic and Time-Relational Analysis of ‘You + VP’ in Taiwan Mandarin</b>. Paper presented at the 19th Chinese Lexical Semantics Workshop (CLSW-19). National Chung Cheng University, Chiayi, Taiwan. (talk) [Abstract](https://aymeric-collart.github.io/files/[NEW-MAY2018_paper11]_When_Time_is_a_Fact_A_Semantic_and_Time_Relational_Analysis_of_‘You_+_VP’_in_Taiwan_Mandarin.pdf) 
 
 ## Invited talks
+* <ins>Collart, A.</ins>, Wu, J. J., & Huang, L. M. (2023, December). <b>Review of indigenous language teaching and beyond in Taiwan: The race against time</b>. <i>Frontiers of Formosan Linguistics: Symposium Showcasting Latest, Collaborative Findings</i>. National Dong Hwa University, Hualien, Taiwan.
+
+
+* <ins>Collart, A.</ins> (2023, November). <b>From language learning to technology-based linguistic investigations: Applications to language teaching</b>. Invited talk/lecture at the Language Center of National Chung Hsing University, Taichung, Taiwan.
+
+
+* <ins>Collart, A.</ins> (2023, November). <b>What if the Tower of Babel was a gift? On the importance of linguistic diversity in language processing research</b>. Invited talk at the Department of English, National Taiwan Normal University, Taipei, Taiwan.
+
+
+* <ins>Collart, A.</ins> (2023, November). <b>Experimental linguistics embracing linguistic diversity: On the contribution of Formosan languages to models of sentence processing</b>. <i>Frontiers of Formosan Linguistics: Symposium Showcasting Latest, Collaborative Findings</i>. Academia Sinica, Taipei, Taiwan.
+
+
 * <ins>Collart, A.</ins> (2022, December). <b>Le village paiwan de Tuban Tjuabal ou la croisée des chemins entre la linguistique de terrain et la linguistique expérimentale [The Paiwan village of Tuban Tjuabal or the crossroad between field linguistics and experimental linguistics]</b>. Invited talk at the Journées des jeunes chercheurs CEFC-EFEO, Academia Sinica, Taipei, Taiwan.
 
 
