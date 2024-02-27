@@ -40,7 +40,7 @@ Slides upon request. You may contact me by email.
 * <ins>Collart, A.</ins> (2020, November). <b>Aspect of pasts in Mandarin: An ERP study on the temporal restriction of the perfectives <i>-le</i> and <i>-guo</i></b>. Paper to be presented at the 21st National Conference on Linguistics. National Sun Yat-sen University, Kaohsiung, Taiwan. (poster) [Abstract]
 
 
-* <ins>Collart, A.</ins> (2020, October). <b>The temporal constraints of <i>le1</i> revisited</b>. Paper to be presented at the 13th Workshop on Formal Syntax and Semantics (FOSS-13). Academia Sinica, Taipei, Taiwan. (poster) [Abstract]
+* <ins>Collart, A.</ins> (2020, October). <b>The temporal constraints of <i>le1</i> revisited</b>. Paper to be presented at the 13th Workshop on Formal Syntax and Semantics (FOSS-13). Academia Sinica, Taipei, Taiwan. (poster) [Abstract](https://aymeric-collart.github.io/files/FOSS2020_AymericCollart_StudentPoster_FINAL.pdf)
 
 
 * <ins>Collart, A.</ins> and Chan, S. (2020, March). <b>Not all the pasts are the same: An ERP study of the temporal constraints of the Mandarin aspectual markers -le and -guo</b>. Paper presented at the 33rd CUNY Conference on Human Sentence Processing. University of Massachusetts Amherst, Amherst (Massachusetts), USA. (Online presentation due to the COVID-19 outbreak) (poster) [Abstract](https://aymeric-collart.github.io/files/CUNY2020_AymericCollart_ShiaohuiChan_FinalAbstract.pdf)
