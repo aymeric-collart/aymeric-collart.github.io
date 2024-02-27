@@ -8,12 +8,14 @@ author_profile: true
 Slides upon request. You may contact me by email.
 
 ---
-## Accepted presentations (abstract reviewed and accepted)
-* <ins>Collart, A.</ins>. (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop
-(X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract]
+## Accepted presentations (abstract reviewed and accepted) and invited talks
+* <ins>Collart, A.</ins>. (2024, March). <b>Formosan languages and experimental linguistics: An introduction</b>. Invited talk/lecture at the Department of Indigenous Language and Communication, National Dong Hwa University, Hualien, Taiwan.
 
 
 ## Past conference presentations
+* <ins>Collart, A.</ins>. (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop
+(X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract]
+
 * <ins>Collart, A.</ins>. (2023, September). <b>Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract]
 
 
