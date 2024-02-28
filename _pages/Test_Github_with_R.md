@@ -32,7 +32,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![](Test_Github_with_R_files/figure-gfm/pressure-1.png)<!-- -->
+![](https://aymeric-collart.github.io/files/Test_Github_with_R_files/figure-gfm/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
