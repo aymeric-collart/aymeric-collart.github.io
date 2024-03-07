@@ -35,6 +35,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 **And now I try something myself**
 
-```{r}
+``` r
 2+2
 ```
