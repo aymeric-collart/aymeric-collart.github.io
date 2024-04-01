@@ -9,7 +9,7 @@ Slides upon request. You may contact me by email.
 
 ---
 ## Accepted presentations (abstract reviewed and accepted) and invited talks
-* <ins>Collart, A.</ins> (2024, March). <b>Formosan languages and experimental linguistics: An introduction</b>. Invited talk/lecture at the Department of Indigenous Language and Communication, National Dong Hwa University, Hualien, Taiwan.
+* <ins>Collart, A.</ins> (2024, July). <b>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin</b>. Paper to be presented at the Japanese Society for Language Sciences 25th Annual International Conference. Shizuoka, Japan. (talk) [Abstract provided later]
 
 
 ## Past conference presentations
@@ -58,6 +58,9 @@ Slides upon request. You may contact me by email.
 * <ins>Collart, A.</ins> (2018, May). <b>When Time is a Fact: A Semantic and Time-Relational Analysis of ‘You + VP’ in Taiwan Mandarin</b>. Paper presented at the 19th Chinese Lexical Semantics Workshop (CLSW-19). National Chung Cheng University, Chiayi, Taiwan. (talk) [Abstract](https://aymeric-collart.github.io/files/[NEW-MAY2018_paper11]_When_Time_is_a_Fact_A_Semantic_and_Time_Relational_Analysis_of_‘You_+_VP’_in_Taiwan_Mandarin.pdf) 
 
 ## Invited talks
+* <ins>Collart, A.</ins> (2024, March). <b>Formosan languages and experimental linguistics: An introduction</b>. Invited talk/lecture at the Department of Indigenous Language and Communication, National Dong Hwa University, Hualien, Taiwan.
+
+
 * <ins>Collart, A.</ins>, Wu, J. J., & Huang, L. M. (2023, December). <b>Review of indigenous language teaching and beyond in Taiwan: The race against time</b>. <i>Frontiers of Formosan Linguistics: Symposium Showcasting Latest, Collaborative Findings</i>. National Dong Hwa University, Hualien, Taiwan.
 
 
@@ -80,6 +83,7 @@ Slides upon request. You may contact me by email.
 
 
 * <ins>Collart, A.</ins> (2022, October). <b>Towards an extended neurolinguistic model of the processing of TIME in Mandarin: Bridging linguistic analyses and neurocognitive</b>. Invited talk as the recipient of the Linguistic Society of Taiwan Thesis of the Year Award at the 23rd National Conference on Linguistics (NCL-23), National Chengchi University, Taipei, Taiwan.
+
 
 ## Presentation postponed due to the COVID-19 outbreak (abstract reviewed and accepted)
 * <ins>Collart, A.</ins> & Chan, S. (TBA). <b>Aspect, mood and time in Mandarin: ERPs reveal counter-evidence for discourse linking hypothesis</b>. Paper to be presented at the 2nd Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Venue TBA, Macao, China. (Conference postponed due to the COVID-19 outbreak) (poster) [Abstract]
