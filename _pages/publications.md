@@ -27,6 +27,21 @@ author_profile: true
 <br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
 
+<!-- Article 5 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/GlossaPsycho.png" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="" target="_blank">
+<b>A decade of language processing research: Which place for linguistic diversity?</b>
+</a>
+</div>
+  <div class="item3" style="padding-top:1px">In <i>Glossa Psycholinguistics</i>, Accepted.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (accepted). A decade of language processing research: Which place for linguistic diversity? <i>Glossa Psycholinguistics</i>.</div>  
+</div>
+<br>
+
+---
+
 <!-- Article 4 -->
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="150" src="./../images/LanguageAndCognition_Journal2.png" style="padding-right: 10px"/></div>
@@ -117,8 +132,6 @@ author_profile: true
 
 ## Submitted manuscript(s)
 * <font size="3"><ins>Collart, A.</ins> (under review). <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs you and hui in Taiwan Mandarin.</b></font>
-
-* <font size="3"><ins>Collart, A.</ins> (conditionally accepted). <b>A decade of language processing research: Which place for linguistic diversity?</b></font>
 
 ## Manuscripts in preparation
 * <font size="3"><ins>Collart, A.</ins> (under revision). <b>Time reference, Mandarin aspect marker -le, and the brain: A tenseless analysis.
