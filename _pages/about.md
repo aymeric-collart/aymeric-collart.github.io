@@ -64,18 +64,18 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 35% 35%; 
-  grid-template-rows: auto auto; 
+  grid-template-columns: 33% 33% 33%; 
+  grid-template-rows: auto auto auto; 
   gap: 30px 30px; 
   grid-template-areas: 
-    "Project1 Project2"
-    "Project3 Project4"; 
+    "Project1 Project2 Project 3"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
 }
 
 </style>
+
 
 
 <div class="container">
