@@ -82,7 +82,7 @@ div.desc {
 <div class="Project1">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Corpus_Experiments_Temporal/">
-      <img src="./../images/Project1.jpg" width="250" height="250">
+      <img src="./../images/Project1.jpg" width="200" height="200">
     </a>
     <div class="desc">
 <b>Temporal reference in (Taiwan) Mandarin: Syntax and semantics, Corpus and experiments</b></div>
@@ -101,7 +101,7 @@ div.desc {
 <div class="Project3">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/projects/3-Applied_language_processing/">
-      <img src="./../images/Project3.png" width="250" height="250">
+      <img src="./../images/Project3.png" width="200" height="200">
     </a>
     <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
   </div>
