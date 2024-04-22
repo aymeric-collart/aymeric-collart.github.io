@@ -12,7 +12,7 @@ Parts of my research focusing on this topic can be found below:
 
 ## &#128211; Journal articles
 
-* {
+{
 		margin: 0;
 		padding: 0;
 		color: #505050;
@@ -132,15 +132,12 @@ Parts of my research focusing on this topic can be found below:
 	}
 
 	.dropdown > li > a:hover {
-		/*background: red;*/
 		color: #505050;
 		width: 100%;
 	}
 
 $("#work").click(function(){
 	 		$("#dropdown").toggleClass("active");
-
-	 		$("#about-us, #services").toggleClass("dim");
 	 	})
 
 <div class="container">
