@@ -12,6 +12,131 @@ Parts of my research focusing on this topic can be found below:
 
 ## &#128211; Journal articles
 
+* {
+		margin: 0;
+		padding: 0;
+		color: #505050;
+		font-size: 14px;
+		letter-spacing: 0.02em;
+	}
+
+	a {
+		text-decoration: none;
+		text-align: center;
+		box-sizing: border-box;
+		height: 40px;
+		line-height: 40px;
+		font-family: "Helvetica Neue";
+	}
+
+	li {
+		list-style-type: none;
+	}
+
+	.container {
+		padding: 5px;
+		width: 300px;
+		vertical-align: middle;
+		margin: 100px auto 0 auto;
+	}
+
+	.container:after {
+		clear: both;
+		content: "";
+		display: block;
+		visibility: hidden;
+	}
+
+	.work {
+		display: block;
+		width: 100px;
+		float: left;
+		width: 33%;
+		position: relative;
+	}
+
+	.work:after {
+		content: "";
+		height: 4px;
+		width: 4px;
+		position: absolute;
+		border: solid #505050;
+		border-width: 0 0 1px 1px;
+		transform: rotate(-45deg);
+		-webkit-transform: rotate(-45deg);
+		right: 18px;
+		top: 50%;
+		margin-top: -4px;
+	}
+
+	.dropdown {
+		opacity: 0.0001;
+		transition: 0.3s cubic-bezier(.2, 0, 0, 1.6);
+		transform: scale(0.6) translateY(-20%);
+		-webkit-transform: scale(0.6) translateY(-20%);
+		background: #fff;
+		position: relative;
+		display: inline-block;
+		border: solid 1px #DCDCDC;
+		left: 220px;
+		top: 5px;
+		
+		border-radius: 5px;
+	}
+
+	.dropdown:before {
+		content: "";
+		position: absolute;
+		height: 12px;
+		width: 12px;
+		border: solid 1px #DCDCDC;
+		border-width: 1px 0 0 1px;
+		transform: rotate(45deg);
+		-webkit-transform: rotate(45deg);
+		background-color: #fff;
+		top: -7px;
+		left: 32px;
+	}
+
+	.active {
+		opacity: 0.9999;
+		transform: none;
+		-webkit-transform: none;
+	}
+
+	.dim {
+		opacity: 0.3;
+	}
+
+	.triangle {
+		height: 0;
+		width: 0;
+		border-left: solid 8px transparent;
+		border-right: solid 8px transparent;
+		border-bottom: solid 8px red;
+		position: absolute;
+		top: -8px;
+		left: 5px;
+		box-shadow: 0px 1px 1px black;
+	}
+
+	.container > a {
+		transition: all 0.3s ease-in-out;
+	}
+
+	.dropdown > li > a {
+		padding: 8px 12px;
+		width: 100%;
+		transition: all 0.2s;
+		color: #969696;
+	}
+
+	.dropdown > li > a:hover {
+		/*background: red;*/
+		color: #505050;
+		width: 100%;
+	}
+
 <div class="container">
 		<a href="#" class="work" id="work">Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. (Collart & Su, 2022)</a>
 		<ul class="dropdown" id="dropdown">
