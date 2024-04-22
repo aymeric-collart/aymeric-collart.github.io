@@ -64,7 +64,7 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 33% 33% 33%; 
+  grid-template-columns: 30% 30% 30%; 
   grid-template-rows: auto auto auto; 
   gap: 15px 15px; 
   grid-template-areas: 
