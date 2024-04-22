@@ -12,6 +12,63 @@ Parts of my research focusing on this topic can be found below:
 
 ## &#128211; Journal articles
 
+
+<style>
+
+li a {text-decoration : none; color : #2d2f31;}
+
+
+nav {
+  width : 300px; 
+  background: #d9d9d9;
+  margin : 40px auto; 
+}
+
+span {
+  padding : 30px;
+  background : #2d2f31; 
+  color : white;
+  font-size : 1.2em;
+  font-variant : small-caps;
+  cursor : pointer;
+  display: block;
+}
+
+span::after {
+  float: right;
+  right: 10%;
+  content: "+";
+}
+
+.slide {
+  clear:both;
+  width:100%;
+  height:0px;
+  overflow: hidden;
+  text-align: center;
+  transition: height .4s ease;
+}
+
+.slide li {padding : 30px;}
+</style>
+
+
+<nav>
+
+  <label for="touch"><span>titre</span></label>               
+  <input type="checkbox" id="touch"> 
+
+  <ul class="slide">
+    <li><a href="#">Lorem Ipsum</a></li> 
+    <li><a href="#">Lorem Ipsum</a></li>
+    <li><a href="#">Lorem Ipsum</a></li>
+    <li><a href="#">Lorem Ipsum</a></li>
+  </ul>
+
+</nav> 
+
+
+
 Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. (Collart & Su, 2022)
 
 Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>. (Collart & Chan, 2021)
