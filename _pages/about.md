@@ -82,7 +82,7 @@ div.desc {
 <div class="Project1">
   <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Corpus_Experiments_Temporal/">
-      <img src="./../images/Project1.jpg" width="200" height="200">
+      <img src="./../images/Project1.png" width="200" height="200">
     </a>
     <div class="desc">
 <b>Temporal reference in (Taiwan) Mandarin: Syntax and semantics, Corpus and experiments</b></div>
