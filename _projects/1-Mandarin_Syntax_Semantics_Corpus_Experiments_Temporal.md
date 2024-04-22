@@ -18,7 +18,7 @@ Parts of my research focusing on this topic can be found below:
 li a {text-decoration : none; color : #2d2f31;}
 
 
-nav {
+txt {
   width : 300px; 
   background: #d9d9d9;
   margin : 40px auto; 
@@ -53,10 +53,10 @@ span::after {
 </style>
 
 
-<nav>
+<txt>
 
-  <label for="touch"><span>titre</span></label>               
-  <input type="checkbox" id="touch"> 
+  <label ><span>titre</span></label>               
+  <input type="checkbox" > 
 
   <ul class="slide">
     <li><a href="#">Lorem Ipsum</a></li> 
@@ -65,7 +65,7 @@ span::after {
     <li><a href="#">Lorem Ipsum</a></li>
   </ul>
 
-</nav> 
+</txt> 
 
 
 
