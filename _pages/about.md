@@ -80,7 +80,7 @@ div.desc {
 
 <div class="container">
 <div class="Project1">
-  <div class="gallery" width: 180px>
+  <div class="gallery">
     <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Corpus_Experiments_Temporal/">
       <img src="./../images/Project1.png" width="200" height="200">
     </a>
