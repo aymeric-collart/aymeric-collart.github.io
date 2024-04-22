@@ -137,6 +137,12 @@ Parts of my research focusing on this topic can be found below:
 		width: 100%;
 	}
 
+$("#work").click(function(){
+	 		$("#dropdown").toggleClass("active");
+
+	 		$("#about-us, #services").toggleClass("dim");
+	 	})
+
 <div class="container">
 		<a href="#" class="work" id="work">Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation. (Collart & Su, 2022)</a>
 		<ul class="dropdown" id="dropdown">
