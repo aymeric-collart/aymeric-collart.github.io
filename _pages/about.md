@@ -103,7 +103,7 @@ div.desc {
     <a target="_blank" href="https://aymeric-collart.github.io/projects/3-Applied_language_processing/">
       <img src="./../images/Project3.png" width="200" height="200">
     </a>
-    <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
+    <div class="desc"><b>Applied language processing: Interpreting, and language learning and teaching</b></div>
   </div>
 </div>
 
