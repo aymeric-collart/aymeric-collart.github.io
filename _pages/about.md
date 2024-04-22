@@ -81,41 +81,31 @@ div.desc {
 <div class="container">
 <div class="Project1">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Temporal/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/1-Mandarin_Syntax_Semantics_Corpus_Experiments_Temporal/">
       <img src="./../images/Project1.jpg" width="250" height="250">
     </a>
     <div class="desc">
-<b>Temporal reference in (Taiwan) Mandarin: Syntax and semantics</b></div>
+<b>Temporal reference in (Taiwan) Mandarin: Syntax and semantics, Corpus and experiments</b></div>
   </div>
 </div>
 
 <div class="Project2">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/projects/2-Mandarin_Processing_Temporal/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/2-Crosslinguistic_Processing">
       <img src="./../images/Project2.png" width="250" height="250">
     </a>
-    <div class="desc"><b>Processing temporal information in (Taiwan) Mandarin</b></div>
+    <div class="desc"><b>Crosslinguistic language processing: Linguistic and cognitive diversities of the mind</b></div>
   </div>
 </div>
 
 <div class="Project3">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/projects/3-Neurotypology/">
+    <a target="_blank" href="https://aymeric-collart.github.io/projects/3-Applied_language_processing/">
       <img src="./../images/Project3.png" width="250" height="250">
-    </a>
-    <div class="desc"><b>Neurotypology: Linguistic and cognitive diversities of language processing</b></div>
-  </div>
-</div>
-
-<div class="Project4">
-  <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/projects/4-Applied_language_processing/">
-      <img src="./../images/Project4.png" width="250" height="250">
     </a>
     <div class="desc"><b>Applied language processing: Translation and language teaching</b></div>
   </div>
 </div>
-</div>
 
 <br>
-<font size="1">Last update: 2024/04/01</font>
+<font size="1">Last update: 2024/04/22</font>
