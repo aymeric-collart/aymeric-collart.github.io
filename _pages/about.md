@@ -66,7 +66,7 @@ div.desc {
   grid-auto-rows: 1fr; 
   grid-template-columns: 33% 33% 33%; 
   grid-template-rows: auto auto auto; 
-  gap: 30px 30px; 
+  gap: 15px 15px; 
   grid-template-areas: 
     "Project1 Project2 Project 3"; 
   justify-content: center; 
