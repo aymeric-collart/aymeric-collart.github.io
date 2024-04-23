@@ -77,11 +77,10 @@ This is where the courses I teach will be listed.
 
 <div class="dropdown" tabindex="1">
   <i class="db2" tabindex="1"></i>
-  <a class="dropbtn">Dropdown 1</a>
+  <a class="dropbtn"><b>Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b></a>
    <div class="dropdown-content">
-      <a href="#">Home</a>
-      <a href="#">About</a>
-      <a href="#">Contact</a>
+      <p>Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article </p>
+      <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">Link to the article</a>
    </div>
 </div>
 
