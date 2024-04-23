@@ -6,90 +6,72 @@ title: "Tests"
 This is where the courses I teach will be listed.
 
 <style>
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
 
-
-
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
 
 .dropdown {
-  display: inline-block;
   position: relative;
-  outline: none;
-  margin: 10px;
+  display: inline-block;
 }
 
-.dropbtn {
-  padding: 100% 100%;
-  color: white;
-  background-color: #861cb9;
-  cursor: pointer;
-  transition: 0.35s ease-out;
-}
-
-.dropdown .dropdown-content {
+.dropdown-content {
+  display: none;
   position: absolute;
-  top: 50%;
-  background-color: #f7f7f7;
-  min-width: 120%;
-  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-  z-index: 100000;
-  visibility: hidden;
-  opacity: 0;
-  transition: 0.35s ease-out;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
-  display: block;
   text-decoration: none;
-  transition: 0.35s ease-out;
-}
-.dropdown-content a:hover {
-  background-color: #eaeaea;
+  display: block;
 }
 
-.dropdown:focus .dropdown-content {
-  outline: none;
-  transform: translateY(20px);
-  visibility: visible;
-  opacity: 1;
-}
-.dropbtn:hover, .dropdown:focus .dropbtn {
-  background-color: #691692;
-}
+.dropdown a:hover {background-color: #ddd;}
 
-.dropdown .db2 {
-  position: absolute;
-  top: 0; right: 0; bottom: 0; left: 0; opacity: 0;
-  cursor: pointer;
-  z-index: 10;
-  display: none;
-}
-.dropdown:focus .db2 {
-  display: inline-block;
-}
-.dropdown .db2:focus .dropdown-content {
-  outline: none;
-  visibility: hidden;
-  opacity: 0;
-}
+.show {display: block;}
 </style>
 
-<div class="dropdown" tabindex="1">
-  <i class="db2" tabindex="1"></i>
-  <a class="dropbtn"><b>Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin: A corpus-based investigation.</b></a>
-   <div class="dropdown-content">
-      <p>Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article Abstract of the article </p>
-      <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">Link to the article</a>
-   </div>
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
 </div>
 
-<div class="dropdown" tabindex="1">
-  <i class="db2" tabindex="1"></i>
-  <a class="dropbtn">Dropdown 2</a>
-   <div class="dropdown-content">
-      <a href="#">Blog</a>
-      <a href="#">Plans</a>
-      <a href="#">Partners</a>
-   </div>
-</div>
+<script>
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
