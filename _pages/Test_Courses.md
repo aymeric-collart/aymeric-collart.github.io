@@ -18,7 +18,7 @@ This is where the courses I teach will be listed.
 }
 
 .dropbtn {
-  padding: 12px 16px;
+  padding: 100% 100%;
   color: white;
   background-color: #861cb9;
   cursor: pointer;
