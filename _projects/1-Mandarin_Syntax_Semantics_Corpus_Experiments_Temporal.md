@@ -10,7 +10,7 @@ One of my main interests touches upon the question of the expression of time ref
 
 Parts of my research focusing on this topic can be found below:
 
-## &#128211; Journal articles
+<h2> &#128211; Journal articles </h2>
 
 <style>
 .collapsible {
@@ -97,7 +97,7 @@ Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Tai
 
 Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>. (Collart & Chan, 2021)
 
-## &#128483; Selected conference presentations
+<h2> &#128483; Selected conference presentations </h2>
 
 Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)
 
