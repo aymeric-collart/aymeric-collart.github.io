@@ -76,7 +76,14 @@ for (i = 0; i < coll.length; i++) {
 
 </body>
 
-Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>. (Collart & Chan, 2021)
+
+<body>
+<button class="collapsible">Processing past time reference in a tenseless language: An ERP study on the Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>. (Collart & Chan, 2021)</button>
+<div class="content">
+  <p>Reference to the time of an event can be encoded through various devices in language. While the neural processing of time reference in tense languages has been explored through tense inflection, relatively little is known about such processing through aspect in a tenseless language. The current study investigated how Mandarin speakers process perfective aspect markers -le and -guo, which are usually related to past time. Through the manipulation of the (dis)agreement between time adverbs and perfective markers, the results revealed that when co-occurring with a future/incongruent time adverb, compared with a past/congruent one, -le induced an early anterior negativity, while -guo triggered a P600. These distinct ERP patterns suggest that there is no unitary mechanism underlying perfectives in Mandarin, and that aspect modulates the relation of an event to time reference in a tenseless language, just like what tense inflection does in a tense language.</p>
+<p><a href="https://doi.org/10.1016/j.jneuroling.2021.100998" target="_blank"><b>Link to the article</b></a></p>
+</div>
+</body>
 
 <h2> &#128483; Selected conference presentations </h2>
 
