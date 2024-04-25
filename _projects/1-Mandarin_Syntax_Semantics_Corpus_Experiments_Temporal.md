@@ -10,7 +10,6 @@ One of my main interests touches upon the question of the expression of time ref
 
 Parts of my research focusing on this topic can be found below:
 
-<h2> &#128211; Journal articles </h2>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp; &#128211; Journal articles</b></p>
 <style>
 .collapsible {
@@ -84,7 +83,7 @@ for (i = 0; i < coll.length; i++) {
 </script>
 </body>
 
-<h2> &#128483; Selected conference presentations </h2>
+<p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp; &#128483; Selected conference presentations</b></p>
 
 Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)
 
