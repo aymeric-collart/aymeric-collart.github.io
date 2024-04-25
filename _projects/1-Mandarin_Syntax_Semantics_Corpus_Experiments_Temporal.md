@@ -47,7 +47,7 @@ Parts of my research focusing on this topic can be found below:
   overflow: hidden;
   transition: max-height 0.4s ease-out;
   background-color: #f1f1f1;
-  font-size: 16px;
+  font-size: 18px;
 }
 </style>
 
@@ -86,17 +86,8 @@ for (i = 0; i < coll.length; i++) {
 
 <h2> &#128483; Selected conference presentations </h2>
 
-<div class="grid-container">
-  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
-  <div class="item2">
-  <p>
-<b>Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)</b>
-</p>
-</div>
-</div>
-
 Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)
-[Article](https://www.sciencedirect.com/science/article/pii/S0306919223001057){: .btn--research}
+
 The temporal constraints of <i>le</i>1 revisited. (Collart, 2020)
 
 When time is a fact: A semantic and time-relational analysis of ‘<i>you</i> + VP’ in Taiwan Mandarin. (Collart, 2018)
