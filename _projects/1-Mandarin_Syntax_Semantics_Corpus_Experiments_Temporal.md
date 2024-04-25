@@ -11,7 +11,7 @@ One of my main interests touches upon the question of the expression of time ref
 Parts of my research focusing on this topic can be found below:
 
 <h2> &#128211; Journal articles </h2>
-
+<p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp; &#128211; Journal articles</b></p>
 <style>
 .collapsible {
   background-color: #777;
