@@ -54,15 +54,15 @@ Parts of my research focusing on this topic can be found below:
 <body>
 <button class="collapsible">Expressing the existence of an event with ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin:<br>A corpus-based investigation. <font size="-1">(Collart & Su, 2022)</font></button>
 <div class="content">
-  <p>The verb <i>you</i> ‘to have’ in standard Mandarin is typically followed by a noun. <i>You</i> can also take a VP as its complement (‘<i>you</i> + VP’) in several varieties of Mandarin. However, the function associated with it is still under debate: ‘<i>you</i> + VP’ has been analyzed as expressing past tense, perfective aspect, perfect aspect, or realis mood. This paper assesses these analyses by conducting a corpus-based investigation of ‘<i>you</i> + VP’ on the PTT platform and by looking at different morphosyntactic environments in which it is used. The data favor analyzing ‘<i>you</i> + VP’ as expressing an assertive modality meaning (the situation is considered true in the real world by the speaker). This analysis corroborates with the high frequency of ‘<i>you</i> + VP’ in assertive environments (e.g., after factual verbs in embedded clauses, with attitudinal adverbs of truth value, among others). Conversely, taking ‘<i>you</i> + VP’ as indicating past tense or perfective aspect is challenged by the present data, and the perfect aspect analysis cannot explain all the environments in which ‘<i>you</i> + VP’ is used. This paper provides new insights regarding the morphosyntactic use of ‘<i>you</i> + VP’ and sheds light on the meaning this construction encodes.</p>
+  <p><br>The verb <i>you</i> ‘to have’ in standard Mandarin is typically followed by a noun. <i>You</i> can also take a VP as its complement (‘<i>you</i> + VP’) in several varieties of Mandarin. However, the function associated with it is still under debate: ‘<i>you</i> + VP’ has been analyzed as expressing past tense, perfective aspect, perfect aspect, or realis mood. This paper assesses these analyses by conducting a corpus-based investigation of ‘<i>you</i> + VP’ on the PTT platform and by looking at different morphosyntactic environments in which it is used. The data favor analyzing ‘<i>you</i> + VP’ as expressing an assertive modality meaning (the situation is considered true in the real world by the speaker). This analysis corroborates with the high frequency of ‘<i>you</i> + VP’ in assertive environments (e.g., after factual verbs in embedded clauses, with attitudinal adverbs of truth value, among others). Conversely, taking ‘<i>you</i> + VP’ as indicating past tense or perfective aspect is challenged by the present data, and the perfect aspect analysis cannot explain all the environments in which ‘<i>you</i> + VP’ is used. This paper provides new insights regarding the morphosyntactic use of ‘<i>you</i> + VP’ and sheds light on the meaning this construction encodes.</p>
 <p><a href="https://doi.org/10.1075/consl.21046.col" target="_blank"><b>Link to the article</b></a></p>
 </div>
 
 <br>
 
-<button class="collapsible">Processing past time reference in a tenseless language: An ERP study on the<br>Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>. (Collart & Chan, 2021)</button>
+<button class="collapsible">Processing past time reference in a tenseless language: An ERP study on the<br>Mandarin aspectual morphemes <i>-le</i> and <i>-guo</i>. <font size="-1">(Collart & Chan, 2021)</font></button>
 <div class="content">
-  <p>Reference to the time of an event can be encoded through various devices in language. While the neural processing of time reference in tense languages has been explored through tense inflection, relatively little is known about such processing through aspect in a tenseless language. The current study investigated how Mandarin speakers process perfective aspect markers <i>-le</i> and <i>-guo</i>, which are usually related to past time. Through the manipulation of the (dis)agreement between time adverbs and perfective markers, the results revealed that when co-occurring with a future/incongruent time adverb, compared with a past/congruent one, <i>-le</i> induced an early anterior negativity, while <i>-guo</i> triggered a P600. These distinct ERP patterns suggest that there is no unitary mechanism underlying perfectives in Mandarin, and that aspect modulates the relation of an event to time reference in a tenseless language, just like what tense inflection does in a tense language.</p>
+  <p><br>Reference to the time of an event can be encoded through various devices in language. While the neural processing of time reference in tense languages has been explored through tense inflection, relatively little is known about such processing through aspect in a tenseless language. The current study investigated how Mandarin speakers process perfective aspect markers <i>-le</i> and <i>-guo</i>, which are usually related to past time. Through the manipulation of the (dis)agreement between time adverbs and perfective markers, the results revealed that when co-occurring with a future/incongruent time adverb, compared with a past/congruent one, <i>-le</i> induced an early anterior negativity, while <i>-guo</i> triggered a P600. These distinct ERP patterns suggest that there is no unitary mechanism underlying perfectives in Mandarin, and that aspect modulates the relation of an event to time reference in a tenseless language, just like what tense inflection does in a tense language.</p>
 <p><a href="https://doi.org/10.1016/j.jneuroling.2021.100998" target="_blank"><b>Link to the article</b></a></p>
 </div>
 
@@ -86,8 +86,17 @@ for (i = 0; i < coll.length; i++) {
 
 <h2> &#128483; Selected conference presentations </h2>
 
-Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <p>
+<b>Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)</b>
+</p>
+</div>
+</div>
 
+Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)
+[Article](https://www.sciencedirect.com/science/article/pii/S0306919223001057){: .btn--research}
 The temporal constraints of <i>le</i>1 revisited. (Collart, 2020)
 
 When time is a fact: A semantic and time-relational analysis of ‘<i>you</i> + VP’ in Taiwan Mandarin. (Collart, 2018)
