@@ -32,7 +32,7 @@ author_profile: true
   <div class="item1"><img align="left" width="150" height="150" src="./../images/JOPR2.png" style="padding-right: 10px"/></div>
   <div class="item2">
   <a href="" target="_blank">
-<b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <br><i>you</i> and <i>hui</i> in Taiwan Mandarin</b>
+<b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <br><i>you</i> and <i>hui</i> in Taiwan Mandarin.</b>
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Journal of Psycholinguistic Research</i>, Accepted.</div>
