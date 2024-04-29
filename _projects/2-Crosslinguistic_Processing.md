@@ -50,7 +50,7 @@ Parts of my research focusing on this topic can be found below:
 }
 </style>
 
-<h3>General considerations of cross-linguistic experimental research</h3>
+<h3>A) General considerations of cross-linguistic experimental research</h3>
 
 <body>
 <button class="collapsible">A decade of language processing research: Which place for linguistic diversity? <font size="-1">(Collart, accepted)</font></button>
@@ -58,6 +58,7 @@ Parts of my research focusing on this topic can be found below:
   <p><br>This paper surveys the linguistic diversity in psycholinguistic and neurolinguistic research by examining the languages under investigation in major international conferences from 2012 to 2023. The results showed that these studies are highly skewed towards English in particular and Indo-European languages in general. However, the overall number of languages, as well as the number and proportion of Indo-European (other than English) and non-Indo-European languages increased over time, indicating that language processing research is becoming more and more diversified. This typological bias was also found in the inspection of specific linguistic phenomena: (a) morphosyntactic alignment, richness of case morphology, canonical word order, and (b) temporal concepts. The analyses of the typological bias at the general and specific levels indicate that there are gaps in various topics, and these can be filled by including more non-Indo-European languages in the investigation process. In addition, a sociolinguistic bias in language processing research emerges as the investigated languages are more often ‘Western’ languages with more than one million speakers and a shared written form. These results reflect the numerous challenges encountered when conducting experiments on less familiar languages, such as the geographic difficulty to find participants speaking these languages, the need of institutional support, as well as the difficulties in setting up collaborations with native speakers, among others.</p>
 <p><a href="" target="_blank"><b>Link to the article provided at a later time</b></a></p>
 </div>
+<br>
 
 <button class="collapsible">Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing.. <font size="-1">(Collart, 2023)</font></button>
 <div class="content">
@@ -65,7 +66,7 @@ Parts of my research focusing on this topic can be found below:
 <p><a href="https://referenceworks.brill.com/display/entries/HFLO/COM-202230.xml" target="_blank"><b>Link to the chapter</b></a></p>
 </div>
 
-<h3>Temporal reference processing in Sinitic languages: (Taiwan) Mandarin</h3>
+<h3>B) Temporal reference processing in Sinitic languages: (Taiwan) Mandarin</h3>
 
 <body>
 <button class="collapsible">It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs<br><i>you</i> and <i>hui</i> in Taiwan Mandarin. <font size="-1">(Collart, accepted)</font></button>
@@ -83,7 +84,7 @@ Parts of my research focusing on this topic can be found below:
 </div>
 
 
-<h3>Temporal reference processing in Austronesian languages: Formosan languages</h3>
+<h3>C) Temporal reference processing in Austronesian languages: Formosan languages</h3>
 
 <button class="collapsible">Past and future time reference processing teased apart in Paiwan, an endangered Formosan language. <font size="-1">(Collart & Zeitoun, 2023)</font></button>
 <div class="content">
