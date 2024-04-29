@@ -135,7 +135,7 @@ author_profile: true
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="107" src="./../images/Book_chapter.jpg" style="padding-right: 10px"/></div>
   <div class="item2">
-  <a href="https://referenceworks.brillonline.com/entries/handbook-of-formosan-languages-the-indigenous-languages-of-taiwan/29-experimental-linguistics-embracing-linguistic-diversity-on-the-contributions-of-formosan-languages-to-models-of-sentence-processing-COM_202230" target="_blank">
+  <a href="https://referenceworks.brill.com/display/entries/HFLO/COM-202230.xml" target="_blank">
 <b>Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing.</b>
 </a>
 </div>
