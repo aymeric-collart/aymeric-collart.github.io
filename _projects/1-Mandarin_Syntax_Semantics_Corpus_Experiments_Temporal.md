@@ -51,7 +51,7 @@ Parts of my research focusing on this topic can be found below:
 </style>
 
 <body>
-<button class="collapsible">It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin. <font size="-1">(Collart, accepted)</font></button>
+<button class="collapsible">It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs<br><i>you</i> and <i>hui</i> in Taiwan Mandarin. <font size="-1">(Collart, accepted)</font></button>
 <div class="content">
   <p><br>The mechanisms underlying the processing of the temporal reference of a sentence are still unexplored. Most of the previous psycholinguistic studies used the temporal concord violation between deictic time adverbs and tense marking on the verb to investigate this issue. They found that processing past tense marking is more difficult than non-past tense, indicated by lower accuracy rates and/or longer reaction time. However, it is not clear whether this complexity is due to tense marking or the temporal reference it denotes. This paper examines this issue with a judgment acceptability experiment in Taiwan Mandarin, which is analyzed as a tenseless language. The two modal auxiliary verbs <i>you</i> and <i>hui</i> were placed after deictic past time adverbs (grammatical with <i>you</i> but not with <i>hui</i>) and deictic future time adverbs (grammatical with <i>hui</i> but not with <i>you</i>). The temporal concord violation of the auxiliary verb <i>you</i> led to higher acceptability rates but longer reaction time than <i>hui</i>, reflecting higher processing difficulties. This paper argues that these complexities are due to the existential-assertive meaning of <i>you</i>, which interplays with the meaning of the event described by the verb rendering the situation more or less likely to occur in the future. The computation of the temporal concord of <i>hui</i>, displaying a future sense meaning, is more straightforward and therefore easier to process. This suggests that the mechanisms responsible for temporal reference processing are of different nature depending on the semantics of the temporal marker in the sentence.</p>
 <p><a href="" target="_blank"><b>Link to the article provided at a later time</b></a></p>
@@ -95,8 +95,8 @@ for (i = 0; i < coll.length; i++) {
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp; &#128483; Selected conference presentations</b></p>
 
 Planning or not planning: Interplay between future time adverb and aspect markers/modal construction in (Taiwan) Mandarin. (Collart, 2023)
-
+<br>
 The temporal constraints of <i>le</i>1 revisited. (Collart, 2020)
-
+<br>
 When time is a fact: A semantic and time-relational analysis of ‘<i>you</i> + VP’ in Taiwan Mandarin. (Collart, 2018)
 
