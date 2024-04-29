@@ -60,7 +60,7 @@ Parts of my research focusing on this topic can be found below:
 </div>
 <br>
 
-<button class="collapsible">Experimental linguistics embracing linguistic diversity: On the contributions of <br>Formosan languages to models of sentence processing.. <font size="-1">(Collart, 2023)</font></button>
+<button class="collapsible">Experimental linguistics embracing linguistic diversity: On the contributions of <br>Formosan languages to models of sentence processing. <font size="-1">(Collart, 2023)</font></button>
 <div class="content">
   <p><br>This chapter discusses the contribution of Formosan languages to models of sentence processing by first reviewing past psycholinguistic and neurolinguistic experiments on Formosan languages and then demonstrating why such contributions are crucial to models of language processing. The challenges that can be encountered when conducting psycholinguistic and neurolinguistic experiments on Formosan languages are also discussed along with the insights that typologically different languages like Formosan languages can bring to such models as well as some topics in language processing.</p>
 <p><a href="https://referenceworks.brill.com/display/entries/HFLO/COM-202230.xml" target="_blank"><b>Link to the chapter</b></a></p>
