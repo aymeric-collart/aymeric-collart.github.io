@@ -15,6 +15,7 @@ This is where the courses I teach will be listed.
   border: none;
   text-align: left;
   outline: none;
+  border-radius: 4px
 }
 
 .active, .collapsible:hover {
@@ -46,7 +47,6 @@ This is where the courses I teach will be listed.
   padding:0.7em;
   font-size: 18px;
   margin-left:1em;
-  margin-top:1em
 }
 </style>
 
