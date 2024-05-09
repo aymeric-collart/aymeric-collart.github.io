@@ -41,12 +41,6 @@ This is where the courses I teach will be listed.
   transition: max-height 0.4s ease-out;
   background-color: #eeeeee;
   color: #e06666;
-  border-left: solid #bcbcbc 4px;
-  border-radius: 4px;
-  padding:0.7em;
-  font-size: 18px;
-  margin-left:1em;
-  margin-top:1em
 }
 </style>
 
