@@ -14,7 +14,7 @@ redirect_from:
 </div>
 <div style='margin-left:1em;margin-top:1em'><b>New! (2024/04/06)</b><br>The manuscript entitled "A decade of language processing research: Which place for linguistic diversity?" has been accepted for publication in <i>Glossa Psycholinguistics</i>!
 </div>
-<div style='margin-left:1em;margin-top:1em'><b>New! (2024/04/26)</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" has been accepted for publication in <i>Journal of Psycholinguistic Research</i>!
+<div style='margin-left:1em;margin-top:1em'><b>New! (2024/05/09)</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" is now available online in <i>Journal of Psycholinguistic Research</i> <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">here</a>!
 </div>
 </div>
 
@@ -110,4 +110,4 @@ div.desc {
 </div>
 
 <br>
-<font size="1">Last update: 2024/04/27</font>
+<font size="1">Last update: 2024/05/09</font>

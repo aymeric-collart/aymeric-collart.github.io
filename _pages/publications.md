@@ -31,12 +31,12 @@ author_profile: true
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="150" src="./../images/JOPR2.png" style="padding-right: 10px"/></div>
   <div class="item2">
-  <a href="" target="_blank">
+  <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">
 <b>It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <br><i>you</i> and <i>hui</i> in Taiwan Mandarin.</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Journal of Psycholinguistic Research</i>, Accepted.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (accepted). It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin. <i>Journal of Psycholinguistic Research</i>.</div>  
+  <div class="item3" style="padding-top:1px">In <i>Journal of Psycholinguistic Research</i>, 2024.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (2024). It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin. <i>Journal of Psycholinguistic Research</i>. <i>53</i>, Article 44.</div>  
 </div>
 <br>
 
