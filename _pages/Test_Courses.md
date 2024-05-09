@@ -5,6 +5,7 @@ title: "Tests"
 
 This is where the courses I teach will be listed.
 
+<p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp; &#128211; Journal articles</b></p>
 <style>
 .collapsible {
   background-color: #777;
@@ -15,7 +16,6 @@ This is where the courses I teach will be listed.
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
 }
 
 .active, .collapsible:hover {
@@ -28,6 +28,7 @@ This is where the courses I teach will be listed.
   font-weight: bold;
   float: right;
   margin-left: 5px;
+  transform: translateY(-50%);
 }
 
 .active:after {
@@ -38,35 +39,46 @@ This is where the courses I teach will be listed.
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  transition: max-height 0.4s ease-out;
+  background-color: #eeeeee;
+  color: #e06666;
+  border-left: solid #bcbcbc 4px;
+  border-radius: 4px;
+  padding:0.7em;
+  font-size: 18px;
 }
 </style>
-</head>
-<body>
 
-<h2>Animated Collapsibles</h2>
 
-<p>A Collapsible:</p>
-<button class="collapsible">Open Collapsible</button>
+
+////// NEW
+<button class="collapsible">News!</button>
 <div class="content">
-<p> Abstract </p>
-  <p>The verb you ‘to have’ in standard Mandarin is typically followed by a noun. You can also take a VP as its complement (‘you + VP’) in several varieties of Mandarin. However, the function associated with it is still under debate: ‘you + VP’ has been analyzed as expressing past tense, perfective aspect, perfect aspect, or realis mood. This paper assesses these analyses by conducting a corpus-based investigation of ‘you + VP’ on the PTT platform and by looking at different morphosyntactic environments in which it is used. The data favor analyzing ‘you + VP’ as expressing an assertive modality meaning (the situation is considered true in the real world by the speaker). This analysis corroborates with the high frequency of ‘you + VP’ in assertive environments (e.g., after factual verbs in embedded clauses, with attitudinal adverbs of truth value, among others). Conversely, taking ‘you + VP’ as indicating past tense or perfective aspect is challenged by the present data, and the perfect aspect analysis cannot explain all the environments in which ‘you + VP’ is used. This paper provides new insights regarding the morphosyntactic use of ‘you + VP’ and sheds light on the meaning this construction encodes.</p>
+
+<div style='margin-left:1em;'><b>New! (2024/03/31)</b><br>The abstract "<i>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘you (to have) + VP’ in Taiwan Mandarin</i>" has been accepted for an oral presentation at the The Japanese Society for Language Sciences 25th Annual International Conference!<br>
+</div>
+<div style='margin-left:1em;margin-top:1em'><b>New! (2024/04/06)</b><br>The manuscript entitled "A decade of language processing research: Which place for linguistic diversity?" has been accepted for publication in <i>Glossa Psycholinguistics</i>!
+</div>
+<div style='margin-left:1em;margin-top:1em'><b>New! (2024/05/09)</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" is now available online in <i>Journal of Psycholinguistic Research</i> <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">here</a>!
 </div>
 
-<p>Collapsible Set:</p>
-<button class="collapsible">Open Section 1</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
-<button class="collapsible">Open Section 2</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
+
+///// Old
+<div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
+<div style='margin-left:1em;'><b>New! (2024/03/31)</b><br>The abstract "<i>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘you (to have) + VP’ in Taiwan Mandarin</i>" has been accepted for an oral presentation at the The Japanese Society for Language Sciences 25th Annual International Conference!<br>
 </div>
-<button class="collapsible">Open Section 3</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div style='margin-left:1em;margin-top:1em'><b>New! (2024/04/06)</b><br>The manuscript entitled "A decade of language processing research: Which place for linguistic diversity?" has been accepted for publication in <i>Glossa Psycholinguistics</i>!
 </div>
+<div style='margin-left:1em;margin-top:1em'><b>New! (2024/05/09)</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" is now available online in <i>Journal of Psycholinguistic Research</i> <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">here</a>!
+</div>
+</div>
+
+
+
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
