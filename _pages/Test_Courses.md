@@ -17,6 +17,7 @@ This is where the courses I teach will be listed.
   outline: none;
   border-radius: 4px;
   font-size: 22px;
+   border-left: solid #bcbcbc 4px;
 }
 
 .active, .collapsible:hover {
@@ -29,6 +30,7 @@ This is where the courses I teach will be listed.
   font-weight: bold;
   float: right;
   margin-left: 5px;
+  transform: translateY(-50%);
 }
 
 .active:after {
@@ -42,7 +44,7 @@ This is where the courses I teach will be listed.
   transition: max-height 0.4s ease-out;
   background-color: #eeeeee;
   color: #e06666;
-  border-left: solid #777 4px;
+  border-left: solid #bcbcbc 4px;
   border-radius: 4px;
   font-size: 18px;
 }
