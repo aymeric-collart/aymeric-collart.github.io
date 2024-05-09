@@ -29,7 +29,6 @@ This is where the courses I teach will be listed.
   font-weight: bold;
   float: right;
   margin-left: 5px;
-  transform: translateY(-50%);
 }
 
 .active:after {
