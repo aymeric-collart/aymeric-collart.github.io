@@ -52,7 +52,9 @@ This is where the courses I teach will be listed.
 
 
 
-////// NEW
+NEW
+
+
 <button class="collapsible">News!</button>
 <div class="content">
 
@@ -67,7 +69,7 @@ This is where the courses I teach will be listed.
 
 
 
-///// Old
+Old
 <div style='background-color:#eeeeee; color: #e06666; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em;'>
 <div style='margin-left:1em;'><b>New! (2024/03/31)</b><br>The abstract "<i>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘you (to have) + VP’ in Taiwan Mandarin</i>" has been accepted for an oral presentation at the The Japanese Society for Language Sciences 25th Annual International Conference!<br>
 </div>
