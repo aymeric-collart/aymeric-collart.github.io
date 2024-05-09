@@ -17,6 +17,7 @@ This is where the courses I teach will be listed.
   outline: none;
   border-radius: 4px;
   font-size: 22px;
+  border-left: solid #bcbcbc 4px;
 }
 
 .active, .collapsible:hover {
@@ -54,14 +55,14 @@ This is where the courses I teach will be listed.
 NEW
 
 <body>
-<button class="collapsible"><b>News!</b></button>
+<button class="collapsible"><b>News</b></button>
 <div class="content">
 <br>
-<p><b>New! (2024/05/09)</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" is now available online in <i>Journal of Psycholinguistic Research</i> <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">here</a>!
+<p><b>2024/05/09</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" is now available online in <i>Journal of Psycholinguistic Research</i> <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">here</a>!
 </p>
-<p><b>New! (2024/04/06)</b><br>The manuscript entitled "A decade of language processing research: Which place for linguistic diversity?" has been accepted for publication in <i>Glossa Psycholinguistics</i>!
-</p><
-p><b>New! (2024/03/31)</b><br>The abstract "<i>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘you (to have) + VP’ in Taiwan Mandarin</i>" has been accepted for an oral presentation at the The Japanese Society for Language Sciences 25th Annual International Conference!<br>
+<p><b>2024/04/06</b><br>The manuscript entitled "A decade of language processing research: Which place for linguistic diversity?" has been accepted for publication in <i>Glossa Psycholinguistics</i>!
+</p>
+<p><b>2024/03/31</b><br>The abstract "<i>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘you (to have) + VP’ in Taiwan Mandarin</i>" has been accepted for an oral presentation at the The Japanese Society for Language Sciences 25th Annual International Conference!<br>
 </p>
 </div>
 
