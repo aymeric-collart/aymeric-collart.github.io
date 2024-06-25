@@ -51,7 +51,7 @@ author_profile: true
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Glossa Psycholinguistics</i>, 2024</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (accepted). A decade of language processing research: Which place for linguistic diversity? <i>Glossa Psycholinguistics</i>, <i>3</i>(1). 1-37.</div>  
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (2024). A decade of language processing research: Which place for linguistic diversity? <i>Glossa Psycholinguistics</i>, <i>3</i>(1). 1-37.</div>  
 </div>
 <br>
 
