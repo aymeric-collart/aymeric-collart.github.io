@@ -7,7 +7,7 @@ author_profile: true
 
 <hr />
 
-I will share blog posts and thoughts about work in progress in the near future here. Stay tuned!
+I will share here very informal posts about anything, mostly notes and reminders for a future use.
 
 ---
 
@@ -16,7 +16,6 @@ I will share blog posts and thoughts about work in progress in the near future h
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
