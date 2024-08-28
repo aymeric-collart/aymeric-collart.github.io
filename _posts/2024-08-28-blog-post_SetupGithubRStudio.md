@@ -14,7 +14,7 @@ The thing is that I don't really like editing the pages on the Github page. I've
 I'd like to post my notes here about the process I've been through when setting everything up -- I'm pretty sure I'll forget how I did it in the future, and it can also be useful for other people!
 
 [Warning!](){: .btn .btn--danger}
-|\n When I say I'd like to document the process, it means that I'll write down the failed steps as well! Try-and-error is, I think, the best way to learn things for me (I can read as many tutorials as possible, I'll always need hands-on practices to really catch the concepts).
+<br> When I say I'd like to document the process, it means that I'll write down the failed steps as well! Try-and-error is, I think, the best way to learn things for me (I can read as many tutorials as possible, I'll always need hands-on practices to really catch the concepts).
 So, beware!
 And if you have solutions for my errors, please don't hesitate to share!
 
