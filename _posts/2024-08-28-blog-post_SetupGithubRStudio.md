@@ -21,7 +21,7 @@ And if you have solutions for my errors, please don't hesitate to share!
 
 ---
 
-First, setting up the Github page
+First, set up the Github page
 ======
 
 Ok, I can't avoid the Github page. This still need to be created somewhere! I've tried setting up as a subpage of this webpage... but for reasons that I'm still not completely sure of, it never really worked. I believe the problem was that I was trying to create a subpage of this website, but with different themes, so in the end the codes in the files were not consistent (but is it the real reason? I don't know!).<br>
@@ -30,7 +30,7 @@ My solution has been to create another Github account, setting up the page as us
 So far so good, I can edit the website directly from the Github webpage, so it seems to work. Let's move on the next step.<br>
 <br>
 
-Second, making it communicating with R/RStudio.
+Second, make it communicate with R/RStudio.
 ======
 
 Oh this step has been a headache for me. I don't recommend multitasking while going through this step, or you'll run into many failures impossible to understand as I did.
@@ -41,11 +41,13 @@ Oh this step has been a headache for me. I don't recommend multitasking while go
 Now my computer needs to have the same folders/files as in the Github repository... or more simply, let's download the repository!<br>
 apparently this can be done with RStudio. We just need to open a new project, specify that it is a Git one, provide the web address of the project, and... Tadaaam!
 
+<img src="https://aymeric-collart.github.io/images/RStudioGithubCreation.gif" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 ![Alt Text](https://aymeric-collart.github.io/images/RStudioGithubCreation.gif)
 
 I know I should have clicked on "open in a new session", but this was already a new session.<br>
 And if it works, you now have a new option near the "environment" window: the "Git" option.
 
+<img src="https://aymeric-collart.github.io/images/GitOption.png" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 ![Alt Text](https://aymeric-collart.github.io/images/GitOption.png)
 
 Yes, done!
