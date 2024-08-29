@@ -40,9 +40,8 @@ Oh this step has been a headache for me. I don't recommend multitasking while go
 
 Now my computer needs to have the same folders/files as in the Github repository... or more simply, let's download the repository!<br>
 apparently this can be done with RStudio. We just need to open a new project, specify that it is a Git one, provide the web address of the project, and... Tadaaam!<br>
-```
-<b> How to do?</b> File > New Project... > Version Control > Git > Paste the address of the repository, configure the options > Create Project
-```
+
+[<b> How to do?</b> File > New Project... > Version Control > Git > Paste the address of the repository, configure the options > Create Project]{: .notice--info}
 
 <img src="https://aymeric-collart.github.io/images/RStudioGithubCreation.gif" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 
