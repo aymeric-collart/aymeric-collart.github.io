@@ -35,4 +35,19 @@ Second, making it communicating with R/RStudio.
 
 Oh this step has been a headache for me. I don't recommend multitasking while going through this step, or you'll run into many failures impossible to understand as I did.
 
+
+> <b> Get the Github repository into the computer with RStudio </b>
+
+Now my computer needs to have the same folders/files as in the Github repository... or more simply, let's download the repository!<br>
+apparently this can be done with RStudio. We just need to open a new project, specify that it is a Git one, provide the web address of the project, and... Tadaaam!
+
+![Alt Text](https://aymeric-collart.github.io/images/RStudioGithubCreation.gif)
+
+I know I should have clicked on "open in a new session", but this was already a new session.<br>
+And if it works, you now have a new option near the "environment" window: the "Git" option.
+
+![Alt Text](https://aymeric-collart.github.io/images/GitOption.png)
+
+Yes, done!
+
 [Post to finish at a later time -- I need to go through the steps one more time to document with details and images!]
