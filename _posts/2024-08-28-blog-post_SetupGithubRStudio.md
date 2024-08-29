@@ -41,7 +41,7 @@ Oh this step has been a headache for me. I don't recommend multitasking while go
 Now my computer needs to have the same folders/files as in the Github repository... or more simply, let's download the repository!<br>
 apparently this can be done with RStudio. We just need to open a new project, specify that it is a Git one, provide the web address of the project, and... Tadaaam!<br>
 
-<p class="notice--info"><strong>How to do?</strong> New Project... > Version Control > Git > Paste the address of the repository, configure the options > Create Project</p>
+<p class="notice--success"><strong>How to do?</strong> New Project... > Version Control > Git > Paste the address of the repository, configure the options > Create Project</p>
 
 <img src="https://aymeric-collart.github.io/images/RStudioGithubCreation.gif" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 
@@ -52,4 +52,21 @@ And if it works, you now have a new option near the "environment" window: the "G
 
 Yes, done!
 
-[Post to finish at a later time -- I need to go through the steps one more time to document with details and images!]
+> <b> Final step: Test and change anything in the front page from RStudio </b>
+
+Let's have a look at the frontpage of website that I just created from a preexisting theme. It looks like this:
+
+<img src="https://aymeric-collart.github.io/images/Website_raw.png" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
+
+In the repository, this corresponds to the file called "index.html". Let's open this in RStudio, write anything, and publish it to test. And a short video will speak better than a thousand words.
+
+<img src="https://aymeric-collart.github.io/images/RStudioGithubPush.gif" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
+
+<p class="notice--success"> At some point you'll be prompted to give a password. In the end, RStudio is trying to communicate with the Github repository in someone's account protected by a password! <br>
+Apparently this wasn't the case for me because I've already given the <b><i>Personal Access Token</i></b> which can be found in the Github repository. You only need to give once! I highly recommend reading <a ref="https://happygitwithr.com/connect-intro" target="_blank">Happy Git with R</a> which is very clearly written!</p>
+
+And now let's look at the front page again...
+
+<img src="https://aymeric-collart.github.io/images/Website_after.png" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
+
+It works! Time to play around!
