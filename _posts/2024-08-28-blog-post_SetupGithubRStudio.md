@@ -39,16 +39,17 @@ Oh this step has been a headache for me. I don't recommend multitasking while go
 > <b> Get the Github repository into the computer with RStudio </b>
 
 Now my computer needs to have the same folders/files as in the Github repository... or more simply, let's download the repository!<br>
-apparently this can be done with RStudio. We just need to open a new project, specify that it is a Git one, provide the web address of the project, and... Tadaaam!
+apparently this can be done with RStudio. We just need to open a new project, specify that it is a Git one, provide the web address of the project, and... Tadaaam!<br>
+```
+<b> How to do?</b> File > New Project... > Version Control > Git > Paste the address of the repository, configure the options > Create Project
+```
 
 <img src="https://aymeric-collart.github.io/images/RStudioGithubCreation.gif" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
-![Alt Text](https://aymeric-collart.github.io/images/RStudioGithubCreation.gif)
 
 I know I should have clicked on "open in a new session", but this was already a new session.<br>
 And if it works, you now have a new option near the "environment" window: the "Git" option.
 
 <img src="https://aymeric-collart.github.io/images/GitOption.png" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
-![Alt Text](https://aymeric-collart.github.io/images/GitOption.png)
 
 Yes, done!
 
