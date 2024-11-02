@@ -100,10 +100,11 @@ I graduated from the PhD program of the department of English of National Taiwan
 ### Research interests
 
 My research interests combine two disciplines: linguistics and cognitive science (including language processing). My main area of research can be summarized as follows:
-<img src="https://aymeric-collart.github.io/images/GeneralResearch.jpg" alt="drawing" width="50%"/>
-
-<a href="https://aymeric-collart.github.io/images/GeneralResearch.jpg" class="image-popup" target="_blank" width = "10%"><img src="https://aymeric-collart.github.io/images/GeneralResearch.jpg" ></a>
-
+<br>
+<center>
+<img src="https://aymeric-collart.github.io/images/GeneralResearch.jpg" alt="drawing" width="75%"/>
+</center>
+<br>
 * On the linguistic side, I am interested in the syntax and semantics of the expression of TIME from a functional syntax and user-based perspective. Particularly, I aim at understanding how temporal relations are expressed with grammatical markers in Mandarin Chinese (and its variety spoken in Taiwan), which is said to be a tenseless language.
 * On the pcognitive science side, I have mainly worked in sentence processing using psycholinguistic and neurolinguistic techniqueswith a focus on the processing of temporality (tense, aspect, modality) in grammar. 
 
