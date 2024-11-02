@@ -60,13 +60,9 @@ redirect_from:
 </p>
 <p><b>2024/05/09</b><br>The manuscript entitled "It costs to exist: Acceptability judgments of the temporal concord of the auxiliary verbs <i>you</i> and <i>hui</i> in Taiwan Mandarin" is now available online in <i>Journal of Psycholinguistic Research</i> <a href="https://doi.org/10.1007/s10936-024-10086-5" target="_blank">here</a>!
 </p>
-<p><b>Upcoming presentations</b></p>
+<p><b>Upcoming presentation(s)</b></p>
 <p>
-- <b>2024/07/12-14</b>: "<i>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘you (to have) + VP’ in Taiwan Mandarin</i>", oral presentation at the Japanese Society for Language Sciences 25th Annual International Conference, Shizuoka, Japan
-<br>
-- <b>2024/09/03-04</b>: "<i>Quantitative explorations of regional grammatical variations: The case of you ‘to have’ in Taiwan Mandarin</i>", poster presentation at the Crosslinguistic Perspectives on Processing and Learning Conference, Zurich, Switzerland
-<br>
-- <b>2024/09/05-07</b>: "<i>Judging past time reference across languages: A Competition Model perspective</i>", poster presentation at the 30th AMLaP Architectures and Mechanisms for Language Processing Conference, Edinburgh, Scotland
+- <b>2025/05/12-14</b>: "<i>A tale of the lab and the field: An opportunity for Formosan language research</i>", oral presentation at the 5th World Congress of Taiwan Studies (Taiwan in a changing world: Past, present, and future), Taipei, Taiwan
 <br>
 </p>
 </div>
@@ -95,9 +91,11 @@ for (i = 0; i < coll.length; i++) {
 
 ### Short bio
 
-I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I work on my own project entitled "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin".
-
-I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track). During my PhD studies, I was also the manager of the [Neurolinguistics Lab](https://sites.google.com/view/neurolinguisticslabntnu) of National Taiwan Normal University, where I supervized behavioral, ERP and fMRI experiments about a great variety of language-related topics, such as language relativity, classifier processing or conceptual categorization.
+I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I work on my own 2-year project entitled "Paving the way for ‘field psycholinguistics’ of Formosan languages: Case studies in Truku Seediq, Bunun and Tsou", with a grant from the Academia Sinica postdoctoral scholar program. 
+<br>
+Previously, I worked on another 2-year postdoctoral project (2022-2024), "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin", where I examined this grammatical construction in the variety of Mandarin spoken in Taiwan using a wide range of techniques: corpus-driven observations, morphosyntactic/semantic/discursive analyses, behavioral methods (acceptability judgments, self-paced reading), neuroimaging methods (EEG/ERP).
+<br>
+I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track) in June 2022. During my PhD studies, I was also the manager of the <a href="https://sites.google.com/view/neurolinguisticslabntnu" target="_blank">Neurolinguistics Lab</a> of National Taiwan Normal University, where I supervized behavioral, ERP and fMRI experiments about a great variety of language-related topics, such as language relativity, classifier processing or conceptual categorization.
 
 ### Research interests
 

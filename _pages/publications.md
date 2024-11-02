@@ -65,8 +65,8 @@ author_profile: true
 <b>Past and future time reference processing teased apart in Paiwan, an endangered Formosan language.</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, 2023.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (2023). Past and future time reference processing teased apart in Paiwan, an endangered Formosan language. <i>Language and Cognition</i>, 1-26. <i>First view article</i>.</div>  
+  <div class="item3" style="padding-top:1px">In <i>Language and Cognition</i>, 2024.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Zeitoun, E. (2024). Past and future time reference processing teased apart in Paiwan, an endangered Formosan language. <i>Language and Cognition</i>, <i>16</i>3, 574-599.</div>  
 </div>
 <br>
 

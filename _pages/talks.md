@@ -9,10 +9,22 @@ Slides upon request. You may contact me by email.
 
 ---
 ## Accepted presentations (abstract reviewed and accepted) and invited talks
-* <ins>Collart, A.</ins> (2024, July). <b>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin</b>. Paper to be presented at the Japanese Society for Language Sciences 25th Annual International Conference. Shizuoka, Japan. (talk) [Abstract provided later]
+* <ins>Collart, A.</ins> (2025, May). <b>A tale of the lab and the field: An opportunity for Formosan language research</b>. Paper to be presented at the 5th World Congress of Taiwan Studies (Taiwan in a changing world: Past, present, and future). Academia Sinica, Taipei, Taiwan. (talk) [Abstract provided later]
 
 
 ## Past conference presentations
+* <ins>Collart, A.</ins> (2024, October). <b>JMind your language and your cues when judging the past</b>. Paper to be presented at the 13th Workshop on Formal Syntax and Semantics (FOSS-15). National Taiwan Normal university, Taipei, Taiwan. [Abstract provided later]
+
+
+* <ins>Collart, A.</ins> (2024, September). <b>Judging past time reference across languages: A Competition Model perspective</b>. Paper presented at the 30th Architectures and Mechanisms for Language Processing (AMLaP 30). University of Edinburgh, Edinburgh, United Kingdom. (poster) [Abstract provided later]
+
+
+* <ins>Collart, A.</ins> (2024, September). <b>Quantitative explorations of regional grammatical variations: The case of <i>you</i> ‘to have’ in Taiwan Mandarin</b>. Paper presented at the Crosslinguistic Perspectives on Processing and Learning Workshop (X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract provided later]
+
+
+* <ins>Collart, A.</ins> (2024, July). <b>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin</b>. Paper presented at the Japanese Society for Language Sciences 25th Annual International Conference. Shizuoka, Japan. (talk) [Abstract provided later]
+
+
 * <ins>Collart, A.</ins> (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop (X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_XPPL2023_AymericCollart.pdf)
 
 
