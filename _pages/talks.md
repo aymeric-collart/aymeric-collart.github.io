@@ -13,7 +13,7 @@ Slides upon request. You may contact me by email.
 
 
 ## Past conference presentations
-* <ins>Collart, A.</ins> (2024, October). <b>JMind your language and your cues when judging the past</b>. Paper to be presented at the 13th Workshop on Formal Syntax and Semantics (FOSS-15). National Taiwan Normal university, Taipei, Taiwan. [Abstract provided later]
+* <ins>Collart, A.</ins> (2024, October). <b>Mind your language and your cues when judging the past</b>. Paper presented at the 13th Workshop on Formal Syntax and Semantics (FOSS-15). National Taiwan Normal university, Taipei, Taiwan. [Abstract provided later]
 
 
 * <ins>Collart, A.</ins> (2024, September). <b>Judging past time reference across languages: A Competition Model perspective</b>. Paper presented at the 30th Architectures and Mechanisms for Language Processing (AMLaP 30). University of Edinburgh, Edinburgh, United Kingdom. (poster) [Abstract provided later]
@@ -25,7 +25,7 @@ Slides upon request. You may contact me by email.
 * <ins>Collart, A.</ins> (2024, July). <b>Existing in the future depends on who you are and what you do: Acceptability judgments of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin</b>. Paper presented at the Japanese Society for Language Sciences 25th Annual International Conference. Shizuoka, Japan. (talk) [Abstract provided later]
 
 
-* <ins>Collart, A.</ins> (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper to be presented at the Crosslinguistic Perspectives on Processing and Learning Workshop (X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_XPPL2023_AymericCollart.pdf)
+* <ins>Collart, A.</ins> (2023, November). <b>Neurotypological considerations of temporal concord processing</b>. Paper presented at the Crosslinguistic Perspectives on Processing and Learning Workshop (X-PPL). University of Zurich, Zurich, Switzerland. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_XPPL2023_AymericCollart.pdf)
 
 
 * <ins>Collart, A.</ins> (2023, September). <b>Processing temporal concord and modality: A self-paced reading study on <i>you</i> and <i>hui</i> in Taiwan Mandarin</b>. Paper presented at the 29th Architectures and Mechanisms for Language Processing (AMLaP 29). Basque Center on Cognition, Brain and Language (BCBL), San Sebastian, Spain. (poster) [Abstract](https://aymeric-collart.github.io/files/Abstract_AMLaP2023_Collart_YouHuiSelfPaced.pdf)
