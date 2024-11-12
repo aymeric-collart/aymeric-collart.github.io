@@ -8,14 +8,17 @@ tags:
   - 30DayMapChallenge
 ---
 
-As some people may know, I'm actively working on the language processing of understudied languages. I often refer Taiwan as an open laboratory for cross-linguistic research for psycholinguistics: There are so many languages with so many interesting phenomena! I also remember that when discussing this topic with other researchers, what I often heard was that "Taiwan is so small, you just need to drive for 2 hours and you can get to indigenous communities. You're so lucky!".
+As some people may know, I'm actively working on the language processing of understudied languages. I often refer to Taiwan as an open laboratory for cross-linguistic research for psycholinguistics: There are so many languages with so many interesting phenomena but so little has been done! I also remember that when discussing this topic with other researchers, what I often heard was that "Taiwan is so small, you just need a 2-hour drive and you can get to indigenous communities. You're so lucky!".
 
 So what's the problem?
 =====
 
-Well, as a field-based psycholinguist, I can't totally agree. Getting physically in the communities is quite a challenge. The villages are very often by the ocean and/or in the mountains, and Taiwan is a place for earthquakes, typhoons and sudden heavy rain. Add to this the heavy heat, so that it's virtually impossible to conduct a psycholinguistic study starting from late May to early October. The roads can be blocked by lanslides or rocks falling. If you don't have a car (or just can't drive!), you're indeed lucky enough if you have one bus in a day.
+Well, as a field-based psycholinguist in Taiwan, I can't totally agree. Getting physically in the communities is quite a challenge. The villages are very often by the ocean and/or in the mountains, and Taiwan is a place for earthquakes, typhoons and sudden rain. Add to this the heavy heat, the humidity, so that it's virtually impossible to conduct a psycholinguistic study starting from late May to early October. The roads can be blocked by lanslides or rocks falling. If you don't have a car (or just can't drive!), you're considered lucky  if you have one bus in a day.
 
-This is the reality of the geography of Taiwan, it's challenging but it's a part of its charm as well. Getting to work in the villages feels like you're on vacation with great views on the Pacific Ocean and the high mountains, surrounded by the wonderful Formosan culture!
+This is the reality of the geography of Taiwan, it's challenging but it's a part of its charm as well. Getting to work in the villages feels like you're on vacation with great views on the Pacific Ocean and the high mountains, surrounded by the wonderful Formosan culture! This is the environment you can have on the East coast in Amis villages:
+
+<img src="https://aymeric-collart.github.io/images/TaiwanEastCoast.jpg" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
+
 The main problem I found when discussing with other researchers is that this reality isn't really conveyed by the maps we can find in articles and books.
 
 <a title="Kwamikagami at English Wikipedia, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Formosan_languages.png"><img width="256" alt="Formosan languages" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Formosan_languages.png/256px-Formosan_languages.png?20090111200951"></a>
