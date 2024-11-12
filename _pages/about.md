@@ -91,7 +91,7 @@ for (i = 0; i < coll.length; i++) {
 
 ### Short bio
 
-I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I work on my own 2-year project entitled "Paving the way for ‘field psycholinguistics’ of Formosan languages: Case studies in Truku Seediq, Bunun and Tsou", with a grant from the Academia Sinica postdoctoral scholar program. 
+I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I am working on my own 2-year project entitled "Paving the way for ‘field psycholinguistics’ of Formosan languages: Case studies in Truku Seediq, Bunun and Tsou", with a grant from the Academia Sinica postdoctoral scholar program. 
 <br>
 Previously, I worked on another 2-year postdoctoral project (2022-2024), "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of ‘<i>you</i> (to have) + VP’ in Taiwan Mandarin", where I examined this grammatical construction in the variety of Mandarin spoken in Taiwan using a wide range of techniques: corpus-driven observations, morphosyntactic/semantic/discursive analyses, behavioral methods (acceptability judgments, self-paced reading), neuroimaging methods (EEG/ERP).
 <br>
@@ -105,10 +105,10 @@ My research interests combine two disciplines: linguistics and cognitive science
 <img src="https://aymeric-collart.github.io/images/GeneralResearch.jpg" alt="drawing" width="75%"/>
 </center>
 <br>
-* On the linguistic side, I am interested in the syntax and semantics of the expression of TIME from a functional syntax and user-based perspective. Particularly, I aim at understanding how temporal relations are expressed with grammatical markers in Mandarin Chinese (and its variety spoken in Taiwan), which is said to be a tenseless language.
-* On the pcognitive science side, I have mainly worked in sentence processing using psycholinguistic and neurolinguistic techniqueswith a focus on the processing of temporality (tense, aspect, modality) in grammar. 
+* On the linguistic side, I am interested in the syntax and semantics of the expression of time reference from a functional syntax and user-based perspective. Particularly, I aim at understanding how temporal relations are expressed with grammatical markers in tenseless languages, with a focus on Mandarin Chinese (and its variety spoken in Taiwan).
+* On the cognitive science side, I have mainly worked in sentence processing using psycholinguistic and neurolinguistic techniques with a focus on the processing of temporality (tense, aspect, mood and modality) in grammar. 
 
-I aim at bridging linguistic analyses with their brain processing patterns in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. Although I have mainly conducted my research on Mandarin Chinese, I also wish to expand my research to other languages, especially languages which are underrepresented in the language processing domain.
+I aim at bridging linguistic analyses with their brain processing patterns in order to establish a neurolinguistic and crosslinguistic model of the processing of temporality at the sentence level. Although I have mainly focused on Mandarin Chinese so far, I wish to expand my research to other languages, especially languages which are underrepresented in the language processing domain.
 
 <br>
 My research interests lie in the following  topics (click on the image for more details):
@@ -185,4 +185,4 @@ div.desc {
 </div>
 
 <br>
-<font size="1">Last update: 2024/11/02</font>
+<font size="1">Last update: 2024/11/12</font>
