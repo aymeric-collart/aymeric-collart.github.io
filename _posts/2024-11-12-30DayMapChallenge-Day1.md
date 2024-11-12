@@ -34,3 +34,5 @@ It's not hard to see that the main indigenous groups in terms of population size
 Goal of the challenge
 ==========
 I've recently come across the #30DayMapChallenge, and it reminded me of this old idea I had of trying to draw maps of Taiwan and the Formosan languages according to other factors. Maybe now it's time to be more diligent in this project. I'm really not sure how much I'll be able to achieve, but it'll surley be worth the try!
+<br>
+This is quite a fuzzy goal so far, but it's intended. Right now, I'm more interested in documenting the process and getting to understand what I'll be able to do. Just be prepared for many failures, but we'll surely learn a thing or two in the meantime. 
