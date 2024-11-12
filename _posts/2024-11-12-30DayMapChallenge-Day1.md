@@ -9,6 +9,10 @@ tags:
 ---
 
 As some people may know, I'm actively working on the language processing of understudied languages. I often refer Taiwan as an open laboratory for cross-linguistic research for psycholinguistics: There are so many languages with so many interesting phenomena! I also remember that when discussing this topic with other researchers, what I often heard was that "Taiwan is so small, you just need to drive for 2 hours and you can get to indigenous communities. You're so lucky!".
+
+So what's the problem?
+=====
+
 Well, as a field-based psycholinguist, I can't totally agree. Getting physically in the communities is quite a challenge. The villages are very often by the ocean and/or in the mountains, and Taiwan is a place for earthquakes, typhoons and sudden heavy rain. Add to this the heavy heat, so that it's virtually impossible to conduct a psycholinguistic study starting from late May to early October. The roads can be blocked by lanslides or rocks falling. If you don't have a car (or just can't drive!), you're indeed lucky enough if you have one bus in a day.
 
 This is the reality of the geography of Taiwan, it's challenging but it's a part of its charm as well. Getting to work in the villages feels like you're on vacation with great views on the Pacific Ocean and the high mountains, surrounded by the wonderful Formosan culture!
@@ -24,5 +28,6 @@ When you know that Taiwan is as big as Belgium, and that it has a quite well-des
 
 It's not hard to see that the main indigenous groups in terms of population size (Amis, Paiwan, Bunun, Atayal for the top ones) are... in the high mountains!
 
-<b>Goal of the challenge</b>
+Goal of the challenge
+==========
 I've recently come across the #30DayMapChallenge, and it reminded me of this old idea I had of trying to draw maps of Taiwan and the Formosan languages according to other factors. Maybe now it's time to be more diligent in this project. I'm really not sure how much I'll be able to achieve, but it'll surley be worth the try!
