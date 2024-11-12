@@ -22,7 +22,7 @@ So, beware!
 And if you have solutions for my errors, please don't hesitate to share!
 
 
----
+<!--more-->
 
 First, set up the Github page
 ======
