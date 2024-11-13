@@ -11,7 +11,7 @@ tags:
 
 I had the opportunity to design many tutorials as a Ph.D student and after graduating. Generally, the slides and other stuff are just somewhere on my hard drive, taking the digital dust. Therefore, I've had the idea to create another Github pages where I could post my tutorials! #OpenScience <br>
 
----
+<!--more-->
 
 The thing is that I don't really like editing the pages on the Github page. I've tried other programs, such as Github Desktop, but I've never quite enjoyed this. I've been looking for other options, and as a (now long-time) user of R and RStudio, I thought it was time to give it a try such that I can modify all as I want with this program. <br>
 <br>
@@ -22,8 +22,6 @@ I'd like to post my notes here about the process I've been through when setting 
 So, beware!
 And if you have solutions for my errors, please don't hesitate to share!
 
-
-<!--more-->
 
 First, set up the Github page
 ======
