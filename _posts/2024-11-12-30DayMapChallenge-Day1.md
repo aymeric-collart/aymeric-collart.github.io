@@ -1,6 +1,7 @@
 ---
 title: '#30DayMapChallenge, Day 1: Setting the objectives'
 date: 2024-11-12
+share: false
 permalink: /posts/blog-30DayMapChallenge-Day1/
 tags:
   - Taiwan indigenous languages

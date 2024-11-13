@@ -1,6 +1,7 @@
 ---
 title: 'Setting up Github pages and edit with RStudio'
 date: 2024-08-28
+share: false
 permalink: /posts/blog-github-rstudio-website/
 tags:
   - Github
