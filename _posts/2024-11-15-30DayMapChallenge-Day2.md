@@ -31,6 +31,18 @@ The Foundation for the Research and Development of Indigenous Languages (in Chin
 <br>
 We can find the results to the question "what is your dominant L1" on pages 35-36.
 
+| Dominant language | Indigenous language | Mandarin Chinese | Other |
+| Age group         |                        |                     |       |
+| :---:                   | :---:                  | :---:               | :---: |
+| Below 10                | 8.1%                   | 91.9%               | 0%    |
+| 11-20                   | 6.2%                   | 93.8%               | 0%    |
+| 21-30                   | 5%                     | 92.5%               | 2.5%  |
+| 31-40                   | 18.3%                  | 75%                 | 6.7%  |
+| 41-50                   | 43.4%                  | 53%                 | 3.6%  |
+| 51-60                   | 64.6%                  | 26.8%               | 8.6%  |
+| Above 61                | 81.8%                  | 11.7%               | 6.5%  |
+
+
 | Attempt | #1    | #2    |
 | :---:   | :---: | :---: |
 | Seconds | 301   | 283   |
