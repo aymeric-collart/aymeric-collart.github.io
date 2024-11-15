@@ -54,7 +54,23 @@ What is the number of (fluent) speakers of Formosan language <i>by</i> language?
 
 This is a simple calculation, which is certainly wrong because it won't represent the reality on the field, and I'm completely ignoring differences between groups, the actual usage of the language in the everyday life, where they live (in metropolitan/urban areas or in the villages), etc.. But at least, we can have a first estimate:<br>
 
-
 > Estimate number of (more or less) fluent speakers = n(51-60 years old) * 64.6% + n(above 61 years old) * 81.8%
 
-<br>
+The <i>Council of Indigenous Peoples</i> in Taiwan provides monthly statistics about the population number of indigenous people based on different factors (see <a href = "https://www.cip.gov.tw/zh-tw/news/data-list/940F9579765AC6A0/283F23E8500A85D2FF69791FDE74F1A9-info.html" target = "_blank">here</a> for the most recent one so far, September 2024). The problem is that <b>there is no statistical table for the population number in terms of ethnic group and age</b>!
+
+|  | Non-mountain areas| Mountain areas | 
+| :---:                   | :---:                  | :---:               | 
+| Total                |  283 595      |  324 349       | 
+| Amis                 |  225 254      |  1341       |  
+| Atayal               |  1937         |  97 159       |  
+| Paiwan               |  23 272       |  86 573       | 
+| Bunun                |  353          |  63 001       | 
+| Rukai                |  2 806        |  11 283       | 
+| Puyuma               |  15 641       |  122       | 
+| Tsou                 |  16           |  6869       | 
+| Saisiyat             |  4813         |  2417       | 
+| Yami                 |  12           |  4951       |  
+| Thao                 |  910          |  6       | 
+| Kavalan              |  1654         |  2       | 
+| Truku                |  165          |  35 117       |  
+| Sakizaya             |  1118         |  2       |  
