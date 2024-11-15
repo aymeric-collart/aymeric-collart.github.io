@@ -13,15 +13,18 @@ Day 2 of the #30DayMapChallenge. I'm entering the preparatory phase: Figuring ou
 
 <!--more-->
 Anyone interested in Formosan languages knows that they are endangered. A quick chat with indigenous people or researchers will tell you that the most fluent speakers are the older ones. The question is to:<br>
+
 General question: What is the number of speakers by language?
 ====
+
 This question is not easy to answer, for the only reason that it's hard to define what a 'fluent speaker' is. The ideal way to do so would be to rely on standardized tests and to have everyone taking them... but as always, ideal situations face the reality of life!
 <br><br>
 
 First question: Who is fluent in Formosan languages?
 ====
+
 Prof. Ai-yu Apay Tang (National Dong Hwa University) looked at this issue in Truku, using behavioral methods to provide psycholinguistic assessments (see her book published in 2021, <i>From diagnosis to remedial plan : a psycholinguistic assessment of language shift, intergenerational linguistic proficiency, and language planning in Truku</i>). Several groups of participants were involved depending on their age: (a) 10-15 years old, (b) 16-25 years old, (c) 26-40 years old, and (d) 41-65 years old. And the results are quite straightforward: The younger the participants, the less fluent they were in Truku. Coupled to the fact that generally they can speak Mandarin Chinese, the results reflect a shift in terms of dominance of L1: While the dominant L1 was still Truku for the group of oldest participants, this was not the case for the three other groups.
-<b><b>
+<br><br>
 As always when dealing with Formosan languages, we shound never assume that what we observe in one language is generalizable to other languages. Do the results found for Truku also hold for other ones?
 <br>
 The Foundation for the Research and Development of Indigenous Languages (in Chinese: 原住民族語言研究發展基金會) has published a huge survey they conducted in 2020 (but only in Chinese, <a href="https://www.ilrdf.org.tw/basic/?node=10064" target = "_blank">here</a>), with responses from 480 people, covering 16 indigenous tribes (another bigger survey is on-going).
@@ -50,7 +53,7 @@ What is the number of (fluent) speakers of Formosan language <i>by</i> language?
 
 This is a simple calculation, which is certainly wrong because it won't represent the reality on the field, and I'm completely ignoring differences between groups, the actual usage of the language in the everyday life, where they live (in metropolitan/urban areas or in the villages), etc.. But at least, we can have a first estimate:<br>
 
-```
+
 Estimate number of (more or less) fluent speakers = 64.6% of the people between 51 and 60 years old + 81.8% of the people above 61 years old
-```
+----
 <br>
