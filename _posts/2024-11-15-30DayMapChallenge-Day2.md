@@ -11,6 +11,8 @@ tags:
 
 Day 2 of the <a href="https://bsky.app/hashtag/30DayMapChallenge" target = "_blank">#30DayMapChallenge</a>. I'm entering the preparatory phase: Figuring out what data are available to plot the maps. Since my main interest is about language, let's start with the crucial and orthodox question: What is the proportion of fluent speakers of indigenous languages in Taiwan?
 
+<b>To complete later</b>
+
 <!--more-->
 Anyone interested in Formosan languages knows that they are endangered. A quick chat with indigenous people or researchers will tell you that the most fluent speakers are the older ones. The question is to:<br>
 
@@ -47,7 +49,7 @@ Again, the situation is quite clear, as one's own indegineous language is aslo y
 <br>
 There are also differences depending on the ethnic group, as showed on page 37. But these data were aggregated over the age groups, so it's not easy to really interpret such differences.
 <br><br>
-We have now an answer to the first question, we can now refine the general question: 
+We have now an answer to the first question, we can refine the general question: 
 
 What is the number of (fluent) speakers of Formosan language <i>by</i> language?
 ====
@@ -85,3 +87,22 @@ Second, we have the table of the repartition of the population accordind to thei
 | 0-50 years old       |  200 135  (70.57%)   |  243 936  (75.21%)   |  
 | 51-60 years old      |  36 599   (12.91%)   |  38 772   (11.95%)   | 
 | Above 61 years old   |  46 861   (16.52%)   |  41 641   (12.84%)   | 
+
+What I can do now is just to assume (because I have no other choice so far) that this proportion is the same for each group, and we obtain the following table:
+
+|           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60|
+| :---:     | :---:                      | :---:                        | :---:                  | :---:                    | 
+| Total     |  36 612                    |                              |                        |                          |
+| Amis      |  29 980                    |                              |                        |                          |
+| Atayal    |  250                       |                              |                        |                          |  
+| Paiwan    |  3004                      |                              |                        |                          |
+| Bunun     |  46                        |                              |                        |                          |
+| Rukai     |  362                       |                              |                        |                          |
+| Puyuma    |  2019                      |                              |                        |                          |
+| Tsou      |  2                         |                              |                        |                          |
+| Saisiyat  |  621                       |                              |                        |                          |
+| Yami      |  2                         |                              |                        |                          |
+| Thao      |  117                       |                              |                        |                          |
+| Kavalan   |  214                       |                              |                        |                          |
+| Truku     |  21                        |                              |                        |                          |
+| Sakizaya  |  144                       |                              |                        |                          |
