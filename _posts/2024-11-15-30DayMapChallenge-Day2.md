@@ -56,7 +56,9 @@ This is a simple calculation, which is certainly wrong because it won't represen
 
 > Estimate number of (more or less) fluent speakers = n(51-60 years old) * 64.6% + n(above 61 years old) * 81.8%
 
-The <i>Council of Indigenous Peoples</i> in Taiwan provides monthly statistics about the population number of indigenous people based on different factors (see <a href = "https://www.cip.gov.tw/zh-tw/news/data-list/940F9579765AC6A0/283F23E8500A85D2FF69791FDE74F1A9-info.html" target = "_blank">here</a> for the most recent one so far, September 2024). The problem is that <b>there is no statistical table for the population number in terms of ethnic group and age</b>!
+The <i>Council of Indigenous Peoples</i> in Taiwan provides monthly statistics about the population number of indigenous people based on different factors (see <a href = "https://www.cip.gov.tw/zh-tw/news/data-list/940F9579765AC6A0/283F23E8500A85D2FF69791FDE74F1A9-info.html" target = "_blank">here</a> for the most recent one so far, September 2024). The problem is that <b>there is no statistical table for the population number in terms of ethnic group and age</b>! But we have other data, so let's see what we can do.
+<br><br>
+First, we have the total population number for each ethnic group, and according to whether they live in mountain areas (which is super crucial as you'll remark great differences between the groups!).
 
 |  | Non-mountain areas| Mountain areas | 
 | :---:                   | :---:                  | :---:               | 
@@ -73,4 +75,13 @@ The <i>Council of Indigenous Peoples</i> in Taiwan provides monthly statistics a
 | Thao                 |  910          |  6       | 
 | Kavalan              |  1654         |  2       | 
 | Truku                |  165          |  35 117       |  
-| Sakizaya             |  1118         |  2       |  
+| Sakizaya             |  1118         |  2       | 
+
+Second, we have the table of the repartition of the population accordind to their age and whether they live in mountain areas. I just give the numbers of interest here:
+
+|                      | Non-mountain areas   | Mountain areas       | 
+| :---:                | :---:                | :---:                | 
+| Total                |  283 595  (100%)     |  324 349  (100%)     | 
+| 0-50 years old       |  200 135  (70.57%)   |  243 936  (75.21%)   |  
+| 51-60 years old      |  36 599   (12.91%)   |  38 772   (11.95%)   | 
+| Above 61 years old   |  46 861   (16.52%)   |  41 641   (12.84%)   | 
