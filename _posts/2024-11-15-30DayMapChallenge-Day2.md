@@ -9,7 +9,7 @@ tags:
   - 30DayMapChallenge
 ---
 
-Day 2 of the #30DayMapChallenge. I'm entering the preparatory phase: Figuring out what data are available to plot the maps. Since my main interest is about language, let's start with the crucial and orthodox question: What is the proportion of fluent speakers of indigenous languages in Taiwan?
+Day 2 of the <a href="https://bsky.app/hashtag/30DayMapChallenge" target = "_blank">#30DayMapChallenge</a>. I'm entering the preparatory phase: Figuring out what data are available to plot the maps. Since my main interest is about language, let's start with the crucial and orthodox question: What is the proportion of fluent speakers of indigenous languages in Taiwan?
 
 <!--more-->
 Anyone interested in Formosan languages knows that they are endangered. A quick chat with indigenous people or researchers will tell you that the most fluent speakers are the older ones. The question is to:<br>
@@ -30,6 +30,11 @@ As always when dealing with Formosan languages, we shound never assume that what
 The Foundation for the Research and Development of Indigenous Languages (in Chinese: 原住民族語言研究發展基金會) has published a huge survey they conducted in 2020 (but only in Chinese, <a href="https://www.ilrdf.org.tw/basic/?node=10064" target = "_blank">here</a>), with responses from 480 people, covering 16 indigenous tribes (another bigger survey is on-going).
 <br>
 We can find the results to the question "what is your dominant L1" on pages 35-36.
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 <br><br>
 | **_Dominant language_** | Indigenous<br>language | Mandarin<br>Chinese | Other |
 |-------------------------|------------------------|---------------------|-------|
