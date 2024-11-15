@@ -62,6 +62,8 @@ redirect_from:
 </p>
 <p><b>Upcoming presentation(s)</b></p>
 <p>
+- <b>2024/12/19</b>: "<i>Grammar and time in contrast: A case for multidisciplinary research</i>", invited talk (onsite and simultaneous online option) at the Research Center for Humanities and Social Sciences, Academia Sinica, Taipei, Taiwan
+<br>
 - <b>2025/05/12-14</b>: "<i>A tale of the lab and the field: An opportunity for Formosan language research</i>", oral presentation at the 5th World Congress of Taiwan Studies (Taiwan in a changing world: Past, present, and future), Taipei, Taiwan
 <br>
 </p>
@@ -185,4 +187,4 @@ div.desc {
 </div>
 
 <br>
-<font size="1">Last update: 2024/11/12</font>
+<font size="1">Last update: 2024/11/15</font>
