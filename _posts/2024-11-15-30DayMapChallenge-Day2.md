@@ -43,22 +43,6 @@ We can find the results to the question "what is your dominant L1" on pages 35-3
 | Above 61                | 81.8%                  | 11.7%               | 6.5%  |
 
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
-
-<br><br>
-| Dominant language | Indigenous language | Mandarin Chinese | Other |
-| Age group         |                        |                     |       |
-| :---:                   | :---:                  | :---:               | :---: |
-| Below 10                | 8.1%                   | 91.9%               | 0%    |
-| 11-20                   | 6.2%                   | 93.8%               | 0%    |
-| 21-30                   | 5%                     | 92.5%               | 2.5%  |
-| 31-40                   | 18.3%                  | 75%                 | 6.7%  |
-| 41-50                   | 43.4%                  | 53%                 | 3.6%  |
-| 51-60                   | 64.6%                  | 26.8%               | 8.6%  |
-| Above 61                | 81.8%                  | 11.7%               | 6.5%  |
-<br><br>
 Again, the situation is quite clear, as one's own indegineous language is aslo your dominant L1 when you're older. But unlike the study by Ai-yu Apay Tang, we can see that this is the case for speakers older than 50 years old!
 <br>
 There are also differences depending on the ethnic group, as showed on page 37. But these data were aggregated over the age groups, so it's not easy to really interpret such differences.
@@ -71,6 +55,6 @@ What is the number of (fluent) speakers of Formosan language <i>by</i> language?
 This is a simple calculation, which is certainly wrong because it won't represent the reality on the field, and I'm completely ignoring differences between groups, the actual usage of the language in the everyday life, where they live (in metropolitan/urban areas or in the villages), etc.. But at least, we can have a first estimate:<br>
 
 
-> Estimate number of (more or less) fluent speakers = 64.6% of the people between 51 and 60 years old + 81.8% of the people above 61 years old
+> Estimate number of (more or less) fluent speakers = n(51-60 years old) * 64.6% + n(above 61 years old) * 81.8%
 
 <br>
