@@ -36,7 +36,7 @@ We can find the results to the question "what is your dominant L1" on pages 35-3
 | Seconds | 301   | 283   |
 
 <br><br>
-| **_Dominant language_** | Indigenous<br>language | Mandarin<br>Chinese | Other |
+| **_Dominant language_** | Indigenous language | Mandarin Chinese | Other |
 | **_Age group_**         |                        |                     |       |
 | :---:                   | :---:                  | :---:               | :---: |
 | Below 10                | 8.1%                   | 91.9%               | 0%    |
@@ -59,6 +59,6 @@ What is the number of (fluent) speakers of Formosan language <i>by</i> language?
 This is a simple calculation, which is certainly wrong because it won't represent the reality on the field, and I'm completely ignoring differences between groups, the actual usage of the language in the everyday life, where they live (in metropolitan/urban areas or in the villages), etc.. But at least, we can have a first estimate:<br>
 
 
-Estimate number of (more or less) fluent speakers = 64.6% of the people between 51 and 60 years old + 81.8% of the people above 61 years old
-----
+> Estimate number of (more or less) fluent speakers = 64.6% of the people between 51 and 60 years old + 81.8% of the people above 61 years old
+
 <br>
