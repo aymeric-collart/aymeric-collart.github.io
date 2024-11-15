@@ -36,8 +36,8 @@ We can find the results to the question "what is your dominant L1" on pages 35-3
 | Seconds | 301   | 283   |
 
 <br><br>
-| **_Dominant language_** | Indigenous language | Mandarin Chinese | Other |
-| **_Age group_**         |                        |                     |       |
+| Dominant language | Indigenous language | Mandarin Chinese | Other |
+| Age group         |                        |                     |       |
 | :---:                   | :---:                  | :---:               | :---: |
 | Below 10                | 8.1%                   | 91.9%               | 0%    |
 | 11-20                   | 6.2%                   | 93.8%               | 0%    |
