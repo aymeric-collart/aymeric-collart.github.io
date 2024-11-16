@@ -33,16 +33,17 @@ The Foundation for the Research and Development of Indigenous Languages (in Chin
 <br>
 We can find the results to the question "what is your dominant L1" on pages 35-36.
 
-| Dominant language | Indigenous language | Mandarin Chinese | Other |
+| Dominant language | Indigenous language    | Mandarin Chinese    | Other |
 | Age group         |                        |                     |       |
-| :---:                   | :---:                  | :---:               | :---: |
-| Below 10                | 8.1%                   | 91.9%               | 0%    |
-| 11-20                   | 6.2%                   | 93.8%               | 0%    |
-| 21-30                   | 5%                     | 92.5%               | 2.5%  |
-| 31-40                   | 18.3%                  | 75%                 | 6.7%  |
-| 41-50                   | 43.4%                  | 53%                 | 3.6%  |
-| 51-60                   | 64.6%                  | 26.8%               | 8.6%  |
-| Above 61                | 81.8%                  | 11.7%               | 6.5%  |
+| :---:             | :---:                  | :---:               | :---: |
+| Below 10          | 8.1%                   | 91.9%               | 0%    |
+| 11-20             | 6.2%                   | 93.8%               | 0%    |
+| 21-30             | 5%                     | 92.5%               | 2.5%  |
+| 31-40             | 18.3%                  | 75%                 | 6.7%  |
+| 41-50             | 43.4%                  | 53%                 | 3.6%  |
+| 51-60             | 64.6%                  | 26.8%               | 8.6%  |
+| Above 61          | 81.8%                  | 11.7%               | 6.5%  |
+
 : Table 1. Proportion of language dominance by age group
 
 Again, the situation is quite clear, as one's own indegineous language is aslo your dominant L1 when you're older. But unlike the study by Ai-yu Apay Tang, we can see that this is the case for speakers older than 50 years old!
@@ -78,6 +79,7 @@ First, we have the total population number for each ethnic group, and according 
 | Kavalan      |  1654             |  2             | 
 | Truku        |  165              |  35 117        |  
 | Sakizaya     |  1118             |  2             |
+
 : Table 2. Population number for each ethnic group (according to their living area)
 
 Second, we have the table of the repartition of the population accordind to their age and whether they live in mountain areas. I just give the numbers of interest here:
@@ -88,6 +90,7 @@ Second, we have the table of the repartition of the population accordind to thei
 | 0-50 years old       |  200 135  (70.57%)   |  243 936  (75.21%)   |  
 | 51-60 years old      |  36 599   (12.91%)   |  38 772   (11.95%)   | 
 | Above 61 years old   |  46 861   (16.52%)   |  41 641   (12.84%)   | 
+
 : Table 3. Population number and proportion based on the group of age (all ethnic groups aggregated)
 
 What I can do now is just to assume (because I have no other choice so far) that this proportion is the same for each group, and we obtain the following table:
@@ -108,6 +111,7 @@ What I can do now is just to assume (because I have no other choice so far) that
 | Kavalan   |  214                       | 273                          | 0                      | 0                        |
 | Truku     |  21                        | 27                           | 4196                   | 4509                     |
 | Sakizaya  |  144                       | 185                          | 0                      | 0                        |
+
 : Table 4. Estimate population number for each ethnic group (above 51 years old)
 
 This table only shows the population number by age group, but we know based on Table 1 that their indigenous language may not be their dominant language. 
@@ -128,4 +132,5 @@ This table only shows the population number by age group, but we know based on T
 | Kavalan   |  214                       | 273                          | 0                      | 0                        |
 | Truku     |  21                        | 27                           | 4196                   | 4509                     |
 | Sakizaya  |  144                       | 185                          | 0                      | 0                        |
+
 : Table 5. Estimate population number whose dominant language is their indigenous language for each ethnic group
