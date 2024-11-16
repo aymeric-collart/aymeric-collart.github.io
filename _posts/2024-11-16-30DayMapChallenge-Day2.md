@@ -34,6 +34,7 @@ The Foundation for the Research and Development of Indigenous Languages (in Chin
 We can find the results to the question "what is your dominant L1" on pages 35-36.
 
 <i>Table 1. Proportion of language dominance by age group</i>
+
 | Dominant language | Indigenous language    | Mandarin Chinese    | Other |
 | Age group         |                        |                     |       |
 | :---:             | :---:                  | :---:               | :---: |
@@ -63,6 +64,7 @@ The <i>Council of Indigenous Peoples</i> in Taiwan provides monthly statistics a
 First, we have the total population number for each ethnic group, and according to whether they live in mountain areas (which is super crucial as you'll remark great differences between the groups!).
 
 <i>Table 2. Population number for each ethnic group (according to their living area)</i>
+
 |              | Non-mountain areas| Mountain areas | 
 | :---:        | :---:             | :---:          | 
 | Total        |  283 595          |  324 349       | 
@@ -83,6 +85,7 @@ First, we have the total population number for each ethnic group, and according 
 Second, we have the table of the repartition of the population accordind to their age and whether they live in mountain areas. I just give the numbers of interest here:
 
 <i>Table 3. Population number and proportion based on the group of age (all ethnic groups aggregated)</i>
+
 |                      | Non-mountain areas   | Mountain areas       | 
 | :---:                | :---:                | :---:                | 
 | Total                |  283 595  (100%)     |  324 349  (100%)     | 
@@ -93,6 +96,7 @@ Second, we have the table of the repartition of the population accordind to thei
 What I can do now is just to assume (because I have no other choice so far) that this proportion is the same for each group, and we obtain the following table:
 
 <i>Table 4. Estimate population number for each ethnic group (above 51 years old)</i>
+
 |           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60|
 | :---:     | :---:                      | :---:                        | :---:                  | :---:                    | 
 | Total     |  36 612                    | 46 850                       | 38 760                 | 41 646                   |
@@ -113,19 +117,20 @@ What I can do now is just to assume (because I have no other choice so far) that
 This table only shows the population number by age group, but we know based on Table 1 that their indigenous language may not be their dominant language. 
 
 <i>Table 5. Estimate population number whose dominant language is their indigenous language for each ethnic group</i>
-|           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60|
-| :---:     | :---:                      | :---:                        | :---:                  | :---:                    | 
-| Total     |  36 612                    | 46 850                       | 38 760                 | 41 646                   |
-| Amis      |  29 980                    | 37 212                       | 160                    | 172                      |
-| Atayal    |  250                       | 320                          | 11 611                 | 12 475                   |  
-| Paiwan    |  3004                      | 3845                         | 10 345                 | 11 116                   |
-| Bunun     |  46                        | 58                           | 7529                   | 8089                     |
-| Rukai     |  362                       | 464                          | 1348                   | 1449                     |
-| Puyuma    |  2019                      | 2584                         | 15                     | 16                       |
-| Tsou      |  2                         | 3                            | 821                    | 882                      |
-| Saisiyat  |  621                       | 795                          | 289                    | 310                      |
-| Yami      |  2                         | 2                            | 592                    | 636                      |
-| Thao      |  117                       | 150                          | 1                      | 1                        |
-| Kavalan   |  214                       | 273                          | 0                      | 0                        |
-| Truku     |  21                        | 27                           | 4196                   | 4509                     |
-| Sakizaya  |  144                       | 185                          | 0                      | 0                        |
+
+|           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60| Total |
+| :---:     | :---:                      | :---:                        | :---:                  | :---:                    |  :---:                    |
+| Total     |  23 651                    | 38 323                       | 25 039                 | 34 066                   | 121 079                   |
+| Amis      |  19 367                    | 30 439                       | 103                    | 141                      | 50 050                   |
+| Atayal    |  162                       | 266                          | 7501                   | 10 205                   | 18 134                   |
+| Paiwan    |  1941                      | 3145                         | 6683                   | 9093                     | 20 862                   |
+| Bunun     |  30                        | 47                           | 4864                   | 6617                     | 11 558                   |
+| Rukai     |  234                       | 380                          | 871                    | 1185                     | 2670                   |
+| Puyuma    |  1304                      | 2114                         | 10                     | 13                       | 3441                   |
+| Tsou      |  1                         | 2                            | 530                    | 721                      |                    |
+| Saisiyat  |  401                       | 650                          | 187                    | 254                      |                    |
+| Yami      |  1                         | 2                            | 382                    | 520                      |                    |
+| Thao      |  76                        | 123                          | 1                      | 1                        |                    |
+| Kavalan   |  156                       | 223                          | 0                      | 0                        |                    |
+| Truku     |  14                        | 22                           | 2711                   | 3688                     |                    |
+| Sakizaya  |  93                        | 151                          | 0                      | 0                        |                    |
