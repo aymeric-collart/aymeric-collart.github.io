@@ -121,7 +121,7 @@ What I can do now is just to assume (because I have no other choice so far) that
 | Not declared |  725                       |  927                         | 370                    | 398                      |
 
 
-This table only shows the population number by age group, but we know based on Table 1 that their indigenous language may not be their dominant language. So we need to calculate one more time based on the proportion numbers described in Table 1. This gives us the 
+This table only shows the population number by age group, but we know based on Table 1 that their indigenous language may not be their dominant language. So we need to calculate one more time based on the proportion numbers described in Table 1. This gives us the following estimate:
 
 <i>Table 5. Estimate population number whose dominant language is their indigenous language for each ethnic group</i>
 
