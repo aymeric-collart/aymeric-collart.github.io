@@ -154,10 +154,10 @@ Final remarks
 We have an answer to the question in this post. Overall, this means that less than 20% of the people of each ethnic group is dominant in their indigenous language.<br>
 But there are many things I need to warn (also to myself!). This is the most optimistic situation as this only corresponds to the highest numbers on the scale. I wouldn't be surprised if the actual numbers are only half of what I report here, or even lower for the most endangered languages.
 <br><br>
-The reason is just that there are many factors that aren't taken into account in this estimation:<br>
+The reason is just that there are many factors that aren't taken into account in this estimate:<br>
 - What does 'mountain' and 'non-mountain' areas mean? In particular, if 'non-mountain' areas cover very urban areas, such as Taipei city, New Taipei city, Taoyuan city or Kaohsiung city, then the situation is more than certainly worse! Unfortunately, the data weren't fine-grained enough in the reports we can find online.<br>
 - I used the notion of 'L1 dominance', but we all agree that this should be seen as a scale. We can be dominant in the same language, this doesn't mean that we are equally competent.<br>
 - Plus, it doesn't mean that the speakers are not compentent in a second language. The reality is that they are certainly bilingual, and interferences from the other language (mostly Mandarin Chinese or Taiwanese Southern Min, or even another Formosan language) can't be avoided.<br>
 - It's also possible that the number of responses from the survey of L1 dominance was not representative enough. If that's the case, I'm looking forward to the results of the on-going survey!<br>
 <br>
-Overall, I believe that these numbers are helpful. We need a starting point. But they fail to reflect the dynamicity of these languages, and they erase individual differences and sociolinguistic phenomena we can observe on the field. So my take-home message is: <b><i>You can refer to this estimation, but with a lot, a lot, A LOT of caution!</i></b>
+Overall, I believe that these numbers are helpful. We need a starting point. But they fail to reflect the dynamicity of these languages, and they erase individual differences and sociolinguistic phenomena we can observe on the field. So my take-home message is: <b><i>You can refer to this estimate, but with a lot, a lot, A LOT of caution!</i></b>
