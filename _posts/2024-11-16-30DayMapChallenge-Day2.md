@@ -65,26 +65,30 @@ First, we have the total population number for each ethnic group, and according 
 
 <i>Table 2. Population number for each ethnic group (according to their living area)</i>
 
-|              | Non-mountain areas| Mountain areas | 
-| :---:        | :---:             | :---:          | 
-| Total        |  277 951          |  308 843       | 
-| Amis         |  225 254          |  1341          |  
-| Atayal       |  1937             |  97 159        |  
-| Paiwan       |  23 272           |  86 573        | 
-| Bunun        |  353              |  63 001        | 
-| Rukai        |  2 806            |  11 283        | 
-| Puyuma       |  15 641           |  122           | 
-| Tsou         |  16               |  6869          | 
-| Saisiyat     |  4813             |  2417          | 
-| Yami         |  12               |  4951          |  
-| Thao         |  910              |  6             | 
-| Kavalan      |  1654             |  2             | 
-| Truku        |  165              |  35 117        |  
-| Sakizaya     |  1118             |  2             |
+|              | Non-mountain areas| Mountain areas | Total     | 
+| :---:        | :---:             | :---:          | :---:     | 
+| Total        |  283 595          |  324 349       | 607 944   | 
+| Amis         |  225 254          |  1341          | 226 595   |  
+| Atayal       |  1937             |  97 159        | 99 096    |  
+| Paiwan       |  23 272           |  86 573        | 109 845   | 
+| Bunun        |  353              |  63 001        | 63 354    | 
+| Rukai        |  2 806            |  11 283        | 14 089    | 
+| Puyuma       |  15 641           |  122           | 15 763    | 
+| Tsou         |  16               |  6869          | 6885      | 
+| Saisiyat     |  4813             |  2417          | 7230      | 
+| Yami         |  12               |  4951          | 4963      | 
+| Thao         |  910              |  6             | 916       | 
+| Kavalan      |  1654             |  2             | 1656      | 
+| Truku        |  165              |  35 117        | 35 282    |  
+| Sakizaya     |  1118             |  2             | 1120      |
+| Seediq       |  28               |  11 480        | 11 508    |
+| Saaroa       |  3                |  485           | 488       |
+| Kanakanavu   |  1                |  445           | 446       |
+| Not declared |  5612             |  3098          | 8708      |
 
 Second, we have the table of the repartition of the population accordind to their age and whether they live in mountain areas. I just give the numbers of interest here:
 
-<i>Table 3. Population number and proportion based on the group of age (all ethnic groups aggregated; the numbers don't align with Table 2 because they include invalid responses... but we can still make use of the coefficient to retrieve the right number in the end)</i>
+<i>Table 3. Population number and proportion based on the group of age (all ethnic groups aggregated)</i>
 
 |                      | Non-mountain areas   | Mountain areas       | 
 | :---:                | :---:                | :---:                | 
@@ -97,40 +101,63 @@ What I can do now is just to assume (because I have no other choice so far) that
 
 <i>Table 4. Estimate population number for each ethnic group (above 51 years old)</i>
 
-|           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60|
-| :---:     | :---:                      | :---:                        | :---:                  | :---:                    | 
-| Total     |  35 883                    | 45 918                       | 36 907                 | 39 655                   |
-| Amis      |  29 080                    | 37 212                       | 160                    | 172                      |
-| Atayal    |  250                       | 320                          | 11 611                 | 12 475                   |  
-| Paiwan    |  3004                      | 3845                         | 10 345                 | 11 116                   |
-| Bunun     |  46                        | 58                           | 7529                   | 8089                     |
-| Rukai     |  362                       | 464                          | 1348                   | 1449                     |
-| Puyuma    |  2019                      | 2584                         | 15                     | 16                       |
-| Tsou      |  2                         | 3                            | 821                    | 882                      |
-| Saisiyat  |  621                       | 795                          | 289                    | 310                      |
-| Yami      |  2                         | 2                            | 592                    | 636                      |
-| Thao      |  117                       | 150                          | 1                      | 1                        |
-| Kavalan   |  214                       | 273                          | 0                      | 0                        |
-| Truku     |  21                        | 27                           | 4196                   | 4509                     |
-| Sakizaya  |  144                       | 185                          | 0                      | 0                        |
+|              | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60|
+| :---:        | :---:                      | :---:                        | :---:                  | :---:                    | 
+| Total        |  36 612                    | 45 850                       | 38 760                 | 41 646                   |
+| Amis         |  29 080                    | 37 212                       | 160                    | 172                      |
+| Atayal       |  250                       | 320                          | 11 611                 | 12 475                   |  
+| Paiwan       |  3004                      | 3845                         | 10 345                 | 11 116                   |
+| Bunun        |  46                        | 58                           | 7529                   | 8089                     |
+| Rukai        |  362                       | 464                          | 1348                   | 1449                     |
+| Puyuma       |  2019                      | 2584                         | 15                     | 16                       |
+| Tsou         |  2                         | 3                            | 821                    | 882                      |
+| Saisiyat     |  621                       | 795                          | 289                    | 310                      |
+| Yami         |  2                         | 2                            | 592                    | 636                      |
+| Thao         |  117                       | 150                          | 1                      | 1                        |
+| Kavalan      |  214                       | 273                          | 0                      | 0                        |
+| Truku        |  21                        | 27                           | 4196                   | 4509                     |
+| Sakizaya     |  144                       | 185                          | 0                      | 0                        |
+| Seediq       |  4                         |  5                           | 1372                   | 1474                     |
+| Saaroa       |  0                         |  0                           | 58                     | 62                       |
+| Kanakanavu   |  0                         |  0                           | 53                     | 57                       |
+| Not declared |  725                       |  927                         | 370                    | 398                      |
 
-This table only shows the population number by age group, but we know based on Table 1 that their indigenous language may not be their dominant language. 
+
+This table only shows the population number by age group, but we know based on Table 1 that their indigenous language may not be their dominant language. So we need to calculate one more time based on the proportion numbers described in Table 1. This gives us the 
 
 <i>Table 5. Estimate population number whose dominant language is their indigenous language for each ethnic group</i>
 
-|           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60| Total |
-| :---:     | :---:                      | :---:                        | :---:                  | :---:                    |  :---:                    |
-| Total     |  23 180                    | 37 561                       | 23 842                 | 32 438                   | 117 021                   |
-| Amis      |  19 367                    | 30 439                       | 103                    | 141                      | 50 050                   |
-| Atayal    |  162                       | 266                          | 7501                   | 10 205                   | 18 134                   |
-| Paiwan    |  1941                      | 3145                         | 6683                   | 9093                     | 20 862                   |
-| Bunun     |  30                        | 47                           | 4864                   | 6617                     | 11 558                   |
-| Rukai     |  234                       | 380                          | 871                    | 1185                     | 2670                   |
-| Puyuma    |  1304                      | 2114                         | 10                     | 13                       | 3441                   |
-| Tsou      |  1                         | 2                            | 530                    | 721                      |                    |
-| Saisiyat  |  401                       | 650                          | 187                    | 254                      |                    |
-| Yami      |  1                         | 2                            | 382                    | 520                      |                    |
-| Thao      |  76                        | 123                          | 1                      | 1                        |                    |
-| Kavalan   |  156                       | 223                          | 0                      | 0                        |                    |
-| Truku     |  14                        | 22                           | 2711                   | 3688                     |                    |
-| Sakizaya  |  93                        | 151                          | 0                      | 0                        |                    |
+|              | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60| Total      |
+| :---:        | :---:                      | :---:                        | :---:                  | :---:                    |  :---:     |
+| Total        |  23 651                    | 38 323                       | 25 039                 | 34 067                   | 121 080    |
+| Amis         |  18 786                    | 30 439                       | 104                    | 141                      | 49 470     |
+| Atayal       |  162                       | 262                          | 7500                   | 10 205                   | 18 128     |
+| Paiwan       |  1941                      | 3145                         | 6683                   | 9093                     | 20 862     |
+| Bunun        |  29                        | 48                           | 4863                   | 6617                     | 11 558     |
+| Rukai        |  234                       | 379                          | 871                    | 1185                     | 2669       |
+| Puyuma       |  1304                      | 2114                         | 9                      | 13                       | 3440       |
+| Tsou         |  1                         | 2                            | 530                    | 721                      | 1255       |
+| Saisiyat     |  401                       | 650                          | 187                    | 254                      | 1492       |
+| Yami         |  1                         | 2                            | 382                    | 520                      | 905        |
+| Thao         |  76                        | 123                          | 0                      | 1                        | 200        |
+| Kavalan      |  138                       | 224                          | 0                      | 0                        | 362        |
+| Truku        |  14                        | 22                           | 2711                   | 3688                     | 6435       |
+| Sakizaya     |  93                        | 151                          | 0                      | 0                        | 245        |
+| Seediq       |  2                         |  4                           | 886                    | 1206                     | 2098       |
+| Saaroa       |  0                         |  0                           | 37                     | 51                       | 89         |
+| Kanakanavu   |  0                         |  0                           | 34                     | 47                       | 81         |
+| Not declared |  468                       |  758                         | 239                    | 325                      | 1791       |
+
+
+Final remarks
+====
+
+We have an answer to the question in this post. Overall, this means that less than 20% of the people of each ethnic group is dominant in their indigenous language.<br>
+But there are many things I need to warn (also to myself!). This is the most optimistic situation as this only corresponds to the highest numbers on the scale. I wouldn't be surprised if the actual numbers are only half of what I report here, or even lower for the most endangered languages.
+<br><br>
+The reason is just that there are many factors that aren't taken into account in this estimation:<br>
+- What does 'mountain' and 'non-mountain' areas mean? In particular, if 'non-mountain' areas cover very urban areas, such as Taipei city, New Taipei city, Taoyuan city or Kaohsiung city, then the situation is more than certainly worse! Unfortunately, the data weren't fine-grained enough in the reports we can find online.<br>
+- I used the notion of 'L1 dominance', but we all agree that this should be seen as a scale. We can be dominant in the same language, this doesn't mean that we are equally competent.<br>
+- Plus, it doesn't mean that the speakers are not compentent in a second language. The reality is that they are certainly bilingual, and interferences from the other language (mostly Mandarin Chinese or Taiwanese Southern Min, or even another Formosan language) can't be avoided.<br>
+<br>
+Overall, I believe that these numbers are helpful. We need a starting point. But they fail to reflect the dynamicity of these languages, and they erase individual differences and sociolinguistic phenomena we can observe on the field. So my take-home message is: <b><i>You can refer to this estimation, but with a lot, a lot, A LOT of caution!</i></b>
