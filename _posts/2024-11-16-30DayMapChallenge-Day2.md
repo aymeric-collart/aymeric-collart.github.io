@@ -11,8 +11,6 @@ tags:
 
 Day 2 of the <a href="https://bsky.app/hashtag/30DayMapChallenge" target = "_blank">#30DayMapChallenge</a>. I'm entering the preparatory phase: Figuring out what data are available to plot the maps. Since my main interest is about language, let's start with the crucial and orthodox question: What is the proportion of fluent speakers of indigenous languages in Taiwan?
 
-<b>To complete later</b>
-
 <!--more-->
 Anyone interested in Formosan languages knows that they are endangered. A quick chat with indigenous people or researchers will tell you that the most fluent speakers are the older ones. The question is to:<br>
 
@@ -148,6 +146,7 @@ This table only shows the population number by age group, but we know based on T
 | Kanakanavu   |  0                         |  0                           | 34                     | 47                       | 81         |
 | Not declared |  468                       |  758                         | 239                    | 325                      | 1791       |
 
+<br>
 
 Final remarks
 ====
@@ -159,5 +158,6 @@ The reason is just that there are many factors that aren't taken into account in
 - What does 'mountain' and 'non-mountain' areas mean? In particular, if 'non-mountain' areas cover very urban areas, such as Taipei city, New Taipei city, Taoyuan city or Kaohsiung city, then the situation is more than certainly worse! Unfortunately, the data weren't fine-grained enough in the reports we can find online.<br>
 - I used the notion of 'L1 dominance', but we all agree that this should be seen as a scale. We can be dominant in the same language, this doesn't mean that we are equally competent.<br>
 - Plus, it doesn't mean that the speakers are not compentent in a second language. The reality is that they are certainly bilingual, and interferences from the other language (mostly Mandarin Chinese or Taiwanese Southern Min, or even another Formosan language) can't be avoided.<br>
+- It's also possible that the number of responses from the survey of L1 dominance was not representative enough. If that's the case, I'm looking forward to the results of the on-going survey!<br>
 <br>
 Overall, I believe that these numbers are helpful. We need a starting point. But they fail to reflect the dynamicity of these languages, and they erase individual differences and sociolinguistic phenomena we can observe on the field. So my take-home message is: <b><i>You can refer to this estimation, but with a lot, a lot, A LOT of caution!</i></b>
