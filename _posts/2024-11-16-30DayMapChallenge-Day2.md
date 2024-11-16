@@ -67,7 +67,7 @@ First, we have the total population number for each ethnic group, and according 
 
 |              | Non-mountain areas| Mountain areas | 
 | :---:        | :---:             | :---:          | 
-| Total        |  283 595          |  324 349       | 
+| Total        |  277 951          |  308 843       | 
 | Amis         |  225 254          |  1341          |  
 | Atayal       |  1937             |  97 159        |  
 | Paiwan       |  23 272           |  86 573        | 
@@ -84,7 +84,7 @@ First, we have the total population number for each ethnic group, and according 
 
 Second, we have the table of the repartition of the population accordind to their age and whether they live in mountain areas. I just give the numbers of interest here:
 
-<i>Table 3. Population number and proportion based on the group of age (all ethnic groups aggregated)</i>
+<i>Table 3. Population number and proportion based on the group of age (all ethnic groups aggregated; the numbers don't align with Table 2 because they include invalid responses... but we can still make use of the coefficient to retrieve the right number in the end)</i>
 
 |                      | Non-mountain areas   | Mountain areas       | 
 | :---:                | :---:                | :---:                | 
@@ -99,8 +99,8 @@ What I can do now is just to assume (because I have no other choice so far) that
 
 |           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60|
 | :---:     | :---:                      | :---:                        | :---:                  | :---:                    | 
-| Total     |  36 612                    | 46 850                       | 38 760                 | 41 646                   |
-| Amis      |  29 980                    | 37 212                       | 160                    | 172                      |
+| Total     |  35 883                    | 45 918                       | 36 907                 | 39 655                   |
+| Amis      |  29 080                    | 37 212                       | 160                    | 172                      |
 | Atayal    |  250                       | 320                          | 11 611                 | 12 475                   |  
 | Paiwan    |  3004                      | 3845                         | 10 345                 | 11 116                   |
 | Bunun     |  46                        | 58                           | 7529                   | 8089                     |
@@ -120,7 +120,7 @@ This table only shows the population number by age group, but we know based on T
 
 |           | Non-mountain areas<br>51-60|Non-mountain areas<br>Above 60| Mountain areas<br>51-60|Mountain areas<br>Above 60| Total |
 | :---:     | :---:                      | :---:                        | :---:                  | :---:                    |  :---:                    |
-| Total     |  23 651                    | 38 323                       | 25 039                 | 34 066                   | 121 079                   |
+| Total     |  23 180                    | 37 561                       | 23 842                 | 32 438                   | 117 021                   |
 | Amis      |  19 367                    | 30 439                       | 103                    | 141                      | 50 050                   |
 | Atayal    |  162                       | 266                          | 7501                   | 10 205                   | 18 134                   |
 | Paiwan    |  1941                      | 3145                         | 6683                   | 9093                     | 20 862                   |
