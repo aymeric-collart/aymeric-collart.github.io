@@ -12,9 +12,9 @@ tags:
 Day 2 of the <a href="https://bsky.app/hashtag/30DayMapChallenge" target = "_blank">#30DayMapChallenge</a>. I'm entering the preparatory phase: Figuring out what data are available to plot the maps. Since my main interest is about language, let's start with the crucial and orthodox question: What is the proportion of fluent speakers of indigenous languages in Taiwan?
 
 <!--more-->
-Anyone interested in Formosan languages knows that they are endangered. A quick chat with indigenous people or researchers will tell you that the most fluent speakers are the older ones. The question is to:<br>
+Anyone interested in Formosan languages knows that they are endangered. A quick chat with indigenous people or researchers will tell you that the most fluent speakers are the older ones. The question is:<br>
 
-General question: What is the number of speakers by language?
+What is the number of speakers per language?
 ====
 
 This question is not easy to answer, for the only reason that it's hard to define what a 'fluent speaker' is. The ideal way to do so would be to rely on standardized tests and to have everyone taking them... but as always, ideal situations face the reality of life!
