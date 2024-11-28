@@ -93,8 +93,6 @@ for (i = 0; i < coll.length; i++) {
 
 ### Short bio
 
-This is a test to commit from RStudio.
-
 I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I am working on my own 2-year project entitled "Paving the way for 'field psycholinguistics' of Formosan languages: Case studies in Truku Seediq, Bunun and Tsou", with a grant from the Academia Sinica postdoctoral scholar program. 
 <br>
 Previously, I worked on another 2-year postdoctoral project (2022-2024), "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of '<i>you</i> (to have) + VP' in Taiwan Mandarin", where I examined this grammatical construction in the variety of Mandarin spoken in Taiwan using a wide range of techniques: corpus-driven observations, morphosyntactic/semantic/discursive analyses, behavioral methods (acceptability judgments, self-paced reading), neuroimaging methods (EEG/ERP).
