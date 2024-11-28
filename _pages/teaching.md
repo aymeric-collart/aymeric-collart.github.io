@@ -3,7 +3,11 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-This is where the courses I teach will be listed.
+
+# Tutorials
+
+You can have access to my tutorials byb clicking on the image.
+Most of them correspond to tutorials I designed in the past. I am progressively turning them into websites to make them freely available. Stay tuned for further developments!
 
 <style>
 
@@ -32,7 +36,7 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 49% 49%; 
+  grid-template-columns: 32% 32%; 
   grid-template-rows: auto auto; 
   gap: 15px; 
   grid-template-areas: 
@@ -62,6 +66,6 @@ div.desc {
     <a target="_blank" href="">
       <img src="./../images/Project1.png" width="250" height="250">
     </a>
-    <div class="desc"><b>Experimental linguistics taken online: Set-up and analyses</b></div>
+    <div class="desc"><b>Experimental linguistics taken online: Set-up and analyses (under conceptualization)</b></div>
   </div>
 </div>
