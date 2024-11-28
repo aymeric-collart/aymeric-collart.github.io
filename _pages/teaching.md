@@ -4,6 +4,8 @@ title: "Teaching"
 ---
 
 
+------
+
 # Tutorials
 
 You can have access to my tutorials byb clicking on the image.
@@ -36,9 +38,9 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 32% 32%; 
+  grid-template-columns: 25% 25%; 
   grid-template-rows: auto auto; 
-  gap: 15px; 
+  gap: 25px; 
   grid-template-areas: 
     "Tutorial1 Tutorial2"; 
   justify-content: center; 
@@ -63,7 +65,7 @@ div.desc {
 
 <div class="Project2">
   <div class="gallery">
-    <a target="_blank" href="">
+    <a target="" href="">
       <img src="./../images/Project1.png" width="250" height="250">
     </a>
     <div class="desc"><b>Experimental linguistics taken online: Set-up and analyses (under conceptualization)</b></div>
