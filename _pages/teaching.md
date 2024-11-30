@@ -29,6 +29,7 @@ div.gallery img {
 div.desc {
   padding: 12px;
   text-align: center;
+  float: right;
 }
 
 * {
