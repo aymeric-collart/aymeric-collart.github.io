@@ -15,7 +15,6 @@ Most of them correspond to tutorials I designed in the past. I am progressively 
 
 div.gallery {
   border: 1px solid #ccc;
-  float: left;
 }
 
 div.gallery:hover {
@@ -31,6 +30,7 @@ div.gallery img {
 div.desc {
   padding: 12px;
   text-align: center;
+  float: right;
 }
 
 * {
@@ -40,9 +40,9 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 25% 25%; 
+  grid-template-columns: 30% 30%; 
   grid-template-rows: auto auto; 
-  gap: 25px; 
+  gap: 45px; 
   grid-template-areas: 
     "Tutorial1 Tutorial2"; 
   justify-content: center; 
