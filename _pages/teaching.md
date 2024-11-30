@@ -15,6 +15,7 @@ Most of them correspond to tutorials I designed in the past. I am progressively 
 
 div.gallery {
   border: 1px solid #ccc;
+  float: left;
 }
 
 div.gallery:hover {
@@ -29,7 +30,6 @@ div.gallery img {
 div.desc {
   padding: 12px;
   text-align: center;
-  float: right;
 }
 
 * {
