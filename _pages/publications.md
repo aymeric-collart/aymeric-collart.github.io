@@ -50,7 +50,7 @@ author_profile: true
 <b>A decade of language processing research: Which place for linguistic diversity?</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Glossa Psycholinguistics</i>, 2024</div>
+  <div class="item3" style="padding-top:1px">In <i>Glossa Psycholinguistics</i>, 2024.</div>
   <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (2024). A decade of language processing research: Which place for linguistic diversity? <i>Glossa Psycholinguistics</i>, <i>3</i>(1). 1-37.</div>  
 </div>
 <br>
@@ -77,11 +77,11 @@ author_profile: true
   <div class="item1"><img align="left" width="150" height="150" src="./../images/Concentric_48_2.png" style="padding-right: 10px"/></div>
   <div class="item2">
   <a href="https://doi.org/10.1075/consl.21046.col" target="_blank">
-<b>Expressing the existence of an event with â€˜<i>you</i> (to have) + VPâ€™ in Taiwan Mandarin: A corpus-based investigation.</b>
+<b>Expressing the existence of an event with ?€?<i>you</i> (to have) + VP?€? in Taiwan Mandarin: A corpus-based investigation.</b>
 </a>
 </div>
   <div class="item3" style="padding-top:1px">In <i>Concentric: Studies in Linguistics</i>, 2022.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with â€˜you (to have) + VPâ€™ in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>*, & Su, H.-K. (2022). Expressing the existence of an event with ?€˜you (to have) + VP?€? in Taiwan Mandarin: A corpus-based investigation. <i>Concentric: Studies in Linguistics</i>, <i>48</i>(2), 249-284.</div>  
 </div>
 <br>
 
@@ -154,4 +154,4 @@ author_profile: true
 
 * <font size="3">Chan, S., <ins>Collart, A.</ins>, Chang, I., and Hu, S. (in preparation). <b>Linguistic relativity: Modulation of classifiers on object perception.</b> (Working title)</font>
 
-* <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). <b>Applying random forests analyses on emerging syntactic constructions: The case of â€˜you (to have) + VPâ€™ in Taiwan Mandarin.</b> (working title)</font>
+* <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). <b>Applying random forests analyses on emerging syntactic constructions: The case of ?€˜you (to have) + VP?€? in Taiwan Mandarin.</b> (working title)</font>
