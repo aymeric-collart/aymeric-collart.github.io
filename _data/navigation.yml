@@ -19,7 +19,10 @@ main:
     url: /cv/
     
   - title: "Resources"
-    url: /resources/
+    sublinks:
+    - title: "Language processing and diversity: Survey"
+    url: "https://aymeric-collart.shinyapps.io/shinyapps_langconfdata_dashboard/"
+    target: _blank
     
   - title: "Blog Posts"
     url: /blog-posts/
