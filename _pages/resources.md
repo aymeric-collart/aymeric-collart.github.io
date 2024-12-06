@@ -5,15 +5,15 @@ title: "Resources"
 
 <style>
 .item1 { grid-area: Image; }
-.item2 { grid-area: Article; }
-.item3 { grid-area: Venue; }
+.item2 { grid-area: Title; }
+.item3 { grid-area: Description; }
 .item4 { grid-area: Citation; }
 
 .grid-container {
   display: grid;
   grid-template-areas:
-    'Image Article'
-    'Image Venue'
+    'Image Title'
+    'Image Description'
     'Image Citation';
   grid-template-columns: 20% auto;
 }
@@ -29,7 +29,7 @@ title: "Resources"
 <!-- Database Linguistic Diversity -->
 <div class="grid-container">
   <div class="item1">
-    <img align="left" width="150" height="150" src="./../images/chart-line.png" style="padding-right: 10px"/>
+    <img align="left" width="150" height="150" src="./../images/chart-line.svg" style="padding-right: 10px"/>
   </div>
   <div class="item2">
   <p style="font-size:20px;"><strong>Diversity in language processing conferences: A survey <br></strong><a href = "https://aymeric-collart.shinyapps.io/shinyapps_langconfdata_dashboard/" target = "_blank">Link</a></p>
