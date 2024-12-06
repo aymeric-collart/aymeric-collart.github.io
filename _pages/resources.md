@@ -31,5 +31,6 @@ title: "Resources"
     <p style="font-size:20px;"><strong>Diversity in language processing conferences: A survey - </strong><a href = "https://aymeric-collart.shinyapps.io/shinyapps_langconfdata_dashboard/" target = "_blank">Link</a></p>
   </div>
   <div class="item3">
-    <p style="font-size:16px; color: #404040">This survey investigates the linguistic diversity in language processing conferences, from 2012 to 2024. This is the companion website including follow-up data of the article <a href = "https://doi.org/10.5070/G60111432" target = "_blank"><i>A decade of language processing research: Which place for linguistic diversity?</i></a>.</p>
+<p style="font-size:16px; color: #404040">This survey investigates the linguistic diversity in language processing conferences, from 2012 to 2024. This is the companion website including follow-up data of the article <a href = "https://doi.org/10.5070/G60111432" target = "_blank"><i>A decade of language processing research: Which place for linguistic diversity?</i></a>.</p>
+  </div>
 </div>
