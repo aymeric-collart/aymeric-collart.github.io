@@ -124,8 +124,8 @@ author_profile: true
 <b>Review of indigenous language teaching and beyond in Taiwan: The race against time.</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u>, Wu, J. J., & Huang, L. M. (2023). Review of indigenous language teaching and beyond in Taiwan: The race against time. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (Brill Reference Online), Leiden: Brill.</div>  
+  <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, 2024.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u>, Wu, J. J., & Huang, L. M. (2024). Review of indigenous language teaching and beyond in Taiwan: The race against time. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (Brill Reference Online), Leiden: Brill.</div>  
 </div>
 <br>
 
@@ -139,8 +139,8 @@ author_profile: true
 <b>Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing.</b>
 </a>
 </div>
-  <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, accepted.</div>
-  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u> (2023). Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (Brill Reference Online), Leiden: Brill.</div>  
+  <div class="item3" style="padding-top:1px">In <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i>, 2024.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.*</u> (2024). Experimental linguistics embracing linguistic diversity: On the contributions of Formosan languages to models of sentence processing. In P. Li, E. Zeitoun, & R. De Busser (Eds.), <i>Handbook of Formosan languages: The indigenous languages of Taiwan</i> (Brill Reference Online), Leiden: Brill.</div>  
 </div>
 <br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Manuscripts</b></p>
@@ -154,4 +154,4 @@ author_profile: true
 
 * <font size="3">Chan, S., <ins>Collart, A.</ins>, Chang, I., and Hu, S. (in preparation). <b>Linguistic relativity: Modulation of classifiers on object perception.</b> (Working title)</font>
 
-* <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). <b>Applying random forests analyses on emerging syntactic constructions: The case of ?€˜you (to have) + VP?€? in Taiwan Mandarin.</b> (working title)</font>
+* <font size="3">Su, H.-K., and <ins>Collart, A.</ins> (in preparation). <b>Applying random forests analyses on emerging syntactic constructions: The case of 'you (to have) + VP' in Taiwan Mandarin.</b> (working title)</font>
