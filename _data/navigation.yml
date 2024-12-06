@@ -19,10 +19,7 @@ main:
     url: /cv/
     
   - title: "Resources"
-    subcategories:
-    - subtitle: "Language processing and diversity: Survey"
-    subhref: "https://aymeric-collart.shinyapps.io/shinyapps_langconfdata_dashboard/"
-    #target: _blank
+    url: /resources/
     
   - title: "Blog Posts"
     url: /blog-posts/
