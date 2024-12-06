@@ -26,7 +26,7 @@ title: "Resources"
 
 <!-- Database Linguistic Diversity -->
 <div class="grid-container">
-  <div class="item1"><i class="fa-solid fa-chart-line fa-2xl" align="left" style="padding-right: 10px"></i>/div>
+  <div class="item1"><i class="fa-solid fa-chart-line fa-2xl" align="left" style="padding-right: 10px"></i></div>
   <div class="item2">
 <h2>Diversity in language processing conferences: A surver</h2>
 </div>
