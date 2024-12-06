@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /resources/
 title: "Resources"
 ---
