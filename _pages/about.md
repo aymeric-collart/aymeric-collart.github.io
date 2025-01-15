@@ -55,8 +55,9 @@ redirect_from:
 <body>
 <button class="collapsible"><b>News</b></button>
 <div class="content">
-<p><b>Important news!</b><br>We are organizing the "<i>The 2025 conference on the Mosaic of East Asian Language Processing:
-Exploring Taiwan's diversity and beyond</i>". More information on the website of the conference <a href="https://sites.google.com/view/mealp-2025/home" target="_blank">here</a>!
+<br>
+<p><b>Important news!</b><br>We are organizing the "<i>The 2025 conference on the Mosaic of East Asian Language Processing: Exploring Taiwan's diversity and beyond</i>". More information on the website of the conference <a href="https://sites.google.com/view/mealp-2025/home" target="_blank">here</a>!
+</p>
 <br>
 <p><b>2024/06/25</b><br>The manuscript entitled "A decade of language processing research: Which place for linguistic diversity?" is now available online in <i>Glossa Psycholinguistics</i> <a href="https://doi.org/10.5070/G60111432" target="_blank">here</a>!
 </p>
@@ -68,7 +69,7 @@ Exploring Taiwan's diversity and beyond</i>". More information on the website of
 <br>
 - <b>2025/05/07-09</b>: "<i>In the clouds and on the ground: Taiwan as a laboratory to expand the typological pool of psycholinguistic research</i>", oral presentation at the Linguistic data and language comparison in light of the ．quantitative turn・ and ．big data・ - a workshop and symposium, Bern, Switzerland
 <br>
-- <b>2025/05/12-14</b>: "<i>A tale of the lab and the field: An opportunity for Formosan language research</i>", oral presentation at the 5th World Congress of Taiwan Studies (Taiwan in a changing world: Past, present, and future), Taipei, Taiwan
+- <b>2025/05/21-23</b>: "<i>A tale of the lab and the field: An opportunity for Formosan language research</i>", oral presentation at the 5th World Congress of Taiwan Studies (Taiwan in a changing world: Past, present, and future), Taipei, Taiwan
 <br>
 </p>
 </div>
