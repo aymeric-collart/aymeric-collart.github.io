@@ -65,7 +65,7 @@ redirect_from:
 </p>
 <p><b>Upcoming presentation(s)</b></p>
 <p>
-- <b>2025/04/17-19</b>: "<i>．Computer or smartphone, as you please・: On the device effect in web-based acceptability judgment experiments</i>", poster presentation at the 5th International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-5), Tokyo, Japan
+- <b>2025/04/17-19</b>: "<i>'Computer or smartphone, as you please': On the device effect in web-based acceptability judgment experiments</i>", poster presentation at the 5th International Conference on Theoretical East Asian Psycholinguistics (ICTEAP-5), Tokyo, Japan
 <br>
 - <b>2025/05/07-09</b>: "<i>In the clouds and on the ground: Taiwan as a laboratory to expand the typological pool of psycholinguistic research</i>", oral presentation at the Linguistic data and language comparison in light of the ．quantitative turn・ and ．big data・ - a workshop and symposium, Bern, Switzerland
 <br>
