@@ -8,7 +8,7 @@ title: "Teaching"
 
 # Tutorials
 
-You can have access to my tutorials byb clicking on the image.
+You can have access to my tutorials by clicking on the image.
 Most of them correspond to tutorials I designed in the past. I am progressively turning them into websites to make them freely available. Stay tuned for further developments!
 
 <style>
