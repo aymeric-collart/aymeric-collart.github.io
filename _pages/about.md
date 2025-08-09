@@ -7,7 +7,8 @@ redirect_from:
 - /about/
 - /about.html
 ---
-
+<br>
+<i>Update of the website in progress</i>
 <br>
 <style>
 .collapsible {
@@ -194,4 +195,4 @@ align-items: stretch;
 </div>
 
 <br>
-<font size="1">Last update: 2025/01/15</font>
+<font size="1">Last update: 2025/08/09</font>
