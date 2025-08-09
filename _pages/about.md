@@ -100,15 +100,15 @@ content.style.maxHeight = content.scrollHeight + "px";
 
 ### Short bio
 
-I am currently a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I am working on my own 2-year project entitled "Paving the way for 'field psycholinguistics' of Formosan languages: Case studies in Truku Seediq, Bunun and Tsou", with a grant from the Academia Sinica postdoctoral scholar program. 
+I am an assistant professor at the Department of Chinese of National Taiwan Normal University, focusing on corpus and experimental explorations of language in general and grammar in particular.
 <br>
-Previously, I worked on another 2-year postdoctoral project (2022-2024), "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of '<i>you</i> (to have) + VP' in Taiwan Mandarin", where I examined this grammatical construction in the variety of Mandarin spoken in Taiwan using a wide range of techniques: corpus-driven observations, morphosyntactic/semantic/discursive analyses, behavioral methods (acceptability judgments, self-paced reading), neuroimaging methods (EEG/ERP).
+Previously, I was a postdoctoral researcher at the Institute of Linguistics of Academia Sinica, Taiwan. I worked on two individual projects: (1) "On the expression of temporal reference with modal information from a morphosyntactic and psycho-/neuro-linguistic perspective: The case of '<i>you</i> (to have) + VP' in Taiwan Mandarin" (2022-2024), and (2) "Paving the way for 'field psycholinguistics' of Formosan languages: Case studies in Truku Seediq, Bunun and Tsou" (2024-2025), with a grant from the Academia Sinica postdoctoral scholar program. 
 <br>
-I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track) in June 2022. During my PhD studies, I was also the manager of the <a href="https://sites.google.com/view/neurolinguisticslabntnu" target="_blank">Neurolinguistics Lab</a> of National Taiwan Normal University, where I supervized behavioral, ERP and fMRI experiments about a great variety of language-related topics, such as language relativity, classifier processing or conceptual categorization.
+Before that, I graduated from the PhD program of the department of English of National Taiwan Normal University (Linguistic track) in June 2022. During my PhD studies, I was also the manager of the <a href="https://sites.google.com/view/neurolinguisticslabntnu" target="_blank">Neurolinguistics Lab</a> of National Taiwan Normal University, where I supervized behavioral, ERP and fMRI experiments about a great variety of language-related topics, such as language relativity, classifier processing or conceptual categorization.
 
 ### Research interests
 
-My research interests combine two disciplines: linguistics and cognitive science (including language processing). My main area of research can be summarized as follows:
+My main research interests combine two disciplines: linguistics and cognitive science (including language processing). My main area of research can be summarized as follows:
 <br>
 <center>
 <img src="https://aymeric-collart.github.io/images/GeneralResearch.jpg" alt="drawing" width="75%"/>
