@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 <br>
