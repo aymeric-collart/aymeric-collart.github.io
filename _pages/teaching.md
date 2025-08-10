@@ -35,9 +35,9 @@ div.desc {
 
 .container {
   display: grid; 
-  grid-auto-rows: 1fr; 
+  grid-auto-rows: 1fr 1fr 1fr; 
   grid-template-columns: auto; 
-  grid-template-rows: auto auto auto; 
+  grid-template-rows: auto; 
   gap: 45px; 
   grid-template-areas: 
     "Course1
