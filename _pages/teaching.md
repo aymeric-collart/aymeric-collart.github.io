@@ -6,10 +6,7 @@ title: "Teaching"
 
 ------
 
-# Tutorials
-
-You can have access to my tutorials by clicking on the image.
-Most of them correspond to tutorials I designed in the past. I am progressively turning them into websites to make them freely available. Stay tuned for further developments!
+## Academic year 2025-2026, Fall semester (undergraduate courses)
 
 <style>
 
@@ -39,8 +36,8 @@ div.desc {
 .container {
   display: grid; 
   grid-auto-rows: 1fr; 
-  grid-template-columns: 30% 30%; 
-  grid-template-rows: auto auto; 
+  grid-template-columns: auto; 
+  grid-template-rows: auto auto auto; 
   gap: 45px; 
   grid-template-areas: 
     "Course1
@@ -52,8 +49,6 @@ div.desc {
 }
 
 </style>
-
-## Academic year 2025-2026, Fall semester (undergraduate courses)
 
 <div class="container">
 <div class="Course1">
@@ -68,8 +63,8 @@ div.desc {
 
 <div class="Course2">
   <div class="gallery">
-    <a target="" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52328">
-      <img src="./../images/Project1.png" width="250" height="250">
+    <a target="_blank" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52328">
+      <img src="./../images/Project3.png" width="250" height="250">
     </a>
     <div class="desc"><b>CHU0386 - Language, Culture and Cognition (only Moodle)</b></div>
   </div>
@@ -77,8 +72,8 @@ div.desc {
 
 <div class="Course3">
   <div class="gallery">
-    <a target="" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52327">
-      <img src="./../images/Project1.png" width="250" height="250">
+    <a target="_blank" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52327">
+      <img src="./../images/Project3.png" width="250" height="250">
     </a>
     <div class="desc"><b>CHU0385 - First Approach to Linguistics (only Moodle)</b></div>
   </div>
