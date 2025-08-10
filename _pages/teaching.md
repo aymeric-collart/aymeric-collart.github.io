@@ -6,8 +6,6 @@ title: "Teaching"
 
 ------
 
-## Academic year 2025-2026, Fall semester (undergraduate courses)
-
 <style>
 
 div.gallery {
@@ -80,8 +78,8 @@ padding: 0 18px;
 max-height: 0;
 overflow: hidden;
 transition: max-height 0.4s ease-out;
-background-color: #eeeeee;
-color: #e06666;
+background-color: #ffffff;
+color: #000000;
 border-left: solid #777 4px;
 border-radius: 4px;
 font-size: 18px;
@@ -89,9 +87,12 @@ font-size: 18px;
 
 </style>
 
+## Academic year 2025-2026
+
 <body>
-<button class="collapsible"><b>Courses offered</b></button>
+<button class="collapsible"><b>Fall semester</b></button>
 <div class="content">
+<br>
 
 <div class="container">
 <div class="Course1">
@@ -121,6 +122,7 @@ font-size: 18px;
     <div class="desc"><b>CHU0385 - First Approach to Linguistics (only Moodle)</b></div>
   </div>
 </div>
+</body>
 </div>
 
 <script>
@@ -139,4 +141,3 @@ content.style.maxHeight = content.scrollHeight + "px";
 });
 }
 </script>
-</body>
