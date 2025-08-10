@@ -124,7 +124,6 @@ font-size: 18px;
     <div class="desc"><b>CHU0385 - First Approach to Linguistics (Moodle only)</b></div>
   </div>
 </div>
-</body>
 </div>
 
 <script>
