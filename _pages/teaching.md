@@ -89,9 +89,10 @@ font-size: 18px;
 
 </style>
 
-<button class="collapsible"><b>Courses offered</b></button>
-
 <body>
+<button class="collapsible"><b>Courses offered</b></button>
+<div class="content">
+
 <div class="container">
 <div class="Course1">
   <div class="gallery">
@@ -119,6 +120,7 @@ font-size: 18px;
     </a>
     <div class="desc"><b>CHU0385 - First Approach to Linguistics (only Moodle)</b></div>
   </div>
+</div>
 </div>
 
 <script>
