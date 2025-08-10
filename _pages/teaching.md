@@ -40,16 +40,58 @@ div.desc {
   grid-template-rows: auto; 
   gap: 45px; 
   grid-template-areas: 
-    "Course1"
-    "Course2"
-    "Course3"; 
+    "Course1 Course2 Course3"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
 }
 
+.collapsible {
+background-color: #777;
+color: white;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+border: none;
+text-align: left;
+outline: none;
+border-radius: 4px;
+font-size: 22px;
+}
+
+.active, .collapsible:hover {
+background-color: #555;
+}
+
+.collapsible:after {
+content: '\002B';
+color: white;
+font-weight: bold;
+float: right;
+margin-left: 5px;
+}
+
+.active:after {
+content: "\2212";
+}
+
+.content {
+padding: 0 18px;
+max-height: 0;
+overflow: hidden;
+transition: max-height 0.4s ease-out;
+background-color: #eeeeee;
+color: #e06666;
+border-left: solid #777 4px;
+border-radius: 4px;
+font-size: 18px;
+}
+
 </style>
 
+<button class="collapsible"><b>Courses offered</b></button>
+
+<body>
 <div class="container">
 <div class="Course1">
   <div class="gallery">
@@ -78,3 +120,21 @@ div.desc {
     <div class="desc"><b>CHU0385 - First Approach to Linguistics (only Moodle)</b></div>
   </div>
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+coll[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var content = this.nextElementSibling;
+if (content.style.maxHeight){
+content.style.maxHeight = null;
+} else {
+content.style.maxHeight = content.scrollHeight + "px";
+} 
+});
+}
+</script>
+</body>
