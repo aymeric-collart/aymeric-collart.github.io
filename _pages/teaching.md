@@ -43,7 +43,9 @@ div.desc {
   grid-template-rows: auto auto; 
   gap: 45px; 
   grid-template-areas: 
-    "Tutorial1 Tutorial2"; 
+    "Course1
+    Course2
+    Course3"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
@@ -51,24 +53,33 @@ div.desc {
 
 </style>
 
-
+## Academic year 2025-2026, Fall semester (undergraduate courses)
 
 <div class="container">
-<div class="Tutorial1">
+<div class="Course1">
   <div class="gallery">
-    <a target="_blank" href="https://aymeric-collart.github.io/formosan-corpus-r/">
+    <a target="_blank" href="https://aymeric-collart.github.io/CHU0387">
       <img src="./../images/Project3.png" width="200" height="200">
     </a>
     <div class="desc">
-<b>Formosan languages and corpus based-studies: Hands-on practice with R/RStudio (under construction)</b></div>
+<b>CHU0387 - Language, Society and Literature with Corpus and Modern Technology</b></div>
   </div>
 </div>
 
-<div class="Project2">
+<div class="Course2">
   <div class="gallery">
-    <a target="" href="">
+    <a target="" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52328">
       <img src="./../images/Project1.png" width="250" height="250">
     </a>
-    <div class="desc"><b>Experimental linguistics taken online: Set-up and analyses (under conceptualization)</b></div>
+    <div class="desc"><b>CHU0386 - Language, Culture and Cognition (only Moodle)</b></div>
+  </div>
+</div>
+
+<div class="Course3">
+  <div class="gallery">
+    <a target="" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52327">
+      <img src="./../images/Project1.png" width="250" height="250">
+    </a>
+    <div class="desc"><b>CHU0385 - First Approach to Linguistics (only Moodle)</b></div>
   </div>
 </div>
