@@ -40,9 +40,9 @@ div.desc {
   grid-template-rows: auto; 
   gap: 45px; 
   grid-template-areas: 
-    "Course1
-    Course2
-    Course3"; 
+    "Course1"
+    "Course2"
+    "Course3"; 
   justify-content: center; 
   justify-items: stretch; 
   align-items: stretch; 
