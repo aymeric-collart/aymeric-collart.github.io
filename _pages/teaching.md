@@ -79,13 +79,15 @@ max-height: 0;
 overflow: hidden;
 transition: max-height 0.4s ease-out;
 background-color: #ffffff;
-color: #000000;
+color: #555555;
 border-left: solid #777 4px;
 border-radius: 4px;
 font-size: 18px;
 }
 
 </style>
+
+<i>Please click on the image to have access to the course website and description.</i>
 
 ## Academic year 2025-2026
 
@@ -110,7 +112,7 @@ font-size: 18px;
     <a target="_blank" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52328">
       <img src="./../images/Project3.png" width="250" height="250">
     </a>
-    <div class="desc"><b>CHU0386 - Language, Culture and Cognition (only Moodle)</b></div>
+    <div class="desc"><b>CHU0386 - Language, Culture and Cognition (Moodle only)</b></div>
   </div>
 </div>
 
@@ -119,7 +121,7 @@ font-size: 18px;
     <a target="_blank" href="https://moodle3.ntnu.edu.tw/course/view.php?id=52327">
       <img src="./../images/Project3.png" width="250" height="250">
     </a>
-    <div class="desc"><b>CHU0385 - First Approach to Linguistics (only Moodle)</b></div>
+    <div class="desc"><b>CHU0385 - First Approach to Linguistics (Moodle only)</b></div>
   </div>
 </div>
 </body>
