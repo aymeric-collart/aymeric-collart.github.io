@@ -27,6 +27,21 @@ author_profile: true
 <br>
 <p style="background-color:#eeeeee; color: #404040; border-left: solid #bcbcbc 4px; border-radius: 4px; padding:0.7em; font-size:20px"><b> &nbsp;&nbsp;Peer-reviewed articles</b></p>
 
+<!-- Article 7 -->
+<div class="grid-container">
+  <div class="item1"><img align="left" width="150" height="150" src="./../images/JOPR_2026.png" style="padding-right: 10px"/></div>
+  <div class="item2">
+  <a href="" target="_blank">
+<b>Mind your language and your cue when judging the past: A psycholinguistic model of temporal concord.</b>
+</a>
+</div>
+  <div class="item3" style="padding-top:1px">In <i>Journal of Psycholinguistic Research</i>, Accepted.</div>
+  <div class="item4" style="font-size:16px"><i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;<u>Collart, A.</u>* (Accepted). Mind your language and your cue when judging the past: A psycholinguistic model of temporal concord. <i>Journal of Psycholinguistic Research</i>.</div>  
+</div>
+<br>
+
+---
+
 <!-- Article 6 -->
 <div class="grid-container">
   <div class="item1"><img align="left" width="150" height="150" src="./../images/JOPR2.png" style="padding-right: 10px"/></div>

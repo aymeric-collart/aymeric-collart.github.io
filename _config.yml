@@ -188,6 +188,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

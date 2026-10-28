@@ -99,6 +99,79 @@ content.style.maxHeight = content.scrollHeight + "px";
 
 <br>
 
+<style>
+.news-container {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin: 1.5em 0;
+}
+
+.news-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 16px 20px;
+  background-color: #ffffff;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  text-decoration: none !important;
+  display: block;
+}
+
+.news-card:hover {
+  border-color: #0366d6;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.news-title {
+  font-size: 1.15em;
+  font-weight: 600;
+  color: #0366d6;
+  margin: 0 0 6px 0;
+}
+
+.news-badge {
+  display: inline-block;
+  background-color: #f1f8ff;
+  color: #0366d6;
+  border: 1px solid #c8e1ff;
+  border-radius: 12px;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 2px 8px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.news-excerpt {
+  font-size: 0.95em;
+  color: #444;
+  margin: 4px 0 10px 0;
+  line-height: 1.5;
+}
+
+.news-date {
+  font-size: 0.85em;
+  color: #6a737d;
+}
+</style>
+
+### News & Updates
+
+<div class="news-container">
+{% assign sorted_news = site.news | sort: 'date' | reverse %}
+{% for item in sorted_news limit:3 %}
+<a href="{{ item.url | relative_url }}" class="news-card">
+  <div class="news-title">{{ item.title }}</div>
+  {% if item.type %}
+  <span class="news-badge">{{ item.type }}</span>
+  {% endif %}
+  <div class="news-excerpt">{{ item.content | strip_html | truncate: 140 }}</div>
+  <div class="news-date">{{ item.date | date: "%b %d, %Y" }}</div>
+</a>
+{% endfor %}
+</div>
+
+
 ### Short bio
 
 I am an assistant professor at the Department of Chinese of National Taiwan Normal University, focusing on corpus and experimental explorations of language in general and grammar in particular.
